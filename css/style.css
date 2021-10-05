@@ -39,8 +39,8 @@ a {
 */
 
 .footer {
-	/* background-color: #192b43; */
-	background-image: linear-gradient(#192b43, #405099);
+	background-color: #192b43;
+	box-shadow: 0 50vh 0 50vh #192b43;
 	color: #d2d2ff;
 	fill: #d2d2ff; 
 	font-size: 0.8rem;
@@ -114,7 +114,8 @@ a {
 
 
 header {
-	background-color: #192b43;
+	background-image: linear-gradient(#192b43, #405099);
+	/* background-color: #192b43; */
 	margin-bottom: 8rem;
 }
 
