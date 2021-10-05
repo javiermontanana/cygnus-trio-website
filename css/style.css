@@ -42,7 +42,8 @@ a {
 
 .footer {
 	background-color: #192b43;
-	color: #d2c5ff;;
+	color: #d2d2ff;
+	fill: #d2d2ff; 
 	font-size: 0.8rem;
 	font-weight: 200;
 	letter-spacing: 1.4px;
@@ -64,11 +65,14 @@ a {
 }
 
 
-
+.sm-button {
+	fill: inherit;
+}
 
 .footer__sm-links__buttons {
 	display: flex;
 	flex-direction: row;
+	justify-content: space-evenly;
 }
 
 .footer__sm-links__button {
@@ -84,7 +88,7 @@ a {
 	letter-spacing: inherit;
 }
 
-.footer__nav a:hover {
+.footer a:hover {
 	opacity: 0.75;
 }
 
@@ -237,6 +241,10 @@ N E W    H O M E
 	line-height: 1.4;
 }
 
+.widget__calendar__more-info {
+	text-align: right;
+	margin-bottom: 0.5em;
+}
 
 .widget-video__title {
 	font-size: 1.6rem;

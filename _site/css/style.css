@@ -1,0 +1,526 @@
+/*pushed comment*/
+
+
+* {
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	font-family: 'helvetica', sans-serif;
+	font-size: 16px;
+	background-color: #d5d5ff;
+	/* line-height: 2em;
+	padding-bottom: 5rem; */
+}
+
+p, h1, h2, h3, h4, h5, h6, ul, ol, li, figure {
+	margin: 0;
+}
+
+img {
+	max-width: 100%;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #2828e6;
+}
+
+.container{
+	width: 90%;
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+/*
+######################################
+   F   O   O   T   E   R  
+######################################
+*/
+
+.footer {
+	background-color: #192b43;
+	color: #d2d2ff;
+	fill: #d2d2ff; 
+	font-size: 0.8rem;
+	font-weight: 200;
+	letter-spacing: 1.4px;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+	margin-top: 8rem;
+}
+
+.footer__flexbox {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+
+.footer__nav {
+	display: flex;
+	flex-direction: column;
+}
+
+
+.sm-button {
+	fill: inherit;
+}
+
+.footer__sm-links__buttons {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+
+.footer__sm-links__button {
+	width: 25px;
+}
+
+.footer__sm-links__title,
+.footer__nav a {
+	color: inherit;
+	font-weight: inherit;
+	font-size: inherit;
+	margin-bottom: 0.5em;
+	letter-spacing: inherit;
+}
+
+.footer a:hover {
+	opacity: 0.75;
+}
+
+
+
+
+
+/*//...............................................................
+//.HHH.....HHH............................ddd....................
+//.HHH.....HHH............................ddd....................
+//.HHH.....HHH............................ddd....................
+//.HHH.....HHH...eeeee.....aaaaaa....dddddddd...eeeee....errrrr..
+//.HHH.....HHH..eeeeeeee..eaaaaaaa..adddddddd..deeeeeee..errrrr..
+//.HHHHHHHHHHH..eee..eee..eaa..aaa..addd.dddd..dee..eee..errr....
+//.HHHHHHHHHHH.Heee..eee.....aaaaa.aadd...ddd.ddee..eee..err.....
+//.HHHHHHHHHHH.Heeeeeeeee.eaaaaaaa.aadd...ddd.ddeeeeeeee.err.....
+//.HHH.....HHH.Heeeeeeeeeeeaaa.aaa.aadd...ddd.ddeeeeeeee.err.....
+//.HHH.....HHH.Heee......eeaa..aaa.aadd...ddd.ddee.......err.....
+//.HHH.....HHH..eee..eee.eeaa.aaaa..addd.dddd..dee..eee..err.....
+//.HHH.....HHH..eeeeeeee.eeaaaaaaa..adddddddd..deeeeeee..err.....
+//.HHH.....HHH...eeeeee...eaaaaaaaa..dddddddd...eeeeee...err.....
+//...............................................................
+*/
+
+
+header {
+	background-color: #192b43;
+	margin-bottom: 8rem;
+}
+
+.logo {
+	padding: 0.7em 0;
+	text-align: center;
+	font-size: 4rem;
+}
+
+.header__nav {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font-size: 1rem;
+}
+
+/*logo text used to be an <a>*/
+.logo a,
+.header__nav a {
+	color: white;
+	text-decoration: none;
+}
+
+.header__nav a {
+	display: inline-block;
+	font-family: sans-serif;
+	font-size: 1.1rem;
+	font-weight: 600;
+	letter-spacing: 0.25em;
+	text-transform: uppercase;
+	margin-bottom: 0.8em;
+	padding-top: 2px;
+	padding-bottom: 0.2em;
+/*	border-radius: 0.5em;
+	padding: 1em 0em;*/
+}
+
+.header__nav a:hover,
+.header__nav a:focus {
+	border-bottom: 2px solid #ccc;
+	padding-top: 0;
+}
+
+
+/*Home======================================================================================================================*/
+
+
+
+.home-wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin:  0 -1rem;
+}
+
+.members-list {
+	list-style: none;
+	padding: 0;
+	margin: 0 2rem;
+	margin-bottom: 3rem;
+	text-align: center;
+	font-size: 1.5rem;
+	font-weight: 700;
+	flex-basis: 120%;
+}
+
+.members-list li {
+	margin-bottom: 0.6em;
+}
+
+.home-image {
+	margin: 0 1rem;
+	flex-basis: 260%;
+}
+
+/*---------------------------
+N E W    H O M E   
+------------------------*/
+
+
+
+
+/*obsolete
+.left-column {
+	flex-basis: 120%;
+	margin: 2rem;
+}*/
+
+.widget-video {
+	margin: 0 1rem;
+	margin-bottom: 2rem;
+	flex-basis: 80%;
+	flex-shrink: 1;
+}
+
+.widget-calendar {
+	width: auto;
+	flex-shrink: 0;
+	margin: 0 1rem;
+	margin-bottom: 2rem;
+	background-color: #bad5f0;
+	padding: 3.5rem 0.7rem;
+	border-radius: 1rem;
+}
+
+.widget-calendar__title {
+	font-size: 0.9rem;
+	font-weight: 800;
+	text-transform: uppercase;
+	letter-spacing: 0.8px;
+	margin-bottom: 0.3em;
+}
+
+.widget-calendar__concert-title {
+	font-size: 1.4rem;
+	font-weight: 700;
+	margin-bottom: 1em;
+}
+
+.widget-calendar__concert-body {
+	font-size: 1.1rem;
+	margin-bottom: 1em;
+	line-height: 1.4;
+}
+
+.widget__calendar__more-info {
+	text-align: right;
+	margin-bottom: 0.5em;
+}
+
+.widget-video__title {
+	font-size: 1.6rem;
+	margin-bottom: 0.5em;
+}
+
+.video-embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/*---------------------------------------------
+	V 	I 	D 	E 	O 	S 
+----------------------------------------------*/
+
+.video__figure {
+	padding-top: 56.52%;
+	position: relative;
+}
+
+.video {
+	margin-bottom: 10%;
+}
+
+
+/*----------------------------------------------*/
+
+/*flex-row is not a good name*/
+.flex-row {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	padding: 0;
+	margin-bottom: 4rem;
+}
+
+
+.widget-buttons {
+	margin: 0 1em;
+	width: 107px;
+	flex-shrink: 0;
+	flex-grow: 0;
+}
+
+.widget-buttons__title {
+	font-size: 0.9rem;
+	font-weight: 800;
+	text-transform: uppercase;
+	letter-spacing: 0.8px;
+	margin-bottom: 0.3em;	
+}
+
+.widget-buttons__buttons {
+	display: flex;
+	justify-content: space-between;
+}
+
+
+.widget-buttons__instagram,
+.widget-buttons__youtube {
+	width: 45%;
+}
+
+
+
+/* 
+##########################################
+##########################################
+
+ABOUT
+
+##########################################
+##########################################
+*/
+
+.trio-biography {
+	line-height: 1.8;
+	margin-bottom: 1em;
+	max-width: 75ch;
+}
+
+
+
+/* 
+##########################################
+##########################################
+
+C  O  N  T  A  C  T  
+
+##########################################
+##########################################
+*/
+
+.contact__body {
+	line-height: 1.4em;
+	margin-bottom: 1.4em;
+}
+
+.emails-list {
+	list-style: none;
+	padding-left: 1.7em;
+}
+
+.emails-list li {
+	line-height: 1.4em;
+	margin-bottom: 1em;
+}
+
+
+
+/*
+//........................................................................................
+//.MMMMMM......MMMMMM....................AAAAA.............. IIII.........NNNNN.....NNNN..
+//.MMMMMMM.....MMMMMM...................AAAAAAA............. IIII.........NNNNN.....NNNN..
+//.MMMMMMM....MMMMMMM...................AAAAAAA............. IIII.........NNNNNN....NNNN..
+//.MMMMMMM....MMMMMMM...................AAAAAAA............. IIII.........NNNNNNN...NNNN..
+//.MMMMMMM....MMMMMMM..................AAAAAAAAA............ IIII.........NNNNNNN...NNNN..
+//.MMMMMMMM..MMMMMMMM..................AAAA.AAAA............ IIII.........NNNNNNNN..NNNN..
+//.MMMMMMMM..MMMMMMMM..................AAAA.AAAAA........... IIII.........NNNNNNNN..NNNN..
+//.MMMMMMMM..MMM.MMMM.................AAAAA.AAAAA........... IIII.........NNNNNNNNN.NNNN..
+//.MMMMMMMMM.MMM.MMMM.................AAAA...AAAA........... IIII.........NNNN.NNNNNNNNN..
+//.MMMMMMMMMMMMM.MMMM.................AAAA...AAAAA.......... IIII.........NNNN.NNNNNNNNN..
+//.MMMMMMMMMMMMM.MMMM................AAAAAAAAAAAAA.......... IIII.........NNNN..NNNNNNNN..
+//.MMMM..MMMMMMM.MMMM................AAAAAAAAAAAAA.......... IIII.........NNNN..NNNNNNNN..
+//.MMMM..MMMMMM..MMMM................AAAAAAAAAAAAAA......... IIII.........NNNN...NNNNNNN..
+//.MMMM..MMMMMM..MMMM............... AAAAAAAAAAAAAA......... IIII.........NNNN....NNNNNN..
+//.MMMM..MMMMMM..MMMM............... AAA.......AAAAA........ IIII.........NNNN....NNNNNN..
+//.MMMM...MMMMM..MMMM.............. AAA.......AAAAA........ IIII.........NNNN.....NNNNN..
+//.MMMM...MMMM...MMMM.............. AAA........AAAA........ IIII.........NNNN.....NNNNN..
+//.MMMM...MMMM...MMMM.............. AA.........AAAAA....... IIII.........NNNN......NNNN..
+//........................................................................................*/
+
+
+
+h1{
+	font-size: 2rem;
+	font-weight: 300;
+	margin-top: 0.5em;
+	margin-bottom: 0.75em ;
+}
+
+
+
+/*
+//.....................................................................................................
+//...................................................................................t.................
+//.................................................................................ttt.................
+//................................................................................tttt.................
+//................................................................................tttt.................
+//....cccccc........ooooo......onnn.nnnnn........cccccc.......eeeee......rrrrrrrrrttttttt...ssssss.....
+//...cccccccc.....ooooooooo....onnnnnnnnnnn....ccccccccc....eeeeeeeee....rrrrrrrrrttttttt.ssssssssss...
+//..cccccccccc...ooooooooooo...onnnnnnnnnnn...ccccccccccc..ceeeeeeeeee...rrrrrrrrrttttttt.ssssssssss...
+//.cccccccccccc..oooooooooooo..onnnnnnnnnnn...ccccccccccc..ceeeeeeeeee...rrrrrrrrrttttttttsss...sssss..
+//.ccccc..ccccc.coooo...ooooo..onnnn...nnnn...cccc...ccccc.ceee...eeeee..rrrrr....tttt...tsssss..ssss..
+//.cccc....cc...cooo.....oooo..onnnn...nnnn..ncccc...ccc..cceeeeeeeeeee..rrrr.....tttt...tsssssssss....
+//.cccc.........cooo.....oooo..onnn....nnnn..nccc.........cceeeeeeeeeee..rrrr.....tttt....ssssssssss...
+//.cccc.........cooo.....oooo..onnn....nnnn..nccc.........cceeeeeeeeeee..rrrr.....tttt.....ssssssssss..
+//.cccc....cc...cooo.....oooo..onnn....nnnn..ncccc....cc..cceee..........rrrr.....tttt.......ssssssss..
+//.ccccc..ccccc.coooo...ooooo..onnn....nnnn...cccc...ccccc.ceee...eeee...rrrr.....tttt...tsss....ssss..
+//.cccccccccccc..oooooooooooo..onnn....nnnn...cccccccccccc.ceeeeeeeeee...rrrr.....ttttttttssss...ssss..
+//..cccccccccc...ooooooooooo...onnn....nnnn...ccccccccccc..ceeeeeeeeee...rrrr.....ttttttt.sssssssssss..
+//...ccccccccc....ooooooooo....onnn....nnnn....ccccccccc....eeeeeeeee....rrrr......tttttt..sssssssss...
+//....cccccc........ooooo......onnn....nnnn......cccccc.......eeeee......rrrr.......ttttt...ssssss.....
+//.....................................................................................................
+*/
+
+
+.concert {
+	margin-bottom: 2.5rem;
+}
+
+.concert__title {
+	font-size: 2rem;
+	margin-bottom: 1em;
+}
+
+/*margin from text both in row and col directions*/
+.concert__img {
+	margin-right: 2rem;
+	margin-bottom: 1rem;
+	width: 100%;
+	flex-shrink: 1.4;
+}
+
+.concert__text {
+	width: 100%;
+	flex-shrink: 1;
+	line-height: 1.5;
+}
+
+.concert__body {
+	display:  flex;
+	flex-direction: column;
+}
+
+.concert__date-time {
+	font-size: 1.3rem;
+	font-weight: bold;
+	margin-bottom: 1em;
+}
+
+.concert__venue {
+	font-weight: bold;
+
+}
+
+.concert__venue-address {
+	margin-bottom: 1em;
+}
+
+.concert__programme__heading {
+	font-size: 1rem;
+	font-weight: 600;
+}
+
+.concert__programme__list {
+	list-style: none;
+	margin-bottom: 1em;
+}
+
+/*for concert programmes and members-list*/
+.indent-wrapped {
+    padding-left: 0.5em;
+    text-indent: -0.5em;
+}
+
+
+
+/*
+//.......................................................................
+//............................................dddd...iiii................
+//............................................dddd...iiii................
+//............................................dddd...iiii................
+//............................................dddd...iiii................
+//.mmmm.mmmm....mmmm.......eeeee.........dddd.dddd...iiii.....aaaaaa.....
+//.mmmmmmmmmmmmmmmmmm.....eeeeeeee.....ddddddddddd...iiii...aaaaaaaaa....
+//.mmmmmmmmmmmmmmmmmmm...eeeeeeeeee...dddddddddddd...iiii..iaaaaaaaaaa...
+//.mmmmmmmmmmmmmmmmmmm..meeeeeeeeee...dddddddddddd...iiii..iaaa..aaaaa...
+//.mmmmm..mmmmm...mmmm..meee...eeeee..dddd...ddddd...iiii..iaaa...aaaa...
+//.mmmm...mmmmm...mmmm..meeeeeeeeeee.edddd....dddd...iiii.......aaaaaa...
+//.mmmm...mmmmm...mmmm..meeeeeeeeeee.eddd.....dddd...iiii...aaaaaaaaaa...
+//.mmmm...mmmmm...mmmm..meeeeeeeeeee.edddd....dddd...iiii..iaaaaaaaaaa...
+//.mmmm...mmmmm...mmmm..meee.........edddd....dddd...iiii..iaaaaa.aaaa...
+//.mmmm...mmmmm...mmmm..meeee..eeeee..dddd...ddddd...iiii.iiaaa...aaaa...
+//.mmmm...mmmmm...mmmm..meeeeeeeeeee..dddddddddddd...iiii.iiaaa..aaaaa...
+//.mmmm...mmmmm...mmmm...eeeeeeeeee...dddddddddddd...iiii..iaaaaaaaaaa...
+//.mmmm...mmmmm...mmmm....eeeeeeee.....ddddddddddd...iiii..iaaaaaaaaaa...
+//.mmmm...mmmmm...mmmm.....eeeeee........dddd.dddd...iiii...aaaaa..aaaa..
+//.......................................................................*/
+
+
+
+
+
+@media (min-width: 700px), (orientation: landscape) {
+	.header__nav {
+		flex-direction: row;
+		justify-content: space-between;
+	}
+
+	.concert__body {
+		flex-direction: row;
+
+	}
+
+	.flex-row {
+		flex-direction: row;
+	}
+
+	.members-list {
+		text-align: left;
+	}	
+
+}
