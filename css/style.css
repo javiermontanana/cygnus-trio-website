@@ -323,11 +323,17 @@ ABOUT
 ##########################################
 */
 
+.about__flexbox {
+	display: flex;
+	flex-direction: column;
+}
+
+
 .trio-biography {
 	line-height: 1.8;
 	margin-bottom: 1em;
-	max-width: 75ch;
 }
+
 
 
 
@@ -506,6 +512,15 @@ h1{
 	.header__nav {
 		flex-direction: row;
 		justify-content: space-between;
+	}
+
+
+	.about__flexbox {
+		flex-direction: row;
+	}
+	.about__image {
+		margin-left: 2em;
+		margin-bottom: 1em;
 	}
 
 	.concert__body {
