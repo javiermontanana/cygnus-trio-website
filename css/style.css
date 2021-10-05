@@ -1,3 +1,6 @@
+/*pushed comment*/
+
+
 * {
 	box-sizing: border-box;
 }
@@ -73,7 +76,7 @@ a {
 }
 
 .footer__sm-links__title,
-.footer__nav__link {
+.footer__nav a {
 	color: inherit;
 	font-weight: inherit;
 	font-size: inherit;
@@ -81,6 +84,9 @@ a {
 	letter-spacing: inherit;
 }
 
+.footer__nav a:hover {
+	opacity: 0.75;
+}
 
 
 
@@ -115,7 +121,7 @@ header {
 	font-size: 4rem;
 }
 
-.nav {
+.header__nav {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -124,12 +130,12 @@ header {
 
 /*logo text used to be an <a>*/
 .logo a,
-nav a {
+.header__nav a {
 	color: white;
 	text-decoration: none;
 }
 
-.nav__link {
+.header__nav a {
 	display: inline-block;
 	font-family: sans-serif;
 	font-size: 1.1rem;
@@ -143,9 +149,8 @@ nav a {
 	padding: 1em 0em;*/
 }
 
-.nav__link:hover,
-.nav__link:focus {
-/*	text-decoration: underline;*/
+.header__nav a:hover,
+.header__nav a:focus {
 	border-bottom: 2px solid #ccc;
 	padding-top: 0;
 }
@@ -416,12 +421,15 @@ h1{
 /*margin from text both in row and col directions*/
 .concert__img {
 	margin-right: 2rem;
-	margin-bottom: 0.7rem;
+	margin-bottom: 1rem;
 	width: 100%;
+	flex-shrink: 1.4;
 }
 
 .concert__text {
-	width: 150%;
+	width: 100%;
+	flex-shrink: 1;
+	line-height: 1.5;
 }
 
 .concert__body {
@@ -430,7 +438,7 @@ h1{
 }
 
 .concert__date-time {
-	font-size: 1.5rem;
+	font-size: 1.3rem;
 	font-weight: bold;
 	margin-bottom: 1em;
 }
@@ -489,7 +497,7 @@ h1{
 
 
 @media (min-width: 700px), (orientation: landscape) {
-	.nav {
+	.header__nav {
 		flex-direction: row;
 		justify-content: space-between;
 	}
