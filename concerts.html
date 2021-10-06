@@ -23,9 +23,19 @@ filename: concerts.html
 		  		<p class="concert__date-time">{{concert.date-time}}</p>
 		  		<p class="concert__venue">{{concert.venue.name}}</p>
 		  		<p class="concert__venue-address">
-					{{concert.venue.address.line1}}<br>
-					{{concert.venue.address.line2}} <br>
-					{{concert.venue.address.line3}} 
+					{{concert.venue.address.line1}}
+					{% if concert.venue.address.line2 %}
+					<br>{{concert.venue.address.line2}}
+					{% endif %}
+					{% if concert.venue.address.line3 %}
+					<br>{{concert.venue.address.line3}}
+					{% endif %}
+					{% if concert.venue.address.line4 %}
+					<br>{{concert.venue.address.line4}}
+					{% endif %}
+					{% if concert.venue.address.line5 %}
+					<br>{{concert.venue.address.line5}}
+					{% endif %}
 		  		</p>
 		  	</div>
 		  	<div class="concert__programme">
