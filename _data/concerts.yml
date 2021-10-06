@@ -1,0 +1,84 @@
+- 2021-10-28-st-marys-perivale:
+  title: "Music at St Mary's Perivale"
+  image-path: images/st-marys-perivale.jpg
+  date-time: Thursday 28 October, 2021 - 3:00pm
+  venue: 
+    name: St Mary's Perivale
+    address:
+      line1: Perivale Lane
+      line2: Perivale UB6 8SS
+      line3: United Kingdom
+      line4:  
+      line5: 
+  programme:
+    item1: "L. van Beethoven: Trio in D major op.70 no.1, 'Ghost'"
+    item2: "R. Schumann: Trio no.1 in D minor op.63"
+    item3:
+    item4:
+    item5: 
+    item6:
+    item7:
+    item8:
+  more-info-link-path: https://www.st-marys-perivale.org.uk/events-2021-10-28.shtml
+
+- 2021-11-08-witham-urc:
+  title: "Saint-Sa&euml;ns Centenary Concert"
+  image-path: images/witham-urc.jpg
+  date-time: Monday 8 November, 2021 - 1:00pm
+  venue: 
+    name: United Reformed Churh, Wtiham
+    address:
+      line1: 90 Newland Street
+      line2: Witham CM8 1AH
+      line3: United Kingdom
+      line4:  
+      line5: 
+  programme:
+    item1: Romance op.36
+    item2: Allegro Appassionato op. 43
+    item3: Havanaise op.83
+    item4: Trio no. 1 in F major, op.18
+    item5: 
+    item6:
+    item7:
+    item8:
+  more-info-link-path:
+
+- 2021-12-15-private-concerts:
+  title: Private Concerts
+  image-path: "https://media.wired.com/photos/59326c6058b0d64bb35d1809/master/pass/Kakapo-2.jpg"
+  date-time: 15 and 16 December 2021
+  venue: 
+    name: 
+    address:
+      line1: 
+      line2: 
+      line3: 
+  programme:
+    item1: "R. Schumann: Trio no.1 in D minor op.63"
+    item2: "F. Mendelssohn: Trio no.1 in D minor op.49"
+    item3: 
+    item4: 
+
+- 2022-06-18-maxability:
+  title: Concert for Maxability
+  image-path: https://maxability.org.uk/wp-content/uploads/2021/03/cropped-logo-ksiega-znaku-09.png
+  date-time: Saturday 18 June 2022 - 7:30pm
+  venue: 
+    name:
+    address:
+      line1: near Arnos Grove 
+      line2: North London 
+      line3: United Kingdom
+      line4:  
+      line5: 
+  programme:
+    item1: "P. I. Tchaikovsky: Trio in A minor"
+    item2:
+    item3:
+    item4:
+    item5:
+    item6:
+    item7:
+    item8:
+  more-info-link-path: https://maxability.org.uk/concerts/
