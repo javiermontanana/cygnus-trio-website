@@ -237,6 +237,7 @@ N E W    H O M E
 
 .widget-calendar__concert-body {
 	font-size: 1.1rem;
+	font-weight: 600;
 	margin-bottom: 1em;
 	line-height: 1.4;
 }
