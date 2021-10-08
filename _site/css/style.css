@@ -463,6 +463,12 @@ h1{
 	margin-bottom: 1em;
 }
 
+.concert__description {
+	font-weight: 600;
+	max-width: 65ch;
+	margin-bottom: 1em;
+}
+
 .concert__venue {
 	font-weight: bold;
 

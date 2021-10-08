@@ -1,5 +1,4 @@
 ---
-title: Home
 layout: default
 lang: en
 filename: index.html
@@ -17,24 +16,25 @@ filename: index.html
 		    <li>Cesar Saura, piano</li>
 		  </ul>
 			<div class="home-image">
-				<img src="images/home-image.jpg" alt="Cygnus Trio" />
+				<img src="{{ site.data.home-content.image.src }}" alt="{{ site.data.home-content.image.alt }}">
 			</div>
 		</div>
 		<div class="flex-row">
 			<div class="widget-video">
-				<h2 class="widget-video__title">Mendelssohn Trio No.1 in D minor Op.49</h2>
+				<h2 class="widget-video__title">{{ site.data.home-content.widget-video.title }}</h2>
 				<figure class="video__figure">
-					<iframe class="video-embed" src="https://www.youtube.com/embed/pUsBGl_w5wI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<iframe class="video-embed" src="https://www.youtube.com/embed/{{ site.data.home-content.widget-video.youtube-id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</figure>
 			</div>
 			<div class="widget-calendar">
 				<h2 class="widget-calendar__title">Next Concert:</h2>
-				<h3 class="widget-calendar__concert-title">Music at St Mary's Perivale</h3>
+				<h3 class="widget-calendar__concert-title">{{ site.data.home-content.widget-calendar.concert-title }}</h3>
 				<p class="widget-calendar__concert-body">
-					Thursday 28 October - 3:00pm <br>
-					St Mary's Perivale, London</p>
+					{{ site.data.home-content.widget-calendar.body.line1 }} <br>
+					{{ site.data.home-content.widget-calendar.body.line2 }}
+				</p>
 				<p class="widget__calendar__more-info">
-					<a class="concert__more-info-link" href="https://www.st-marys-perivale.org.uk/events-2021-10-28.shtml">more info</a>
+					<a class="concert__more-info-link" href="{{ site.data.home-content.widget-calendar.more-info-link-path }}">more info</a>
 				</p>
 				<!-- <p>
 					<a href="concerts.html">other upcoming concerts</a>
