@@ -394,6 +394,32 @@ C  O  N  T  A  C  T
 }
 
 
+input,
+textarea {
+	font-family: 'Roboto', sans-serif;
+	width: 100%;
+	margin: 12px 0;
+	background-color: #cdd9e0;
+	border: none;
+	padding: 12px;
+}
+label {
+	font-weight: 600;
+	padding: 5px;
+}
+
+button {
+	color: #192b43;
+	padding: 1em 2em;
+	border-radius: 1.8em;
+	border: solid #192b43 2px;
+	background-color: #eee;
+	font-weight: 600;
+	font-size: 1rem;
+	cursor: pointer;
+}
+
+
 
 /*
 //........................................................................................
