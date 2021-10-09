@@ -611,6 +611,7 @@ h1{
 
 	.members-list {
 		text-align: left;
+		margin-bottom: 0;
 	}	
 
 }
