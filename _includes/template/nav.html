@@ -1,6 +1,6 @@
 <nav class="{{include.nav-class}}">
 	{% for line in site.data.pages %}
-	<a class="nav__link" href="{{ line.rel_path }}">{{ line.name_en }}</a>{% endfor %}
+	<a class="nav__link {% if page.filename==line.rel_path %}current-page{% endif %}" href="{{ line.rel_path }}">{{ line.name_en }}</a>{% endfor %}
 	<!-- nav above is a for loop over pages.csv. should add conditional so in lang=en it uses name_en, elsif lang=es, uses name_es -->
 
 <!-- old nav in comment below -->

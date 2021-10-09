@@ -5,7 +5,7 @@
 
 body{
 	margin: 0;
-	font-family: 'helvetica', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	background-color: #eeeeee;
 	/* line-height: 2em;
@@ -20,11 +20,33 @@ img {
 	max-width: 100%;
 }
 
-a {
+main a {
 	text-decoration: none;
 	font-weight: bold;
 	color: #2828e6;
 }
+
+/* ==================== F  O  N  T  S  ============================= */
+
+.header .logo, 
+h1, h2, h3, h4 {
+	font-family: 'Playfair Display', serif;
+}
+
+h1 {
+	color: #243897;
+}
+
+.widget-calendar__title {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 600;
+}
+
+.header .nav__link {
+	font-family: 'Open-sans', sans-serif;
+}
+
+
 
 .container{
 	width: 90%;
@@ -82,6 +104,7 @@ a {
 .footer__nav a {
 	color: inherit;
 	font-weight: inherit;
+	text-decoration: none;
 	font-size: inherit;
 	margin-bottom: 0.5em;
 	letter-spacing: inherit;
@@ -119,7 +142,7 @@ header {
 	margin-bottom: 0rem;
 }
 
-.logo {
+.header .logo {
 	padding: 0.7em 0;
 	text-align: center;
 	font-size: 4rem;
@@ -141,7 +164,6 @@ header {
 
 .header__nav a {
 	display: inline-block;
-	font-family: sans-serif;
 	font-size: 1.1rem;
 	font-weight: 600;
 	letter-spacing: 0.25em;
@@ -154,8 +176,9 @@ header {
 }
 
 .header__nav a:hover,
-.header__nav a:focus {
-	border-bottom: 2px solid #ccc;
+.header__nav a:focus,
+.header__nav .current-page {
+	border-bottom: 2px solid #eee;
 	padding-top: 0;
 }
 
@@ -177,8 +200,9 @@ header {
 	margin: 0 2rem;
 	margin-bottom: 3rem;
 	text-align: center;
-	font-size: 1.5rem;
-	font-weight: 700;
+	font-size: 1.3rem;
+	letter-spacing: 0.02em;
+	font-weight: 400;
 	flex-basis: 120%;
 }
 
@@ -216,7 +240,7 @@ N E W    H O M E
 	flex-shrink: 0;
 	margin: 0 1rem;
 	margin-bottom: 2rem;
-	background-color: #bbc4e8;
+	background-color: #cdd9e0;
 	padding: 3.5rem 0.7rem;
 	border-radius: 1rem;
 }
@@ -237,7 +261,8 @@ N E W    H O M E
 
 .widget-calendar__concert-body {
 	font-size: 1.1rem;
-	font-weight: 600;
+	letter-spacing: 0.02em;
+	font-weight: normal;
 	margin-bottom: 1em;
 	line-height: 1.4;
 }
@@ -464,7 +489,7 @@ h1{
 }
 
 .concert__description {
-	font-weight: 600;
+	font-weight: 400;
 	max-width: 65ch;
 	margin-bottom: 1em;
 }
