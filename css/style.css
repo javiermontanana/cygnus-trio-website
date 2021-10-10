@@ -35,7 +35,7 @@ footer {
 
 .header .logo, 
 h1, h2, h3, h4 {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Bodoni Moda', serif;
 }
 
 h1 {
@@ -147,7 +147,7 @@ header {
 }
 
 .header .logo {
-	padding: 0.3em 0;
+	padding: 0.3em 0 0.2em;
 	text-align: center;
 	font-size: 3.7rem;
 }
@@ -159,7 +159,6 @@ header {
 	font-size: 1rem;
 }
 
-/*logo text used to be an <a>*/
 .logo a,
 .header__nav a {
 	color: white;
@@ -259,7 +258,7 @@ N E W    H O M E
 
 .widget-calendar__concert-title {
 	font-size: 1.4rem;
-	font-weight: 700;
+	font-weight: 600;
 	margin-bottom: 1em;
 }
 
@@ -277,7 +276,7 @@ N E W    H O M E
 }
 
 .widget-video__title {
-	font-size: 1.6rem;
+	font-size: 1.7rem;
 	margin-bottom: 0.5em;
 }
 
