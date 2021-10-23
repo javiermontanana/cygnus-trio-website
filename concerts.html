@@ -42,13 +42,8 @@ filename: concerts.html
 		  	<div class="concert__programme">
 					<p class="concert__programme__heading">Programme:</p>
 					<ol class="concert__programme__list">
-						<li class="indent-wrapped">{{concert.programme.item1}}</li>
-						<li class="indent-wrapped">{{concert.programme.item2}}</li>
-						<li class="indent-wrapped">{{concert.programme.item3}}</li>
-						<li class="indent-wrapped">{{concert.programme.item4}}</li>
-						<li class="indent-wrapped">{{concert.programme.item5}}</li>
-						<li class="indent-wrapped">{{concert.programme.item6}}</li>
-						<li class="indent-wrapped">{{concert.programme.item7}}</li>
+						{% for item in concert.programme %}
+						<li class="indent-wrapped">{{item}}</li>{% endfor %}
 					</ol>
 				</div>
 				{% if concert.more-info-link-path %}
