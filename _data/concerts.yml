@@ -35,6 +35,23 @@
     - "Trio no. 1 in F major, op.18"
   more-info-link-path:
 
+- 2021-12-02-NNLS:
+  title: "Intermezzo Concert at New North London Synagogue"
+  image-path: https://images.shulcloud.com/1275/logo/1519309014.img
+  date-time: Thursday 2 December 2021 - 1:00pm
+  venue: 
+    name: New North London Synagogue
+    address:
+      line1: "80 East End Road"
+      line2: "London N3 2SY"
+      line3: 
+      line4:  
+      line5: 
+  programme:
+    - "L. van Beethoven: Trio in D major op.70 no.1, 'Ghost'"
+    - "F. Mendelssohn: Trio no.1 in D minor op.49"
+  more-info-link-path: "https://www.mynnls.org.uk/event/Intermezzo"
+
 - 2021-12-15-private-concerts:
   title: Private Concerts
   image-path: "https://media.wired.com/photos/59326c6058b0d64bb35d1809/master/pass/Kakapo-2.jpg"
