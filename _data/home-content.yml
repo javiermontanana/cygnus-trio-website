@@ -5,8 +5,8 @@ widget-video:
   title: "Mendelssohn Trio No.1 in D minor Op.49"
   youtube-id: pUsBGl_w5wI
 widget-calendar:
-  concert-title: "Music at St Mary's Perivale"
+  concert-title: "Saint Saens Centenary"
   body: 
-    line1: "Thursday 28 October - 3:00pm"
-    line2: "St Mary's Perivale, London"
-  more-info-link-path: https://www.st-marys-perivale.org.uk/events-2021-10-28.shtml
+    line1: "Monday 8 November - 1:00pm"
+    line2: "United Reformed Church, Witham"
+  more-info-link-path:
