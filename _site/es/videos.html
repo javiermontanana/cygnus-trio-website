@@ -3,7 +3,7 @@
 
 <head>
 
-	<title>About | Cygnus Trio</title>
+	<title>Videos | Cygnus Trio</title>
 	<meta name="description" content="London-based piano trio formed in 2012">
 
 	<meta http-equiv="Content-Type" content="text/html" charset="utf-8">
@@ -31,20 +31,20 @@
 
 	  <nav class="header__nav">
 	
-	<a class="nav__link " href="/">
-		home</a>
+	<a class="nav__link " href="/es/">
+		inicio</a>
 	
-	<a class="nav__link current-page" href="/about/">
-		about</a>
+	<a class="nav__link " href="/es/about/">
+		acerca de</a>
 	
-	<a class="nav__link " href="/concerts/">
-		concerts</a>
+	<a class="nav__link " href="/es/concerts">
+		conciertos</a>
 	
-	<a class="nav__link " href="/videos/">
-		videos</a>
+	<a class="nav__link current-page" href="/es/videos/">
+		v&iacute;deos</a>
 	
-	<a class="nav__link " href="/contact/">
-		contact</a>
+	<a class="nav__link " href="/es/contact/">
+		contacto</a>
 	
 	<!-- nav above is a for loop over pages.csv. if lang==es show spanish name, else show english name-->
 	<!-- <a href="es/" class="lang-switcher">espa&ntilde;ol</a> -->
@@ -52,37 +52,46 @@
   </div>
 </header>
 <!-- =========== HEADER END ================== -->
-  <main>
   <div class="container">
-    <h1 class="page-title">About the Trio</h1>
-    <div class="about__flexbox">
-      <div class="about__text">
-        <p class="trio-biography">
-            The Cygnus Trio illustrates the capacity of music and musicianship to transcend physical and geographical boundaries, with twin homes in Valencia and London.
-        </p>
-        <p class="trio-biography">
-            In Valencia, Javier Montañana and César Saura initially studied together and formed a duo, before enrolling at the Royal Academy of Music (London), where they respectively studied violin with Richard Deakin, and piano with Daniel Ben-Pienaar and William Fong. In London, Hannah Lewis won a scholarship to continue her cello studies with David Smith at the Royal Academy.
-        </p>
-        <p class="trio-biography">
-            In 2012, across both Valencia and London, the three formed the Cygnus Piano Trio and have been playing and travelling together ever since.
-        </p>
-        <p class="trio-biography">
-            From 2017 to 2020 they took part in the high specialisation chamber music course at the Accademia Walter Stauffer in Cremona (Italy), where they benefited from mentorship by the members of the Quartetto di Cremona. They have also been fortunate to complement their musical training through coachings with world renowned musicians such as Pascal Devoyon, Raphael Wallfisch, Krzyzstof Smietana among others. For two consecutive years the trio was invited to take part in a series of masterclasses with Alfred Brendel in Pistoia (Italy).
-        </p>
-        <p class="trio-biography">
-            They have won prizes in several international competitions such as the ‘Antón García Abril’ and the ‘Ecoparque de Trasmiera’ International Chamber Music Competitions, amongst others. This success has allowed them to build up regular concert engagements in Spain, the UK and Italy. In recent years, they have been invited to perform in events such as the Santander International Festival, Panticosa International Festival, Music Coll, Wye Valley Chamber Music, and in venues such as the Teatro Ponchielli in Cremona and the Auditorium ‘Lo Squero’ in Venice.
-        </p>
-        <p class="trio-biography">
-            In 2018 the ensemble was selected to join ‘Le Dimore del Quartetto’ network, of which they are still active members.
-        </p>
-      </div>
+<main>
+	<h1 class="page-title">V&iacute;deos</h1>
 
-      <div class="about__image">
-				<img src="/images/bio-image.jpg" alt="Cygnus Trio" />
-      </div>
-    </div>
-  </div>
+	<!-- 
+	<section class="video">
+		<h2 class="video__title">F. Mendelssohn: Tr&iacute;o en Re menor op.49</h2>
+		<figure class="video__figure">
+			<iframe class="video-embed" src="https://www.youtube.com/embed/pUsBGl_w5wI"></iframe>
+		</figure>
+	</section>
+	 -->
+
+	<!-- as an include below. The include is in _includes but is not being used -->
+	
+	<section class="video">
+    <h2 class="video__title">F. Mendelssohn: Tr&iacute;o en Re menor op.49</h2>
+    <figure class="video__figure">
+        <iframe class="video-embed" src="https://www.youtube.com/embed/pUsBGl_w5wI"></iframe>
+    </figure>
+</section>
+	
+
+    <!-- if lang=en -->
+<p>EN / <a href="#">ES</a></p>
+
+<!-- if lang=es -->
+<p><a href="         /videos/    ">EN</a> / ES</p>
+
+<!-- 
+    this is looping over the csv file, until it finds 
+    a match of the page. then goes to the rel path 
+    for the other language. 
+    
+    this works, but there should be
+a dedicated csv file for the language switcher, 
+only 2 columns, with all the slugs (?) -->
+
 </main>
+</div>
 
   <!-- ========== FOOTER START ==================== -->
 <footer class="footer">
@@ -92,20 +101,20 @@
 
 			<nav class="footer__nav">
 	
-	<a class="nav__link " href="/">
-		home</a>
+	<a class="nav__link " href="/es/">
+		inicio</a>
 	
-	<a class="nav__link current-page" href="/about/">
-		about</a>
+	<a class="nav__link " href="/es/about/">
+		acerca de</a>
 	
-	<a class="nav__link " href="/concerts/">
-		concerts</a>
+	<a class="nav__link " href="/es/concerts">
+		conciertos</a>
 	
-	<a class="nav__link " href="/videos/">
-		videos</a>
+	<a class="nav__link current-page" href="/es/videos/">
+		v&iacute;deos</a>
 	
-	<a class="nav__link " href="/contact/">
-		contact</a>
+	<a class="nav__link " href="/es/contact/">
+		contacto</a>
 	
 	<!-- nav above is a for loop over pages.csv. if lang==es show spanish name, else show english name-->
 	<!-- <a href="es/" class="lang-switcher">espa&ntilde;ol</a> -->
@@ -120,7 +129,7 @@
 
 			<div class="footer__sm-links">
 				<p class="footer__sm-links__title">
-					Find us on:
+					S&iacute;guenos en:
 				</p>
 				<div class="footer__sm-links__buttons">
 					<div class="footer__sm-links__button">

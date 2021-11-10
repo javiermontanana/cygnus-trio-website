@@ -11,19 +11,19 @@ slug: videos
 <main>
 	<h1 class="page-title">Videos</h1>
 
-	{% for video in site.data.videos %}
+	<!-- {% for video in site.data.videos %}
 	<section class="video">
 		<h2 class="video__title">{{ video.title }}</h2>
 		<figure class="video__figure">
 			<iframe class="video-embed" src="https://www.youtube.com/embed/{{ video.youtube-id }}"></iframe>
 		</figure>
 	</section>
-	{% endfor %}
-
-	<!-- as an include below. The include is in _includes but is not being used -->
-	<!-- {% for video in site.data.videos %}
-	{% include youtube-video-embed.html data=video %}
 	{% endfor %} -->
+
+	<!-- as an include below. hardcoded above. seems to work now? -->
+	{% for video in site.data.videos %}
+	{% include youtube-video-embed.html data=video %}
+	{% endfor %}
 
 </main>
 </div>
