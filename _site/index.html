@@ -9,7 +9,7 @@
 	<meta http-equiv="Content-Type" content="text/html" charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <link rel="shortcut icon" href="images/cygnus-logo.jpg">
+  <link rel="shortcut icon" href="/images/cygnus-logo.jpg">
 
   <!-- google fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,7 +17,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet"> 
 
   <!-- stylesheet -->
-  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
 
 </head>
 <!-- ===================START  BODY========================= -->
@@ -26,17 +26,27 @@
   <header class="header">
 	<div class="container">
 	  <div class="logo">
-	  	<a href=".">Cygnus Trio</a>
+	  	<a href="/">Cygnus Trio</a>
 	  </div>
 
 	  <nav class="header__nav">
 	
-	<a class="nav__link " href=".">home</a>
-	<a class="nav__link " href="about.html">about</a>
-	<a class="nav__link " href="concerts.html">concerts</a>
-	<a class="nav__link " href="videos.html">videos</a>
-	<a class="nav__link " href="contact.html">contact</a>
-	<!-- nav above is a for loop over pages.csv. should add conditional so in lang=en it uses name_en, elsif lang=es, uses name_es -->
+	<a class="nav__link " href="/">
+		home</a>
+	
+	<a class="nav__link " href="/about/">
+		about</a>
+	
+	<a class="nav__link " href="/concerts/">
+		concerts</a>
+	
+	<a class="nav__link " href="/videos/">
+		videos</a>
+	
+	<a class="nav__link " href="/contact.html">
+		contact</a>
+	
+	<!-- nav above is a for loop over pages.csv. if lang==es show spanish name, else show english name-->
 	<!-- <a href="es/" class="lang-switcher">espa&ntilde;ol</a> -->
 </nav>
   </div>
@@ -53,7 +63,7 @@
 		    <li>Cesar Saura, piano</li>
 		  </ul>
 			<div class="home-image">
-				<img src="images/home-image.jpg" alt="The Cygnus Trio">
+				<img src="/images/home-image.jpg" alt="The Cygnus Trio">
 			</div>
 		</div>
 		<div class="flex-row">
@@ -65,12 +75,15 @@
 			</div>
 			<div class="widget-calendar">
 				<h2 class="widget-calendar__title">Next Concert:</h2>
-				<h3 class="widget-calendar__concert-title">Saint Saens Centenary</h3>
+				<h3 class="widget-calendar__concert-title">Intermezzo Concert at NNLS</h3>
 				<p class="widget-calendar__concert-body">
-					Monday 8 November - 1:00pm <br>
-					United Reformed Church, Witham
+					Thursday 2 December 2021 - 1:00pm <br>
+					New North London Synagogue
 				</p>
 				
+				<p class="widget__calendar__more-info">
+					<a class="concert__more-info-link" href="https://www.mynnls.org.uk/event/Intermezzo">more info</a>
+				</p>
 				<!-- <p>
 					<a href="concerts.html">other upcoming concerts</a>
 				</p> -->
@@ -88,12 +101,22 @@
 
 			<nav class="footer__nav">
 	
-	<a class="nav__link " href=".">home</a>
-	<a class="nav__link " href="about.html">about</a>
-	<a class="nav__link " href="concerts.html">concerts</a>
-	<a class="nav__link " href="videos.html">videos</a>
-	<a class="nav__link " href="contact.html">contact</a>
-	<!-- nav above is a for loop over pages.csv. should add conditional so in lang=en it uses name_en, elsif lang=es, uses name_es -->
+	<a class="nav__link " href="/">
+		home</a>
+	
+	<a class="nav__link " href="/about/">
+		about</a>
+	
+	<a class="nav__link " href="/concerts/">
+		concerts</a>
+	
+	<a class="nav__link " href="/videos/">
+		videos</a>
+	
+	<a class="nav__link " href="/contact.html">
+		contact</a>
+	
+	<!-- nav above is a for loop over pages.csv. if lang==es show spanish name, else show english name-->
 	<!-- <a href="es/" class="lang-switcher">espa&ntilde;ol</a> -->
 </nav>
 

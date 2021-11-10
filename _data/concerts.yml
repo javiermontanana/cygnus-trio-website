@@ -1,6 +1,6 @@
 - 2021-10-28-st-marys-perivale:
   title: "Music at St Mary's Perivale"
-  image-path: images/st-marys-perivale.jpg
+  image-path: /images/st-marys-perivale.jpg
   date-time: Thursday 28 October 2021 - 3:00pm
   venue: 
     name: St Mary's Perivale
@@ -18,7 +18,7 @@
 - 2021-11-08-witham-urc:
   title: "Saint-Sa&euml;ns Centenary Concert"
   description: "In commemoration of the 100th anniversary of his death, we perform a programme of works by Camille Saint-Saens."
-  image-path: images/saint-saens.png
+  image-path: /images/saint-saens.png
   date-time: Monday 8 November 2021 - 1:00pm
   venue: 
     name: United Reformed Church, Witham
