@@ -1,0 +1,47 @@
+---
+layout: default
+lang: es
+filename: index.html
+---
+
+
+<div class="container">
+<main>
+	<div class="home-wrapper">
+
+		<div class="flex-row">
+		  <ul class='members-list indent-wrapped'>
+		    <li>Javier Monta&ntilde;ana, viol&iacute;n</li>
+		    <li>Hannah Lewis, chelo</li>
+		    <li>C&eacute;sar Saura, piano</li>
+		  </ul>
+			<div class="home-image">
+				<img src="{{ site.data.home-content.image.src }}" alt="{{ site.data.home-content.image.alt }}">
+			</div>
+		</div>
+		<div class="flex-row">
+			<div class="widget-video">
+				<h2 class="widget-video__title">{{ site.data.home-content.widget-video.title_es }}</h2>
+				<figure class="video__figure">
+					<iframe class="video-embed" src="https://www.youtube.com/embed/{{ site.data.home-content.widget-video.youtube-id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</figure>
+			</div>
+			<div class="widget-calendar">
+				<h2 class="widget-calendar__title">Pr&oacute;ximo Concierto:</h2>
+				<h3 class="widget-calendar__concert-title">{{ site.data.home-content.widget-calendar.concert-title_es }}</h3>
+				<p class="widget-calendar__concert-body">
+					{{ site.data.home-content.widget-calendar.body.line1_es }} <br>
+					{{ site.data.home-content.widget-calendar.body.line2_es }}
+				</p>
+				{% if site.data.home-content.widget-calendar.more-info-link-path %}
+				<p class="widget__calendar__more-info">
+					<a class="concert__more-info-link" href="{{ site.data.home-content.widget-calendar.more-info-link-path }}">m&aacute;s detalles</a>
+				</p>{% endif %}
+				<!-- <p>
+					<a href="concerts.html">other upcoming concerts</a>
+				</p> -->
+			</div>
+		</div>
+  </div>
+</main>
+</div>
