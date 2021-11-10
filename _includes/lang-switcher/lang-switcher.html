@@ -1,14 +1,18 @@
-<!-- if lang=en -->
-<p>EN / <a href="#">ES</a></p>
 
-<!-- if lang=es -->
-<p><a href=" {% for line in site.data.pages %} {% if line.name_en==page.name_en %} {{ line.rel_path }} {% endif %} {% endfor %}">EN</a> / ES</p>
+<!-- <p><a href=" {% for line in site.data.slugs %} {% if line.name_en==page.name_en %} {{ line.rel_path }} {% endif %} {% endfor %}">EN</a> / ES</p> -->
 
 <!-- 
     this is looping over the csv file, until it finds 
     a match of the page. then goes to the rel path 
     for the other language. 
     
-    this works, but there should be
-a dedicated csv file for the language switcher, 
-only 2 columns, with all the slugs (?) -->
+-->
+
+
+{% for line in site.data.slugs %}
+{% if line.slug_en==page.slug %}
+<p>EN / <a href="{{ line.slug_es }}">ES</a></p>
+{% elsif line.slug_es==page.slug %}
+<p><a href="{{ line.slug_es }}">EN</a> / ES</p>
+{% endif %}
+{% endfor %}
