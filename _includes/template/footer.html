@@ -1,18 +1,17 @@
 <!-- ========== FOOTER START ==================== -->
 <footer class="footer">
 	<div class="container">
-		{% include lang-switcher/lang-switcher.html %}
 		<div class="footer__flexbox">
 <!-- 			<div class="footer__logo"></div> -->
 
 			{% include template/nav.html nav-class="footer__nav" %}
 
-			<div class="site-info" style="text-align: center; font-size: 0.7rem;">
+			<!-- <div class="site-info" style="text-align: center; font-size: 0.7rem;">
 				<p>
 					This website is <br>built with <a style="font-weight: bold; text-decoration: none; color: inherit" href="https://jekyllrb.com/">Jekyll</a>. 
 				</p>
 				<p>View the <a style="font-weight: bold; text-decoration: none; color: inherit" href="https://github.com/javiermontanana/cygnus-trio-website">source-code</a>.</p>
-			</div>
+			</div> -->
 
 			<div class="footer__sm-links">
 				<p class="footer__sm-links__title">
@@ -35,6 +34,14 @@
 					</div>
 				</div>
 
+			</div>
+			<div>
+				<p>
+					{% if page.lang=="es" %}Cambiar idioma:{% else %}Change language:{% endif %}
+				</p>
+				<div class="footer__lang-switcher">
+					{% include lang-switcher.html %}
+				</div>
 			</div>
 		</div>
 	</div>

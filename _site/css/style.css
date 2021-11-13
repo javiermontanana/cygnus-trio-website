@@ -94,10 +94,15 @@ h1 {
 	fill: inherit;
 }
 
+.footer__sm-links {
+	margin-bottom: 0.5em;
+}
+
 .footer__sm-links__buttons {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-evenly;
+	margin-bottom: 1em;
 }
 
 .footer__sm-links__button {
@@ -114,10 +119,23 @@ h1 {
 	letter-spacing: inherit;
 }
 
+.footer a {
+	color: inherit;
+}
+
 .footer a:hover {
 	opacity: 0.75;
 }
 
+.footer__lang-switcher {
+	text-align: right;
+	margin-top: 0.5em;
+}
+
+.footer__lang-switcher a {
+	text-decoration: none;
+	font-weight: 600;
+}
 
 
 
