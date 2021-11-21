@@ -1,40 +1,13 @@
 ---
 title: About
 name_en: "about"
-layout: default
+layout: about-page
 lang: en
 filename: about.html
 slug: /about
 ---
 
-<main>
-  <div class="container">
-    <h1 class="page-title">About the Trio</h1>
-    <div class="about__flexbox">
-      <div class="about__text">
-        <p class="trio-biography">
-            The Cygnus Trio illustrates the capacity of music and musicianship to transcend physical and geographical boundaries, with twin homes in Valencia and London.
-        </p>
-        <p class="trio-biography">
-            In Valencia, Javier Montañana and César Saura initially studied together and formed a duo, before enrolling at the Royal Academy of Music (London), where they respectively studied violin with Richard Deakin, and piano with Daniel Ben-Pienaar and William Fong. In London, Hannah Lewis won a scholarship to continue her cello studies with David Smith at the Royal Academy.
-        </p>
-        <p class="trio-biography">
-            In 2012, across both Valencia and London, the three formed the Cygnus Piano Trio and have been playing and travelling together ever since.
-        </p>
-        <p class="trio-biography">
-            From 2017 to 2020 they took part in the high specialisation chamber music course at the Accademia Walter Stauffer in Cremona (Italy), where they benefited from mentorship by the members of the Quartetto di Cremona. They have also been fortunate to complement their musical training through coachings with world renowned musicians such as Pascal Devoyon, Raphael Wallfisch, Krzyzstof Smietana among others. For two consecutive years the trio was invited to take part in a series of masterclasses with Alfred Brendel in Pistoia (Italy).
-        </p>
-        <p class="trio-biography">
-            They have won prizes in several international competitions such as the ‘Antón García Abril’ and the ‘Ecoparque de Trasmiera’ International Chamber Music Competitions, amongst others. This success has allowed them to build up regular concert engagements in Spain, the UK and Italy. In recent years, they have been invited to perform in events such as the Santander International Festival, Panticosa International Festival, Music Coll, Wye Valley Chamber Music, and in venues such as the Teatro Ponchielli in Cremona and the Auditorium ‘Lo Squero’ in Venice.
-        </p>
-        <p class="trio-biography">
-            In 2018 the ensemble was selected to join ‘Le Dimore del Quartetto’ network, of which they are still active members.
-        </p>
-      </div>
-
-      <div class="about__image">
-				<img src="/images/bio-image.jpg" alt="Cygnus Trio" />
-      </div>
-    </div>
-  </div>
-</main>
+<div class="bio-include">
+  {% capture biography %}{% include biographies/trio-biography.md %}{% endcapture %}
+  {{ biography | markdownify }}
+</div>

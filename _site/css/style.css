@@ -365,6 +365,7 @@ N E W    H O M E
 
 
 
+
 /* 
 ##########################################
 ##########################################
@@ -381,7 +382,8 @@ ABOUT
 }
 
 
-.trio-biography {
+.trio-biography, 
+.bio-include p {
 	line-height: 1.8;
 	margin-bottom: 1em;
 }
