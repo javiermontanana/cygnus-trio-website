@@ -1,39 +1,3 @@
-- 2021-10-28-st-marys-perivale:
-  title: "Music at St Mary's Perivale"
-  image-path: /images/st-marys-perivale.jpg
-  date-time: Thursday 28 October 2021 - 3:00pm
-  venue: 
-    name: St Mary's Perivale
-    address:
-      line1: Perivale Lane
-      line2: Perivale UB6 8SS
-      line3: United Kingdom
-      line4:  
-      line5: 
-  programme:
-    - "L. van Beethoven: Trio in D major op.70 no.1, 'Ghost'"
-    - "R. Schumann: Trio no.1 in D minor op.63"
-  more-info-link-path: https://www.st-marys-perivale.org.uk/events-2021-10-28.shtml
-
-- 2021-11-08-witham-urc:
-  title: "Saint-Sa&euml;ns Centenary Concert"
-  description: "In commemoration of the 100th anniversary of his death, we perform a programme of works by Camille Saint-Saens."
-  image-path: /images/saint-saens.png
-  date-time: Monday 8 November 2021 - 1:00pm
-  venue: 
-    name: United Reformed Church, Witham
-    address:
-      line1: 90 Newland Street
-      line2: Witham CM8 1AH
-      line3: United Kingdom
-      line4:  
-      line5: 
-  programme:
-    - "Havanaise op.83"
-    - "Romance op.36"
-    - "Allegro Appassionato op. 43"
-    - "Trio no. 1 in F major, op.18"
-  more-info-link-path:
 
 - 2021-12-02-NNLS:
   title: "Intermezzo Concert at New North London Synagogue"
@@ -53,9 +17,9 @@
   more-info-link-path: "https://www.mynnls.org.uk/event/Intermezzo"
 
 - 2021-12-15-private-concerts:
-  title: Private Concerts
+  title: Private Concert
   image-path: "https://media.wired.com/photos/59326c6058b0d64bb35d1809/master/pass/Kakapo-2.jpg"
-  date-time: 15 and 16 December 2021
+  date-time: 16 December 2021
   venue: 
     name: 
     address:
