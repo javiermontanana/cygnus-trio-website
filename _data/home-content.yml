@@ -6,11 +6,11 @@ widget-video:
   title_es: "Mendelssohn: Tr&iacute;o No.1 en Re menor Op.49"
   youtube-id: pUsBGl_w5wI
 widget-calendar:
-  concert-title: "Intermezzo Concert at NNLS"
-  concert-title_es: "Intermezzo en NNLS"
+  concert-title: "Private Concert"
+  concert-title_es: "Concierto Privado"
   body: 
-    line1: "Thursday 2 December 2021 - 1:00pm"
-    line2: "New North London Synagogue"
-    line1_es: "Jueves 2 de diciembre 2021 - 1:00pm"
-    line2_es: "New North London Synagogue"
-  more-info-link-path: "https://www.mynnls.org.uk/event/Intermezzo"
+    line1: "Thursday 16 December 2021"
+    line2:
+    line1_es: "Jueves 2 de diciembre 2021"
+    line2_es:
+  more-info-link-path:
