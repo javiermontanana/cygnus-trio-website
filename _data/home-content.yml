@@ -2,15 +2,15 @@ image:
   src: "/images/home-image.jpg"
   alt: "Cygnus Trio"
 widget-video:
-  title: "Mendelssohn: Trio No.1 in D minor Op.49"
-  title_es: "Mendelssohn: Tr&iacute;o No.1 en Re menor Op.49"
-  youtube-id: pUsBGl_w5wI
+  title: "Beethoven: Trio in D major op.70 no.1 'Ghost'"
+  title_es: "Beethoven: Trío en Re mayor op.70 no.1 'Fantasma'"
+  youtube-id: Hn_SPmwn3MM
 widget-calendar:
-  concert-title: "Private Concert"
-  concert-title_es: "Concierto Privado"
+  concert-title: "Maxability"
+  concert-title_es: "Maxability"
   body: 
-    line1: "Thursday 16 December 2021"
-    line2:
-    line1_es: "Jueves 2 de diciembre 2021"
-    line2_es:
-  more-info-link-path:
+    line1: "Saturday 18 June 2022"
+    line2: "Tchaikovsky: Trio in A minor"
+    line1_es: "Sábado 18 de Junio 2022"
+    line2_es: "Tchaikovsky: Trio en La menor"
+  more-info-link-path: https://maxability.org.uk/concerts/
