@@ -97,12 +97,13 @@ h1 {
 
 .footer__sm-links {
 	margin-bottom: 0.5em;
+	min-width: 87px;
 }
 
 .footer__sm-links__buttons {
 	display: flex;
 	flex-direction: row;
-	justify-content: space-evenly;
+	justify-content: space-between;
 	margin-bottom: 1em;
 }
 
