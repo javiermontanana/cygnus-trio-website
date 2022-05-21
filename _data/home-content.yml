@@ -6,11 +6,11 @@ widget-video:
   title_es: "Beethoven: Trío en Re mayor op.70 no.1 'Fantasma'"
   youtube-id: Hn_SPmwn3MM
 widget-calendar:
-  concert-title: "Maxability"
-  concert-title_es: "Maxability"
+  concert-title: "United Reformed Church, Witham"
+  concert-title_es: "United Reformed Church, Witham"
   body: 
-    line1: "Saturday 18 June 2022"
+    line1: "Saturday 28 May 2022"
     line2: "Tchaikovsky: Trio in A minor"
-    line1_es: "Sábado 18 de Junio 2022"
+    line1_es: "Sábado 28 de mayo 2022"
     line2_es: "Tchaikovsky: Trio en La menor"
-  more-info-link-path: https://maxability.org.uk/concerts/
+  more-info-link-path: 

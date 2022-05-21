@@ -1,34 +1,20 @@
-
-- 2021-12-02-NNLS:
-  title: "Intermezzo Concert at New North London Synagogue"
-  image-path: https://images.shulcloud.com/1275/logo/1519309014.img
-  date-time: Thursday 2 December 2021 - 1:00pm
+- 2022-05-28-witham-urc:
+  title: Concert in support of House of Grace
+  description: 
+  image-path: /images/house-of-grace-concert.jpg
+  date-time: Saturday 28 May 2022 - 7:30pm
   venue: 
-    name: New North London Synagogue
+    name: United Reformed Church, Witham
     address:
-      line1: "80 East End Road"
-      line2: "London N3 2SY"
-      line3: 
+      line1: 90 Newland Street
+      line2: Witham CM8 1AH
+      line3: United Kingdom
       line4:  
       line5: 
   programme:
-    - "L. van Beethoven: Trio in D major op.70 no.1, 'Ghost'"
-    - "F. Mendelssohn: Trio no.1 in D minor op.49"
-  more-info-link-path: "https://www.mynnls.org.uk/event/Intermezzo"
-
-- 2021-12-15-private-concerts:
-  title: Private Concert
-  image-path: "https://media.wired.com/photos/59326c6058b0d64bb35d1809/master/pass/Kakapo-2.jpg"
-  date-time: 16 December 2021
-  venue: 
-    name: 
-    address:
-      line1: 
-      line2: 
-      line3: 
-  programme:
-    - "R. Schumann: Trio no.1 in D minor op.63"
-    - "F. Mendelssohn: Trio no.1 in D minor op.49" 
+    - "Beethoven: Selection of Scottish Songs"
+    - "P. I. Tchaikovsky: Trio in A minor"
+  more-info-link-path:
 
 - 2022-06-18-maxability:
   title: Concert for Maxability
@@ -43,5 +29,6 @@
       line4:  
       line5: 
   programme:
+    - "D. Shostakovich: Trio no.2 in E minor"
     - "P. I. Tchaikovsky: Trio in A minor"
   more-info-link-path: https://maxability.org.uk/concerts/
