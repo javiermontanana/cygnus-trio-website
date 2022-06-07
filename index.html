@@ -29,14 +29,14 @@ slug: /
 			</div>
 			<div class="widget-calendar">
 				<h2 class="widget-calendar__title">Next Concert:</h2>
-				<h3 class="widget-calendar__concert-title">{{ site.data.home-content.widget-calendar.concert-title }}</h3>
+				<h3 class="widget-calendar__concert-title">{{ site.data.concerts[0].hp-title }}</h3>
 				<p class="widget-calendar__concert-body">
-					{{ site.data.home-content.widget-calendar.body.line1 }} <br>
-					{{ site.data.home-content.widget-calendar.body.line2 }}
+					{{ site.data.concerts[0].hp-line1 }} <br>
+					{{ site.data.concerts[0].hp-line2 }}
 				</p>
-				{% if site.data.home-content.widget-calendar.more-info-link-path %}
+				{% if site.data.concerts[0].hp-more-info-link %}
 				<p class="widget__calendar__more-info">
-					<a class="concert__more-info-link" href="{{ site.data.home-content.widget-calendar.more-info-link-path }}">more info</a>
+					<a class="concert__more-info-link" href="{{ site.data.concerts[0].more-info-link-path }}">more info</a>
 				</p>{% endif %}
 				<!-- <p>
 					<a href="concerts.html">other upcoming concerts</a>
