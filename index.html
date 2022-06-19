@@ -1,48 +1,42 @@
 ---
-layout: default
+layout: homepage
 lang: en
 filename: index.html
 slug: /
 ---
 
-
+<!-- 
 <div class="container">
 <main>
 	<div class="home-wrapper">
 
 		<div class="flex-row">
-		  <ul class='members-list indent-wrapped'>
-		    <li>Javier Monta&ntilde;ana, violin</li>
-		    <li>Hannah Lewis, cello</li>
-		    <li>Cesar Saura, piano</li>
-		  </ul>
+			{% include homepage/members-list.html %}
 			<div class="home-image">
 				<img src="{{ site.data.home-content.image.src }}" alt="{{ site.data.home-content.image.alt }}">
 			</div>
 		</div>
 		<div class="flex-row">
 			<div class="widget-video">
-				<h2 class="widget-video__title">{{ site.data.home-content.widget-video.title }}</h2>
+				<h2 class="widget-video__title">{{ site.data.home-content.widget-video.title[page.lang] }}</h2>
 				<figure class="video__figure">
 					<iframe class="video-embed" src="https://www.youtube.com/embed/{{ site.data.home-content.widget-video.youtube-id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</figure>
 			</div>
 			<div class="widget-calendar">
 				<h2 class="widget-calendar__title">Next Concert:</h2>
-				<h3 class="widget-calendar__concert-title">{{ site.data.concerts[0].hp-title }}</h3>
+				<h3 class="widget-calendar__concert-title">{{ site.data.concerts[0].homepage-title[page.lang] }}</h3>
 				<p class="widget-calendar__concert-body">
-					{{ site.data.concerts[0].hp-line1 }} <br>
-					{{ site.data.concerts[0].hp-line2 }}
+					{{ site.data.concerts[0].homepage-line1[page.lang] }} <br>
+					{{ site.data.concerts[0].homepage-line2[page.lang] }}
 				</p>
-				{% if site.data.concerts[0].hp-more-info-link %}
+				{% if site.data.concerts[0].homepage-more-info-link %}
 				<p class="widget__calendar__more-info">
 					<a class="concert__more-info-link" href="{{ site.data.concerts[0].more-info-link-path }}">more info</a>
-				</p>{% endif %}
-				<!-- <p>
-					<a href="concerts.html">other upcoming concerts</a>
-				</p> -->
+				</p>
+				{% endif %}
 			</div>
 		</div>
   </div>
 </main>
-</div>
+</div> -->
