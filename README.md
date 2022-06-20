@@ -44,9 +44,6 @@ The following code does it:
 The capture tag assings the variable name biography to everything between the opening and closeing capture tags.
 The markdownify liquid filter makes sure it is parsed as markdown. 
 
-
-
-
 ### videos page
 
 the videos page now also empty and no {{content}} tag in videos-page layout.
@@ -60,6 +57,11 @@ but now it's all coded into the layout.
 
 The youtube-embed include is not in use at the moment. 
  
+### concerts page
+
+
+
+
 ### contact page
 
 make contact-page layout,
