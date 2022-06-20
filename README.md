@@ -32,7 +32,7 @@ n.b. there is not {{ content }} tag in homepage.html layout.
 ### about page
 
 about-page layout has everything except the biography. 
-The biography what is captured in the {{content}}, but it is not in the about.html page file. It is in an include. 
+The biography is what is captured in the {{content}}, but it is not in the about.html page file. It is in an include. 
 The include in in md and only has paragraphs. 
 This is so that it can be edited without touching any html.
 It would also work to make the about page files markdown, and have the biographies there, but this way the biographies live in one folder. 
@@ -56,14 +56,15 @@ Before there was an include. The old code:
 but now it's all coded into the layout. 
 
 The youtube-embed include is not in use at the moment. 
- 
+
+The data is taken from _data/content/videos.yml, not from videos.csv any more. 
+
 ### concerts page
 
-
+concerts-page layout 
 
 
 ### contact page
 
-make contact-page layout,
-put the form in there, use a data file to grab the text for the fields
-{{content}} from contact-page layout is the text with out emails. 
+contact-page layout has the contact form, takes text from _data/content/contact-form
+{{content}} is the text with out emails. 
