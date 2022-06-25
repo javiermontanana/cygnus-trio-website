@@ -8,6 +8,29 @@
 - the rest of the files in _data are for the working and structure of the site. 
 
 
+USE PAGE FRONT MATTER!!!! 
+for bits of text to show on page!!!
+
+like in concerts page, the more info link and the show/hide button, the past/upcoming concerts titles.
+
+contact form in contact page
+
+the bits in the homepage.
+
+even for the videos in videos page??? maybe not that...
+
+#### html lang atttribute
+
+Then, in order to emphase the actual version, just use CSS (you need to declare the lang attribute on the html, with <html lang="{{ page.lang }}"> in the layout). For instance, if you want to bold it:
+
+.en:lang(en), .fr:lang(fr), .zh:lang(zh){
+    font-weight: bold;
+}
+ maybe better to have both languages as links in the lang switch
+
+
+
+
 #### logic
 
 replace this:
@@ -68,3 +91,31 @@ concerts-page layout
 
 contact-page layout has the contact form, takes text from _data/content/contact-form
 {{content}} is the text with out emails. 
+
+
+## CSS
+
+### background colors
+
+- main (and buttons)
+- header and footer (and box shadow)
+- card and contact form
+
+### text colors
+
+- h1
+- links
+- header text: white
+- footer text 
+- header lang switcher
+- button text (and border)
+
+### other colors
+
+- button border (same as but)
+
+## typography
+
+fonts: 
+
+
