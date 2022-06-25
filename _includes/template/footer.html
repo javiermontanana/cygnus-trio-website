@@ -42,13 +42,12 @@
 				</div>
 
 			</div>
-			<div>
-				<p>
+			<div class="footer__lang-switcher">
+				<p class="footer__lang-switcher__title">
 					{% if page.lang=="es" %}Cambiar idioma:{% else %}Change language:{% endif %}
 				</p>
-				<div class="footer__lang-switcher">
-					{% include lang-switcher.html %}
-				</div>
+				{% include lang-switcher.html %}
+				
 			</div>
 		</div>
 	</div>

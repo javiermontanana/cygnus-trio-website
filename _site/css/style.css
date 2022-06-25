@@ -1,18 +1,41 @@
+/* 
+for big comments 
+https://codepen.io/sakri/pen/AXvBmw
+*/
+
+:root {
+	--color-light-grey-bg: #eeeeee; /* for main bg and buttons! */
+	--color-dark-blue-bg: #1e3553; /* for header and footer bg */
+	--color-light-blue-bg: #cdd9e0; /* for widget calendar and contact form */
+
+	--clr-bg-header-footer: var(--color-dark-blue-bg);
+	--clr-bg-header: var(--clr-bg-header-footer);
+	--clr-bg-footer: var(--clr-bg-header-footer);
+	--clr-bg-main: var(--color-light-grey-bg);
+	--clr-bg-main-btn: var(--clr-bg-main);
+	--clr-bg-card: var(--color-light-blue-bg);
+	
+	--clr-header: white; 
+	--clr-footer: #cdd9e0; 
+	--clr-main: black;
+	--clr-h1: var(--color-dark-blue-bg); 
+	--clr-main-links: #2828e6;
+	--clr-main-btn: #192b43;
+	
+	--ff-body: 'Roboto'; 
+	--ff-headings: 'Bodoni moda';
+	--ff-header-nav: 'Open sans'; 
+
+}
+
+
+/* standard preliminarie */
 
 * {
 	box-sizing: border-box;
 }
 
-body{
-	margin: 0;
-	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
-	background-color: #eeeeee;
-	/* line-height: 2em;
-	padding-bottom: 5rem; */
-}
-
-p, h1, h2, h3, h4, h5, h6, ul, ol, li, figure {
+body, p, h1, h2, h3, h4, h5, h6, ul, ol, li, figure {
 	margin: 0;
 }
 
@@ -20,36 +43,14 @@ img {
 	max-width: 100%;
 }
 
-main a {
+a {
 	text-decoration: none;
-	font-weight: bold;
-	color: #2828e6;
 }
 
-header,
-footer {
-	background-color: #1e3553;
+ul, ol {
+	list-style: none;
 }
 
-/* ==================== F  O  N  T  S  ============================= */
-
-.header .logo, 
-h1, h2, h3, h4 {
-	font-family: 'Bodoni Moda', serif;
-}
-
-h1 {
-	color: #1e3553;
-}
-
-.widget-calendar__title {
-	font-family: 'Roboto', sans-serif;
-	font-weight: 600;
-}
-
-.header .nav__link {
-	font-family: 'Open-sans', sans-serif;
-}
 
 
 
@@ -60,16 +61,59 @@ h1 {
 	position: relative;
 }
 
+
+
+/* main font families */
+
+body{
+	font-family: var(--ff-body);
+	font-size: 16px;
+	background-color: var(--clr-bg-main);
+}
+
+.header .logo, 
+h1, h2, h3, h4 {
+	font-family: var(--ff-headings);
+}
+
+
+
+
 /*
-######################################
-   F   O   O   T   E   R  
-######################################
+
+//.......................................................................................
+//......fffffo...........................................................................
+//....fffffffo.........................................tt................................
+//....fffffffo.......................................tttt................................
+//...ffffffffo......................................ttttt................................
+//...fffff..........................................ttttt................................
+//...fffff..........................................ttttt................................
+//.ffffffffff......oooooo............oooooo.......tttttttttt.....eeeeee.......rrrr.rrrr..
+//.ffffffffff....oooooooooo........ooooooooooo....tttttttttt...eeeeeeeeee.....rrrrrrrrr..
+//.ffffffffff...ooooooooooooo.....ooooooooooooo...tttttttttt..eeeeeeeeeeee....rrrrrrrrr..
+//.ffffffffff..oooooooooooooo....ooooooooooooooo..tttttttttt.eeeeeeeeeeeeee...rrrrrrrrr..
+//...fffff....oooooo....oooooo...oooooo...oooooo....ttttt....eeeee....eeeee...rrrrrr.....
+//...fffff....ooooo......ooooo..oooooo.....oooooo...ttttt....eeeee.....eeee...rrrrr......
+//...fffff....ooooo......oooooo.ooooo.......ooooo...ttttt...eeeeeeeeeeeeeeee..rrrrr......
+//...fffff....ooooo.......ooooo.ooooo.......ooooo...ttttt...eeeeeeeeeeeeeeee..rrrrr......
+//...fffff....ooooo.......ooooo.ooooo.......ooooo...ttttt...eeeeeeeeeeeeeeee..rrrrr......
+//...fffff....ooooo.......ooooo.ooooo.......ooooo...ttttt...eeeeeeeeeeeeeeee..rrrrr......
+//...fffff....ooooo......oooooo.ooooo.......ooooo...ttttt...eeeee.............rrrrr......
+//...fffff....ooooo......ooooo..oooooo.....oooooo...ttttt....eeeee............rrrrr......
+//...fffff....oooooo....oooooo...oooooo...oooooo....ttttt....eeeeee...eee.....rrrrr......
+//...fffff.....oooooooooooooo....ooooooooooooooo....tttttttt.eeeeeeeeeeeeee...rrrrr......
+//...fffff......oooooooooooo......ooooooooooooo.....tttttttt..eeeeeeeeeeeee...rrrrr......
+//...fffff.......oooooooooo........ooooooooooo.......ttttttt...eeeeeeeeeee....rrrrr......
+//...fffff.........oooooo............oooooo...........tttttt.....eeeeeee......rrrrr......
+//.......................................................................................
+
 */
 
 .footer {
-	box-shadow: 0 50vh 0 50vh #1e3553;
-	color: #cdd9e0;
-	fill: #cdd9e0; 
+	background-color: var(--clr-bg-footer);
+	box-shadow: 0 50vh 0 50vh var(--clr-bg-footer);
+	color: var(--clr-footer);
+	/* fill: var(--clr-footer);  the fill for the svgs is defined in the .sm-button class */
 	font-size: 0.8rem;
 	font-weight: 200;
 	letter-spacing: 1.4px;
@@ -92,7 +136,7 @@ h1 {
 
 
 .sm-button {
-	fill: inherit;
+	fill: var(--clr-footer);
 }
 
 .footer__sm-links {
@@ -112,13 +156,14 @@ h1 {
 }
 
 .footer__sm-links__title,
-.footer__nav a {
-	color: inherit;
-	font-weight: inherit;
-	text-decoration: none;
-	font-size: inherit;
+.footer__nav a,
+.footer__lang-switcher__title {
+	/* text-decoration: none; */
 	margin-bottom: 0.5em;
-	letter-spacing: inherit;
+	/* color: inherit; unnecessary */
+	/* font-weight: inherit; */
+	/* font-size: inherit; */
+	/* letter-spacing: inherit; */
 }
 
 .footer a {
@@ -131,11 +176,10 @@ h1 {
 
 .footer__lang-switcher {
 	text-align: right;
-	margin-top: 0.5em;
 }
 
 .footer__lang-switcher a {
-	text-decoration: none;
+	/* text-decoration: none; */
 	font-weight: 600;
 }
 
@@ -163,6 +207,8 @@ h1 {
 header {
 	/* background-image: linear-gradient(#1e3553, #1e3553, #416088); */
 	/* background-color: #192b43; */
+	
+	background-color: var(--clr-bg-header);
 	margin-bottom: 0rem;
 }
 
@@ -181,9 +227,14 @@ header {
 
 .logo a,
 .header__nav a {
-	color: white;
-	text-decoration: none;
+	color: var(--clr-header);
+	/* text-decoration: none; */
 }
+
+.header .nav__link {
+	font-family: var(--ff-header-nav);
+}
+
 
 .header__nav a {
 	display: inline-block;
@@ -201,7 +252,7 @@ header {
 .header__nav a:hover,
 .header__nav a:focus,
 .header__nav .current-page {
-	border-bottom: 2px solid #eee;
+	border-bottom: 2px solid var(--clr-bg-main);
 	padding-top: 0;
 }
 
@@ -209,19 +260,42 @@ header {
 	position: absolute;
 	top: 15px;
 	right: 0px;
-	color: #cdd9e0;
+	color: var(--color-light-blue-bg);
 	font-weight: 600;
-	text-decoration: none;
 }
 .header__lang-switcher a {
-	text-decoration: none;
-	color: #fff;
+	color: var(--clr-header);
 }
 
+/* 
 
-/*Home======================================================================================================================*/
+//................................................................................
+//.hhhhh..........................................................................
+//.hhhhh..........................................................................
+//.hhhhh..........................................................................
+//.hhhhh..........................................................................
+//.hhhhh..........................................................................
+//.hhhhh..........................................................................
+//.hhhhh.hhhhhh..........oooooo........ommmm..mmmmm....mmmmm..........eeeee.......
+//.hhhhhhhhhhhhh.......ooooooooooo.....ommmmmmmmmmmm.mmmmmmmm.......eeeeeeeee.....
+//.hhhhhhhhhhhhhh.....ooooooooooooo....ommmmmmmmmmmmmmmmmmmmmm.....eeeeeeeeeeee...
+//.hhhhhhhhhhhhhh....hoooooooooooooo...ommmmmmmmmmmmmmmmmmmmmmm...meeeeeeeeeeee...
+//.hhhhhh...hhhhhh...hooooo...oooooo...ommmmm...mmmmmmm..mmmmmm..mmeeee...eeeeee..
+//.hhhhh.....hhhhh..hhoooo.....oooooo..ommmmm...mmmmmm....mmmmm..mmeee.....eeeee..
+//.hhhhh.....hhhhh..hhooo.......ooooo..ommmm....mmmmmm....mmmmm..mmeeeeeeeeeeeee..
+//.hhhhh.....hhhhh..hhooo.......ooooo..ommmm....mmmmmm....mmmmm..mmeeeeeeeeeeeee..
+//.hhhhh.....hhhhh..hhooo.......ooooo..ommmm....mmmmm.....mmmmm..mmeeeeeeeeeeeee..
+//.hhhhh.....hhhhh..hhooo.......ooooo..ommmm....mmmmm.....mmmmm..mmeeeeeeeeeeeee..
+//.hhhhh.....hhhhh..hhooo.......ooooo..ommmm....mmmmm.....mmmmm..mmeee............
+//.hhhhh.....hhhhh..hhoooo.....oooooo..ommmm....mmmmm.....mmmmm..mmeee............
+//.hhhhh.....hhhhh...hooooo...oooooo...ommmm....mmmmm.....mmmmm..mmeeee....ee.....
+//.hhhhh.....hhhhh...hoooooooooooooo...ommmm....mmmmm.....mmmmm...meeeeeeeeeeeee..
+//.hhhhh.....hhhhh....ooooooooooooo....ommmm....mmmmm.....mmmmm....eeeeeeeeeeeee..
+//.hhhhh.....hhhhh.....ooooooooooo.....ommmm....mmmmm.....mmmmm.....eeeeeeeeeee...
+//.hhhhh.....hhhhh.......oooooo........ommmm....mmmmm.....mmmmm.......eeeeee......
+//................................................................................
 
-
+*/
 
 .home-wrapper {
 	display: flex;
@@ -231,7 +305,6 @@ header {
 }
 
 .members-list {
-	list-style: none;
 	padding: 0;
 	margin: 0 2rem;
 	margin-bottom: 3rem;
@@ -251,18 +324,6 @@ header {
 	flex-basis: 260%;
 }
 
-/*---------------------------
-N E W    H O M E   
-------------------------*/
-
-
-
-
-/*obsolete
-.left-column {
-	flex-basis: 120%;
-	margin: 2rem;
-}*/
 
 .widget-video {
 	margin: 0 1rem;
@@ -282,12 +343,14 @@ N E W    H O M E
 }
 
 .widget-calendar__title {
+	font-family: var(--ff-body); /* overriding --ff-headings */
 	font-size: 0.9rem;
 	font-weight: 800;
 	text-transform: uppercase;
 	letter-spacing: 0.8px;
 	margin-bottom: 0.3em;
 }
+
 
 .widget-calendar__concert-title {
 	font-size: 1.4rem;
@@ -300,7 +363,7 @@ N E W    H O M E
 	letter-spacing: 0.02em;
 	font-weight: normal;
 	margin-bottom: 1em;
-	line-height: 1.4;
+	/* line-height: 1.4; */
 }
 
 .widget__calendar__more-info {
@@ -321,9 +384,37 @@ N E W    H O M E
 	height: 100%;
 }
 
-/*---------------------------------------------
-	V 	I 	D 	E 	O 	S 
-----------------------------------------------*/
+
+
+/* 
+
+//.................................................................................................
+//...................iiiii..............ddddd......................................................
+//...................iiiii..............ddddd......................................................
+//...................iiiii..............ddddd......................................................
+//...................iiiii..............ddddd......................................................
+//......................................ddddd......................................................
+//......................................ddddd......................................................
+//.vvvvv......vvvvv..iiiii.......ddddd..ddddd.......eeeee............oooooo..........ssssssss......
+//.vvvvv......vvvvv..iiiii.....dddddddddddddd.....eeeeeeeee........oooooooooo.......sssssssssss....
+//.vvvvvv.....vvvvv..iiiii....ddddddddddddddd....eeeeeeeeeeee.....ooooooooooooo....sssssssssssss...
+//..vvvvv....vvvvvv..iiiii....ddddddddddddddd...eeeeeeeeeeeee....oooooooooooooo...ssssssssssssss...
+//..vvvvv....vvvvv...iiiii...dddddd...ddddddd..eeeeee...eeeeee..oooooo....oooooo..sssss....sssss...
+//...vvvvv...vvvvv...iiiii...ddddd.....dddddd..eeeee.....eeeee..ooooo......ooooo..ssssss....ss.....
+//...vvvvv..vvvvv....iiiii...ddddd......ddddd..eeeeeeeeeeeeeee..ooooo......oooooo.sssssssss........
+//...vvvvv..vvvvv....iiiii...ddddd......ddddd..eeeeeeeeeeeeeee..ooooo.......ooooo.ssssssssssss.....
+//....vvvvv.vvvvv....iiiii...ddddd......ddddd..eeeeeeeeeeeeeee..ooooo.......ooooo..sssssssssssss...
+//....vvvvvvvvvv.....iiiii...ddddd......ddddd..eeeeeeeeeeeeeee..ooooo.......ooooo....sssssssssss...
+//.....vvvvvvvvv.....iiiii...ddddd......ddddd..eeeee............ooooo......oooooo.......sssssssss..
+//.....vvvvvvvv......iiiii...ddddd.....dddddd..eeeee............ooooo......ooooo....ss......sssss..
+//.....vvvvvvvv......iiiii...dddddd...ddddddd..eeeeee....ee.....oooooo....oooooo.osssss....ssssss..
+//......vvvvvvv......iiiii....ddddddddddddddd...eeeeeeeeeeeeee...oooooooooooooo...sssssssssssssss..
+//......vvvvvv.......iiiii....ddddddddddddddd....eeeeeeeeeeeee....oooooooooooo....ssssssssssssss...
+//......vvvvvv.......iiiii.....dddddddddddddd.....eeeeeeeeeee......oooooooooo......ssssssssssss....
+//.......vvvvv.......iiiii.......ddddd..ddddd.......eeeeee...........oooooo...........sssssss......
+//.................................................................................................
+
+*/
 
 .video__figure {
 	padding-top: 56.52%;
@@ -352,43 +443,39 @@ N E W    H O M E
 }
 
 
-.widget-buttons {
-	margin: 0 1em;
-	width: 107px;
-	flex-shrink: 0;
-	flex-grow: 0;
-}
-
-.widget-buttons__title {
-	font-size: 0.9rem;
-	font-weight: 800;
-	text-transform: uppercase;
-	letter-spacing: 0.8px;
-	margin-bottom: 0.3em;	
-}
-
-.widget-buttons__buttons {
-	display: flex;
-	justify-content: space-between;
-}
-
-
-.widget-buttons__instagram,
-.widget-buttons__youtube {
-	width: 45%;
-}
-
 
 
 
 /* 
-##########################################
-##########################################
 
-ABOUT
 
-##########################################
-##########################################
+//...................................................................................
+//..................bbbbb............................................................
+//..................bbbbb......................................................tt....
+//..................bbbbb....................................................tttt....
+//..................bbbbb...................................................ttttt....
+//..................bbbbb...................................................ttttt....
+//..................bbbbb...................................................ttttt....
+//.....aaaaaaa......bbbbb..bbbbb...........oooooo........uuuuu.....uuuuu..utttttttt..
+//...aaaaaaaaaaa....bbbbbbbbbbbbbb.......oooooooooo......uuuuu.....uuuuu..utttttttt..
+//..aaaaaaaaaaaaa...bbbbbbbbbbbbbbb.....ooooooooooooo....uuuuu.....uuuuu..utttttttt..
+//.aaaaaaaaaaaaaa...bbbbbbbbbbbbbbbb...oooooooooooooo....uuuuu.....uuuuu..utttttttt..
+//.aaaaa....aaaaa...bbbbbbb...bbbbbb..booooo....oooooo...uuuuu.....uuuuu....ttttt....
+//...aaa....aaaaa...bbbbbb.....bbbbb..boooo......ooooo...uuuuu.....uuuuu....ttttt....
+//.........aaaaaa...bbbbbb.....bbbbb..boooo......oooooo..uuuuu.....uuuuu....ttttt....
+//....aaaaaaaaaaa...bbbbb......bbbbb..boooo.......ooooo..uuuuu.....uuuuu....ttttt....
+//..aaaaaaaaaaaaa...bbbbb......bbbbb..boooo.......ooooo..uuuuu.....uuuuu....ttttt....
+//.aaaaaaaaaaaaaa...bbbbb......bbbbb..boooo.......ooooo..uuuuu.....uuuuu....ttttt....
+//.aaaaaaa..aaaaa...bbbbbb.....bbbbb..boooo......oooooo..uuuuu.....uuuuu....ttttt....
+//.aaaaa....aaaaa...bbbbbb.....bbbbb..boooo......ooooo...uuuuu....uuuuuu....ttttt....
+//.aaaaa...aaaaaa...bbbbbbb...bbbbbb..booooo....oooooo...uuuuuu...uuuuuu....ttttt....
+//.aaaaaaaaaaaaaa...bbbbbbbbbbbbbbb....oooooooooooooo....uuuuuuuuuuuuuuu....ttttttt..
+//.aaaaaaaaaaaaaa...bbbbbbbbbbbbbbb.....oooooooooooo......uuuuuuuuuuuuuu....ttttttt..
+//..aaaaaaaaaaaaaa..bbbbbbbbbbbbbb.......oooooooooo.......uuuuuuuuuuuuuu.....tttttt..
+//...aaaaaa..aaaaa..bbbbb..bbbbb...........oooooo...........uuuuu..uuuuu......ttttt..
+//...................................................................................
+
+
 */
 
 .about__flexbox {
@@ -399,7 +486,7 @@ ABOUT
 
 .trio-biography, 
 .bio-include p {
-	line-height: 1.8;
+	/* line-height: 1.8; */
 	margin-bottom: 1em;
 }
 
@@ -407,13 +494,28 @@ ABOUT
 
 
 /* 
-##########################################
-##########################################
 
-C  O  N  T  A  C  T  
+//.......................................................................................
+//...............................................t..................................t....
+//.............................................ttt................................ttt....
+//............................................tttt...............................tttt....
+//............................................tttt...............................tttt....
+//....cccccc........ooooo......onnn.nnnnn....nttttttt...aaaaaa........cccccc...cctttttt..
+//...cccccccc.....ooooooooo....onnnnnnnnnnn..nttttttt..aaaaaaaaa.....cccccccc..cctttttt..
+//..cccccccccc...ooooooooooo...onnnnnnnnnnn..nttttttt.aaaaaaaaaa....cccccccccc.cctttttt..
+//.cccccccccccc..oooooooooooo..onnnnnnnnnnn..nttttttt.aaaa..aaaaa..accccccccccccctttttt..
+//.ccccc..ccccc.coooo...ooooo..onnnn...nnnn...tttt....aaa....aaaa..acccc..ccccc..tttt....
+//.cccc....cc...cooo.....oooo..onnnn...nnnn...tttt........aaaaaaa..accc....cc....tttt....
+//.cccc.........cooo.....oooo..onnn....nnnn...tttt.....aaaaaaaaaa..accc..........tttt....
+//.cccc.........cooo.....oooo..onnn....nnnn...tttt....aaaaaaaaaaa..accc..........tttt....
+//.cccc....cc...cooo.....oooo..onnn....nnnn...tttt...taaaaa..aaaa..accc....cc....tttt....
+//.ccccc..ccccc.coooo...ooooo..onnn....nnnn...tttt...taaa...aaaaa..acccc..ccccc..tttt....
+//.cccccccccccc..oooooooooooo..onnn....nnnn...ttttttttaaaa..aaaaa..accccccccccc..tttttt..
+//..cccccccccc...ooooooooooo...onnn....nnnn...ttttttttaaaaaaaaaaa...cccccccccc...tttttt..
+//...ccccccccc....ooooooooo....onnn....nnnn....tttttt.aaaaaaaaaaa....ccccccccc...tttttt..
+//....cccccc........ooooo......onnn....nnnn.....ttttt..aaaaa.aaaa.....cccccc.......tttt..
+//.......................................................................................
 
-##########################################
-##########################################
 */
 
 
@@ -423,17 +525,16 @@ C  O  N  T  A  C  T
 }
 
 .contact__body {
-	line-height: 1.4em;
+	/* line-height: 1.4em; */
 	margin-bottom: 1.4em;
 }
 
 .emails-list {
-	list-style: none;
 	padding-left: 1.7em;
 }
 
 .emails-list li {
-	line-height: 1.4em;
+	/* line-height: 1.4em; */
 	margin-bottom: 1em;
 }
 
@@ -443,10 +544,10 @@ form {
 
 input,
 textarea {
-	font-family: 'Roboto', sans-serif;
+	font-family: var(--ff-body);
 	width: 100%;
 	margin: 12px 0;
-	background-color: #cdd9e0;
+	background-color: var(--clr-bg-card);
 	border: none;
 	padding: 12px;
 }
@@ -455,16 +556,6 @@ label {
 	padding: 5px;
 }
 
-.btn--send {
-	color: #192b43;
-	padding: 1em 2em;
-	border-radius: 1.8em;
-	border: solid #192b43 2px;
-	background-color: #eee;
-	font-weight: 600;
-	font-size: 1rem;
-	cursor: pointer;
-}
 
 
 
@@ -492,14 +583,41 @@ label {
 
 main {
 	padding: 5rem 0 5rem;
+	line-height: 1.8em; /* this is meant to substitute all the line height rules */
 }
 
 h1{
+	color: var(--clr-h1);
 	font-size: 2rem;
 	font-weight: 300;
 	margin-top: 0.5em;
 	margin-bottom: 0.75em ;
 }
+
+main a {
+	font-weight: bold;
+	color: var(--clr-main-links);
+}
+
+
+.btn--send, .btn--show-hide {
+	color: var(--clr-main-btn);
+	padding: 1em 2em;
+	border-radius: 1.8em;
+	border: solid var(--clr-main-btn) 2px;
+	background-color: var(--clr-bg-main-btn);
+	font-weight: 600;
+	font-size: 1rem;
+	cursor: pointer;
+}
+
+
+/*for concert programmes and members-list*/
+.indent-wrapped {
+    padding-left: 0.5em;
+    text-indent: -0.5em;
+}
+
 
 
 
@@ -527,37 +645,13 @@ h1{
 */
 
 
-/* P  A  S  T     C  O  N  C  E  R  T  S */
+
 
 .past-concerts-title-line {
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 }
-
-.btn--show-hide {
-	margin: auto 0;
-	color: #192b43;
-	padding: 1em 2em;
-	border-radius: 1.8em;
-	border: solid #192b43 2px;
-	background-color: #eee;
-	font-weight: 600;
-	font-size: 1rem;
-	cursor: pointer;
-	/* border: solid #2828e6 2px;
-	border-radius: 0.5em;
-	line-height: 1.1;
-	padding: 0 0;
-	background: none;
-	cursor: pointer;
-	font-weight: bold;
-	color: #2828e6;
-	font-size: 1.2rem; */
-}
-
-
-
-
 
 
 .concert {
@@ -580,7 +674,7 @@ h1{
 .concert__text {
 	width: 100%;
 	flex-shrink: 1;
-	line-height: 1.5;
+	/* line-height: 1.5; */
 }
 
 .concert__body {
@@ -615,15 +709,11 @@ h1{
 }
 
 .concert__programme__list {
-	list-style: none;
 	margin-bottom: 1em;
 }
 
-/*for concert programmes and members-list*/
-.indent-wrapped {
-    padding-left: 0.5em;
-    text-indent: -0.5em;
-}
+
+
 
 
 

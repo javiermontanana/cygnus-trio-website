@@ -1,26 +1,13 @@
 ---
 title: "Acerca del Trío"
 name_en: "about"
-layout: default
+layout: about-page
 lang: es
 filename: acerca-de.html
 slug: /es/acerca-de
 ---
 
-
-<main>
-    <div class="container">
-      <h1 class="page-title">{{ page.title }}</h1>
-      <div class="about__flexbox">
-        <div class="about__text">
-          <div class="bio-include">
-            {% capture biography %}{% include biographies/biografia-trio.md %}{% endcapture %}
-            {{ biography | markdownify }}
-          </div>
-        </div>
-        <div class="about__image">
-                  <img src="/images/bio-image.jpg" alt="Cygnus Trio" />
-        </div>
-      </div>
-    </div>
-  </main>
+<div class="bio-include">
+  {% capture biography %}{% include biographies/biografia-trio.md %}{% endcapture %}
+  {{ biography | markdownify }}
+</div>

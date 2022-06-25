@@ -3,40 +3,18 @@ layout: homepage
 lang: en
 filename: index.html
 slug: /
+text:
+  members-list:
+   - "Javier Montañana, violin"
+   - "Hannah Lewis, cello"
+   - "Cesar Saura, piano"
+  image:
+    src: "/images/home-image.jpg"
+    alt: "Cygnus Trio"
+  widget-video:
+    title: "Beethoven: Trio in D major op.70 no.1 'Ghost'"
+    youtube-id: Hn_SPmwn3MM
+  widget-calendar:
+    title: "Next Concert:"
+    link-text: "more info"
 ---
-
-<!-- 
-<div class="container">
-<main>
-	<div class="home-wrapper">
-
-		<div class="flex-row">
-			{% include homepage/members-list.html %}
-			<div class="home-image">
-				<img src="{{ site.data.home-content.image.src }}" alt="{{ site.data.home-content.image.alt }}">
-			</div>
-		</div>
-		<div class="flex-row">
-			<div class="widget-video">
-				<h2 class="widget-video__title">{{ site.data.home-content.widget-video.title[page.lang] }}</h2>
-				<figure class="video__figure">
-					<iframe class="video-embed" src="https://www.youtube.com/embed/{{ site.data.home-content.widget-video.youtube-id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				</figure>
-			</div>
-			<div class="widget-calendar">
-				<h2 class="widget-calendar__title">Next Concert:</h2>
-				<h3 class="widget-calendar__concert-title">{{ site.data.concerts[0].homepage-title[page.lang] }}</h3>
-				<p class="widget-calendar__concert-body">
-					{{ site.data.concerts[0].homepage-line1[page.lang] }} <br>
-					{{ site.data.concerts[0].homepage-line2[page.lang] }}
-				</p>
-				{% if site.data.concerts[0].homepage-more-info-link %}
-				<p class="widget__calendar__more-info">
-					<a class="concert__more-info-link" href="{{ site.data.concerts[0].more-info-link-path }}">more info</a>
-				</p>
-				{% endif %}
-			</div>
-		</div>
-  </div>
-</main>
-</div> -->

@@ -1,5 +1,5 @@
-rel_path,rel_path_es,name_en,name_es
-"/","/es/","home","inicio"
+slug_en,slug_es,name_en,name_es
+"/","/es","home","inicio"
 "/about","/es/acerca-de","about","acerca de"
 "/concerts","/es/conciertos","concerts","conciertos"
 "/videos","/es/videos","videos","v&iacute;deos"
