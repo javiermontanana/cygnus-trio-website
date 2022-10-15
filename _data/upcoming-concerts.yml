@@ -1,38 +1,38 @@
-- 2022-06-18-maxability:
-  title: 
-    en: "Concert for Maxability"
-    es: "Concierto para Maxability"
-  tagline:
-    en:
-    es:
-  image-path: https://maxability.org.uk/wp-content/uploads/2021/03/cropped-logo-ksiega-znaku-09.png
-  date-time: 
-    en: "Saturday 18 June 2022 - 7:30pm"
-    es: "Sábado 18 de junio 2022 - 19:30"
-  venue: 
-    name: 
-      en: 
-      es: 
-    address:
-      en:
-      - near Arnos Grove
-      - North London
-      es:
-  programme: 
-    en:
-      - "Beethoven: Trio in D major Op. 70 No. 1 'Ghost'"
-      - "Tchaikovsky: Trio in A minor Op. 50"
-    es:
-      - "Beethoven: Trio en Re mayor Op. 70 No. 1 'Ghost'"
-      - "Tchaikovsky: Trio en La minor Op. 50"
-  more-info-link-path: https://maxability.org.uk/concerts/
-  homepage-title: 
-    en: "Maxability"
-    es: "Maxability"
-  homepage-line1: 
-    en: "Saturday 18 June"
-    es: "Sábado 18 de junio"
-  homepage-line2: 
-    en: "Tchaikovsky Trio in A minor"
-    es: "Tchaikovsky Trio en La menor"
-  homepage-more-info-link: true
+# - 2022-06-18-maxability:
+#   title: 
+#     en: "Concert for Maxability"
+#     es: "Concierto para Maxability"
+#   tagline:
+#     en:
+#     es:
+#   image-path: https://maxability.org.uk/wp-content/uploads/2021/03/cropped-logo-ksiega-znaku-09.png
+#   date-time: 
+#     en: "Saturday 18 June 2022 - 7:30pm"
+#     es: "Sábado 18 de junio 2022 - 19:30"
+#   venue: 
+#     name: 
+#       en: 
+#       es: 
+#     address:
+#       en:
+#       - near Arnos Grove
+#       - North London
+#       es:
+#   programme: 
+#     en:
+#       - "Beethoven: Trio in D major Op. 70 No. 1 'Ghost'"
+#       - "Tchaikovsky: Trio in A minor Op. 50"
+#     es:
+#       - "Beethoven: Trio en Re mayor Op. 70 No. 1 'Ghost'"
+#       - "Tchaikovsky: Trio en La minor Op. 50"
+#   more-info-link-path: https://maxability.org.uk/concerts/
+#   homepage-title: 
+#     en: "Maxability"
+#     es: "Maxability"
+#   homepage-line1: 
+#     en: "Saturday 18 June"
+#     es: "Sábado 18 de junio"
+#   homepage-line2: 
+#     en: "Tchaikovsky Trio in A minor"
+#     es: "Tchaikovsky Trio en La menor"
+#   homepage-more-info-link: true
