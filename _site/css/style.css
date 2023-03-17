@@ -590,8 +590,8 @@ h1{
 	color: var(--clr-h1);
 	font-size: 2rem;
 	font-weight: 300;
-	margin-top: 0.5em;
-	margin-bottom: 0.75em ;
+	margin-top: 0em;
+	margin-bottom: 1.9em ;
 }
 
 main a {
@@ -645,12 +645,10 @@ main a {
 */
 
 
-
-
 .past-concerts-title-line {
 	display: flex;
 	justify-content: space-between;
-	align-items: center;
+	align-items: flex-start;
 }
 
 

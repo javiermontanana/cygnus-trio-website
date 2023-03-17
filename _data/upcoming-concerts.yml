@@ -1,38 +1,211 @@
-# - 2022-06-18-maxability:
-#   title: 
-#     en: "Concert for Maxability"
-#     es: "Concierto para Maxability"
-#   tagline:
-#     en:
-#     es:
-#   image-path: https://maxability.org.uk/wp-content/uploads/2021/03/cropped-logo-ksiega-znaku-09.png
-#   date-time: 
-#     en: "Saturday 18 June 2022 - 7:30pm"
-#     es: "Sábado 18 de junio 2022 - 19:30"
-#   venue: 
-#     name: 
-#       en: 
-#       es: 
-#     address:
-#       en:
-#       - near Arnos Grove
-#       - North London
-#       es:
-#   programme: 
-#     en:
-#       - "Beethoven: Trio in D major Op. 70 No. 1 'Ghost'"
-#       - "Tchaikovsky: Trio in A minor Op. 50"
-#     es:
-#       - "Beethoven: Trio en Re mayor Op. 70 No. 1 'Ghost'"
-#       - "Tchaikovsky: Trio en La minor Op. 50"
-#   more-info-link-path: https://maxability.org.uk/concerts/
-#   homepage-title: 
-#     en: "Maxability"
-#     es: "Maxability"
-#   homepage-line1: 
-#     en: "Saturday 18 June"
-#     es: "Sábado 18 de junio"
-#   homepage-line2: 
-#     en: "Tchaikovsky Trio in A minor"
-#     es: "Tchaikovsky Trio en La menor"
-#   homepage-more-info-link: true
+- 2023-04-16-st-marys-perivale:
+  title: 
+    en: "St Mary's Perivale"
+    es: "St Mary's Perivale"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/st-marys-perivale.jpg
+  date-time: 
+    en: "Sunday 16 April 2023 - 3:00 pm"
+    es: "Domingo 16 de abril 2023 - 15:00"
+  venue: 
+    name: 
+      en: St Mary's Perivale
+      es: St Mary's Perivale
+    address: 
+      en: 
+        - Perivale Lane
+        - Perivale UB6 8SS
+        - United Kingdom
+      es:
+        - Perivale Lane
+        - Perivale UB6 8SS
+        - Reino Unido
+  programme: 
+    en:
+      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
+      - "F. Mendelssohn: Trio no.1 in D minor op.49"
+    es:
+      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
+      - "F. Mendelssohn: Trio no.1 en Re menor op.49"
+  more-info-link-path: https://www.st-marys-perivale.org.uk/events-2023-04-16.shtml
+  homepage-title: 
+    en: "St Mary's Perivale"
+    es: "St Mary's Perivale"
+  homepage-line1: 
+    en: "Sunday 16 April"
+    es: "Domingo 16 de abril"
+  homepage-line2: 
+    en: "Works by E. Fernández-Arbós <br>and Mendelssohn"
+    es: "Obras de E. Fenrández Arbós <br>y Mendelssohn"
+  homepage-more-info-link: true
+
+- 2023-05-20-witham-URC:
+  title: 
+    en: Concert in support of House of Grace
+    es: Concierto para la asociación House of Grace
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/witham-urc.jpg
+  date-time: 
+    en: Saturday 20 May 2023 - 7:30pm
+    es: Sábado 20 de mayo 2023 - 19:30
+  venue: 
+    name: 
+     en: United Reformed Church, Witham
+     es: United Reformed Church, Witham
+    address:
+      en:
+        - 90 Newland Street
+        - Witham CM8 1AH
+        - United Kingdom
+      es:
+  programme: 
+    en:
+      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
+      - "J. Turina: Trio no. 2 in B minor"
+      - "M. Ravel: Trio in A minor"
+    es:
+      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
+      - "J. Turina: Trio no. 2 en Si menor"
+      - "M. Ravel: Trio en La menor"
+  more-info-link-path: 
+  homepage-title: 
+    en: "Witham URC"
+    es: "Witham URC"
+  homepage-line1: 
+    en: "Saturday 20 May"
+    es: "Sábado 20 de mayo"
+  homepage-line2: 
+    en: "Works by E. Fernández-Arbós, <br> J. Turina and M. Ravel"
+    es: "Obras de E. Fenrández Arbós, <br> J. Turina y M. Ravel"
+  homepage-more-info-link: false
+
+- 2023-05-24-la-nau:
+  title: 
+    en: La Nau Concerts
+    es: Conciertos de La Nau
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/la-nau.jpg
+  date-time: 
+    en: Wednesday 24 May 2023 - 7:30pm
+    es: Miércoles 24 de mayo 2023 - 19:30
+  venue: 
+    name: 
+     en: La Nau, University of Valencia
+     es: Capilla de la Sapiencia, La Nau, Universitat de València
+    address:
+      en:
+      es:
+  programme: 
+    en:
+      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
+      - "J. Turina: Trio no. 2 in B minor"
+      - "M. Ravel: Trio in A minor"
+    es:
+      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
+      - "J. Turina: Trio no. 2 en Si menor"
+      - "M. Ravel: Trio en La menor"
+  more-info-link-path: 
+  homepage-title: 
+    en: "La Nau"
+    es: "La Nau"
+  homepage-line1: 
+    en: "Wednesday 24 May"
+    es: "Miércoles 24 de mayo"
+  homepage-line2: 
+    en: "Works by E. Fernández-Arbós, <br> J. Turina and M. Ravel"
+    es: "Obras de E. Fenrández Arbós, <br> J. Turina y M. Ravel"
+  homepage-more-info-link: false
+
+
+
+- 2023-06-08-harrow:
+  title: 
+    en: St John's Harrow
+    es: St John's Harrow
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/lily1.jpg
+  date-time: 
+    en: Thursday 8 June 2023 
+    es: Jueves 8 de junio 2023 
+  venue: 
+    name: 
+     en: St Jonh's Church, Harrow
+     es: St Jonh's Church, Harrow
+    address:
+      en:
+        - Church of St John the Baptisp
+        - Sheepcote Road
+        - Harrow HA1 2JE
+        - United Kingdom
+      es:
+        - Church of St John the Baptisp
+        - Sheepcote Road
+        - Harrow HA1 2JE
+        - United Kingdom      
+  programme: 
+    en:
+      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
+      - "J. Turina: Trio no. 2 in B minor"
+      - "M. Ravel: Trio in A minor"
+    es:
+      - "Beethoven: Trio en Re mayor Op. 70 No. 1 'Ghost'"
+      - "J. Turina: Trio no. 2 en Si menor"
+      - "M. Ravel: Trio en La menor"
+  more-info-link-path: http://www.stjohnsharrow.org/events/
+  homepage-title: 
+    en: "St John's Harrow"
+    es: "St John's Harrow"
+  homepage-line1: 
+    en: "Thursday 10 June"
+    es: "Jueves 10 de junio"
+  homepage-line2: 
+    en: "Works by E. Fernández-Arbós, <br> J. Turina and M. Ravel"
+    es: "Obras de E. Fenrández Arbós, <br> J. Turina y M. Ravel"
+  homepage-more-info-link: true
+
+- 2023-07-07-Goodnestone:
+  title: 
+    en: Goodnestone
+    es: Goodnestone
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/lily2.jpg
+  date-time: 
+    en: Friday 7 July 2023 - 7:30pm
+    es: Viernes 7 de julio 2023 - 19:30
+  venue: 
+    name: 
+     en: Goodnestone
+     es: Goodnestone
+    address:
+      en:
+      es:
+  programme: 
+    en:
+      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
+      - "J. Turina: Trio no. 2 in B minor"
+      - "M. Ravel: Trio in A minor"
+    es:
+      - "Beethoven: Trio en Re mayor Op. 70 No. 1 'Ghost'"
+      - "J. Turina: Trio no. 2 en Si menor"
+      - "M. Ravel: Trio en La menor"
+  more-info-link-path: 
+  homepage-title: 
+    en: "Goodnestone"
+    es: ""
+  homepage-line1: 
+    en: "Friday 7 July"
+    es: "Viernes 7 de Julio"
+  homepage-line2: 
+    en: "Works by E. Fernández-Arbós, <br> J. Turina and M. Ravel"
+    es: "Obras de E. Fenrández Arbós, <br> J. Turina y M. Ravel"
+  homepage-more-info-link: false

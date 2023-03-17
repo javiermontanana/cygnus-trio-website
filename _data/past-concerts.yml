@@ -5,7 +5,7 @@
   tagline:
     en: 
     es:
-  image-path: https://maxability.org.uk/wp-content/uploads/2021/03/cropped-logo-ksiega-znaku-09.png
+  image-path: /images/concerts/maxability-logo.png
   date-time: 
     en: "Saturday 18 June 2022 - 7:30pm"
     es: "Sábado 18 de junio 2022 - 19:30"
@@ -44,7 +44,7 @@
   tagline:
     en:
     es: 
-  image-path: /images/house-of-grace-concert.jpg
+  image-path: /images/concerts/house-of-grace-concert.jpg
   date-time: 
     en: Saturday 28 May 2022 - 7:30pm
     es: Sábado 28 de mayo 2022 - 19:30
@@ -93,8 +93,6 @@
       - "R Schumann: Trio en Re menor"
       - "F. Mendelssohn: Trio en Re menor"
 
-
-
 - 2021-12-02-NNLS:
   title: 
     en: "Intermezzo Concert at New North London Synagogue"
@@ -121,7 +119,6 @@
       - "F. Mendelssohn: Trio no.1 en Re menor op.49"
   more-info-link-path: "https://www.mynnls.org.uk/event/Intermezzo"
 
-
 - 2021-11-08-witham-urc:
   title: 
     en: "Saint-Sa&euml;ns Centenary Concert"
@@ -129,7 +126,7 @@
   tagline: 
     en: "In commemoration of the 100th anniversary of his death, we perform a programme of works by Camille Saint-Saëns."
     es: "En conmemoraci&oacute;n del centenario de su muerte, interpretamos un programa con obras de Camille Saint-Saëns."
-  image-path: /images/saint-saens.png
+  image-path: /images/concerts/saint-saens.png
   date-time: 
     en: Monday 8 November 2021 - 1:00pm
     es: Lunes 8 de noviembre - 1:00pm
@@ -160,7 +157,7 @@
   title: 
     en: "Music at St Mary's Perivale"
     es: "Music at St Mary's Perivale"
-  image-path: /images/st-marys-perivale.jpg
+  image-path: /images/concerts/st-marys-perivale.jpg
   date-time: 
     en: Thursday 28 October 2021 - 3:00pm
     es: Jueves 28 de Octubre 2021 - 15:00

@@ -42,7 +42,10 @@ layout: default
         </section>
         {% endfor %}
         </div>
-        <h1> {{ page.text.upcoming }} </h1>
+        <div class="upcoming-concerts-title-line">
+            <h1> {{ page.text.upcoming }} </h1>
+        </div>
+
         <!-- this could be an include instead? -->
         {% for concert in site.data.upcoming-concerts %}
         <section class="concert">
