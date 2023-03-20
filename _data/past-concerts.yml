@@ -1,3 +1,42 @@
+- 2023-01-24-stanmore:
+  title: 
+    en: "B'nai B'rith Yitzchak Rabin"
+    es: "B'nai B'rith Yitzchak Rabin"
+  tagline:
+    en: 
+    es:
+  image-path: /images/concerts/bbrabin.jpg
+  date-time: 
+    en: "24 January 2023"
+    es: "24 de enero 2023"
+  venue: 
+    name: 
+      en: "B'nai B'rith Yitzchak Rabin Lodge"
+      es: "B'nai B'rith Yitzchak Rabin Lodge"
+    address:
+      en:
+      - Stanmore      
+      es:
+      - Stanmore
+  programme: 
+    en:
+      - "J. Turina: Trio No. 2 in B minor Op. 76"
+      - "Tchaikovsky: Trio in A minor Op. 50"
+    es:
+      - "J. Turina: Trio No. 2 en Si menor Op. 76"
+      - "Tchaikovsky: Trio en La minor Op. 50"
+  more-info-link-path: https://bbrabin.co.uk/
+  homepage-title: 
+    en: 
+    es: 
+  homepage-line1: 
+    en: 
+    es: 
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: true
+
 - 2022-06-18-maxability:
   title: 
     en: "Concert for Maxability"
