@@ -1,3 +1,45 @@
+- 2023-05-24-la-nau:
+  title: 
+    en: La Nau Concerts
+    es: Conciertos de La Nau
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/la-nau.jpg
+  date-time: 
+    en: Wednesday 24 May 2023 - 7:00pm
+    es: Miércoles 24 de mayo 2023 - 19:00
+  venue: 
+    name: 
+     en: La Nau Cultural Centre, University of Valencia
+     es: Capilla de la Sapiencia, Centro Culural La Nau
+    address:
+      en:
+      es:
+        - "c/de la Universitat 2"
+        - "Valencia"
+  programme: 
+    en:
+      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
+      - "J. Turina: Trio no. 2 in B minor"
+      - "M. Ravel: Trio in A minor"
+    es:
+      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
+      - "J. Turina: Trio no. 2 en Si menor"
+      - "M. Ravel: Trio en La menor"
+  more-info-link-path: https://events.fundacio.es/e/1629/cygnus-trio
+  homepage-title: 
+    en: "La Nau"
+    es: "La Nau"
+  homepage-line1: 
+    en: "Wednesday 24 May"
+    es: "Miércoles 24 de mayo"
+  homepage-line2: 
+    en: "Works by E. Fernández-Arbós, <br> J. Turina and M. Ravel"
+    es: "Obras de E. Fenrández Arbós, <br> J. Turina y M. Ravel"
+  homepage-more-info-link: false
+
+
 - 2023-05-20-witham-URC:
   title: 
     en: Concert in support of House of Grace
