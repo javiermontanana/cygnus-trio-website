@@ -1,3 +1,51 @@
+- 2023-06-08-harrow:
+  title: 
+    en: St John's Harrow
+    es: St John's Harrow
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/harrow.jpg
+  date-time: 
+    en: Thursday 8 June 2023 - 12:30pm
+    es: Jueves 8 de junio 2023 - 12:30
+  venue: 
+    name: 
+     en: St Jonh's Church, Harrow
+     es: St Jonh's Church, Harrow
+    address:
+      en:
+        - Church of St John the Baptist
+        - Sheepcote Road
+        - Harrow HA1 2JE
+        - United Kingdom
+      es:
+        - Church of St John the Baptist
+        - Sheepcote Road
+        - Harrow HA1 2JE
+        - United Kingdom      
+  programme: 
+    en:
+      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
+      - "J. Turina: Trio no. 2 in B minor"
+      - "M. Ravel: Trio in A minor"
+    es:
+      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
+      - "J. Turina: Trio no. 2 en Si menor"
+      - "M. Ravel: Trio en La menor"
+  more-info-link-path: http://www.stjohnsharrow.org/events/
+  homepage-title: 
+    en: "St John's Harrow"
+    es: "St John's Harrow"
+  homepage-line1: 
+    en: "Thursday 10 June"
+    es: "Jueves 10 de junio"
+  homepage-line2: 
+    en: "Works by E. Fernández-Arbós, <br> J. Turina and M. Ravel"
+    es: "Obras de E. Fenrández Arbós, <br> J. Turina y M. Ravel"
+  homepage-more-info-link: true
+
+
 - 2023-05-24-la-nau:
   title: 
     en: La Nau Concerts
