@@ -1,3 +1,50 @@
+- 2023-07-07-Goodnestone:
+  title: 
+    en: Stonegrove Serenade 
+    es: Stonegrove Serenade 
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/lily1.jpg
+  date-time: 
+    en: Friday 7 July 2023 - 7:30pm
+    es: Viernes 7 de julio 2023 - 19:30
+  venue: 
+    name: 
+     en: Holy Cross Church, Goodnestone
+     es: Holy Cross Church, Goodnestone
+    address:
+      en:
+        - Holy Cross Church
+        - Goodnestone
+        - Kent CT3 1PL
+      es:
+        - Holy Cross Church
+        - Goodnestone
+        - Kent CT3 1PL
+  programme: 
+    en:
+      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
+      - "J. Turina: Trio no. 2 in B minor"
+      - "M. Ravel: Trio in A minor"
+    es:
+      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
+      - "J. Turina: Trio no. 2 en Si menor"
+      - "M. Ravel: Trio en La menor"
+  more-info-link-path: http://www.goodnestonemusic.com/concerts.html
+  homepage-title: 
+    en: Goodnestone Music
+    es: Goodnestone Music
+  homepage-line1: 
+    en: "Friday 7 July"
+    es: "Viernes 7 de Julio"
+  homepage-line2: 
+    en: "Works by E. Fernández-Arbós, <br> J. Turina and M. Ravel"
+    es: "Obras de E. Fenrández Arbós, <br> J. Turina y M. Ravel"
+  homepage-more-info-link: true
+
+
+
 - 2023-06-08-harrow:
   title: 
     en: St John's Harrow
