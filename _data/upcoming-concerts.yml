@@ -146,3 +146,42 @@
   homepage-more-info-link: true
 
 
+
+- 2024-08-00-Infantes:
+  title: 
+    en: Infates Música 
+    es: Infates Música 
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/infantes.jpg
+  date-time: 
+    en: August 2024
+    es: Agosto 2024
+  venue: 
+    name: 
+      en: 
+      es: 
+    address: 
+      en: 
+        - Villanueva de los Infantes
+        - Ciudad Real 
+        - Spain
+      es:
+        - Villanueva de los Infantes
+        - Ciudad Real 
+  programme: 
+    en: tbc
+    es: por confirmar
+  more-info-link-path: 
+  homepage-title: 
+    en: 
+    es: 
+  homepage-line1: 
+    en: 
+    es: 
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: true
+
