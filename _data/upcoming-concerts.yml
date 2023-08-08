@@ -1,45 +1,148 @@
-- 2023-07-07-Goodnestone:
+
+
+
+- 2023-10-17-Stonegrove:
   title: 
-    en: Goodnestone Music
-    es: Goodnestone Music
+    en: Stonegrove Serenade 
+    es: Stonegrove Serenade 
   tagline:
     en:
     es:
-  image-path: /images/concerts/goodnestone.jpg
+  image-path: /images/concerts/lily1.jpg
   date-time: 
-    en: Friday 7 July 2023 - 7:30pm
-    es: Viernes 7 de julio 2023 - 19:30
+    en: Tuesday 17 October 2023 - 1pm
+    es: Martes 17 de octubre 2023 - 13:00
   venue: 
     name: 
-     en: Holy Cross Church, Goodnestone
-     es: Holy Cross Church, Goodnestone
+     en: Edgware & Hendon Refrom Synagogue
+     es: Edgware & Hendon Refrom Synagogue
     address:
       en:
-        - Holy Cross Church
-        - Goodnestone
-        - Kent CT3 1PL
+        - 180 Stonegrove
+        - HA8 8AB Edgware
+        - 
       es:
-        - Holy Cross Church
-        - Goodnestone
-        - Kent CT3 1PL
+        - 180 Stonegrove
+        - HA8 8AB Edgware
+        - Reino Unido
   programme: 
-    en:
-      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
-      - "J. Turina: Trio no. 2 in B minor"
-      - "M. Ravel: Trio in A minor"
-    es:
-      - "Enrique Fenández Arbós: Tres Piezas en estilo Español"
-      - "J. Turina: Trio no. 2 en Si menor"
-      - "M. Ravel: Trio en La menor"
-  more-info-link-path: http://www.goodnestonemusic.com/concerts.html
+    en: "Works by Haydn and Beethoven"
+    es: "Obras de Haydn y Beethoven"
+  more-info-link-path: 
   homepage-title: 
-    en: Goodnestone Music
-    es: Goodnestone Music
+    en: Stonegrove Serenade
+    es: Stonegrove Serenade
   homepage-line1: 
-    en: "Friday 7 July"
-    es: "Viernes 7 de Julio"
+    en: Tuesday 17 October - 1pm
+    es: Martes 17 de octubre - 13:00
   homepage-line2: 
-    en: "Works by E. Fernández-Arbós, <br> J. Turina and M. Ravel"
-    es: "Obras de E. Fenrández Arbós, <br> J. Turina y M. Ravel"
+    en: "Works by Haydn and Beethoven"
+    es: "Obras de Haydn y Beethoven"
+  homepage-more-info-link: false
+
+
+- 2023-10-00-witham-urc:
+  title: 
+    en: Witham United Reformed Church
+    es: Witham United Reformed Church
+  tagline:
+    en:
+    es: 
+  image-path: /images/concerts/lily2.jpg
+  date-time: 
+    en: October 2023
+    es: Octubre 2023
+  venue: 
+    name: 
+     en: United Reformed Church, Witham
+     es: United Reformed Church, Witham
+    address:
+      en:
+        - 90 Newland Street
+        - Witham CM8 1AH
+        - United Kingdom
+      es:
+  programme:
+    en: "Works by Haydn and Beethoven"
+    es: "Obras de Haydn y Beethoven"
+  more-info-link-path:
+
+
+
+- 2024-01-27-maxability:
+  title: 
+    en: "Maxability"
+    es: "Maxability"
+  tagline:
+    en: Maxability is a charity dedicated to helping disabled adults through pottery classes.
+    es: Maxability es una organización sin ánimo de lucro decicada a ayudar a adultos con discapacidades mediante clases de cerámica.
+  image-path: /images/concerts/maxability-logo.png
+  date-time: 
+    en: "Saturday 27 January 2024 - 7:30pm"
+    es: "Sábado 27 de enero 2024 - 19:30"
+  venue: 
+    name: 
+      en: 
+      es: 
+    address:
+      en:
+      - near Arnos Grove
+      - North London 
+      es:
+  programme: 
+    en: tbc
+    es: por confirmar
+  more-info-link-path: https://maxability.org.uk/concerts/
+  homepage-title: 
+    en: "Maxability"
+    es: "Maxability"
+  homepage-line1: 
+    en: "27 January"
+    es: "27 de enero"
+  homepage-line2: 
+    en: 
+    es: 
   homepage-more-info-link: true
+
+
+
+- 2024-01-27-st-marys-perivale:
+  title: 
+    en: "St Mary's Perivale"
+    es: "St Mary's Perivale"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/st-marys-perivale.jpg
+  date-time: 
+    en: "Sunday 5 May 2024 - 3:00 pm"
+    es: "Domingo 5 de mayo 2024 - 15:00"
+  venue: 
+    name: 
+      en: St Mary's Perivale
+      es: St Mary's Perivale
+    address: 
+      en: 
+        - Perivale Lane
+        - Perivale UB6 8SS
+        - United Kingdom
+      es:
+        - Perivale Lane
+        - Perivale UB6 8SS
+        - Reino Unido
+  programme: 
+    en: tbc
+    es: por confirmar
+  more-info-link-path: 
+  homepage-title: 
+    en: "St Mary's Perivale"
+    es: "St Mary's Perivale"
+  homepage-line1: 
+    en: "Sunday 5 May"
+    es: "Domingo 5 de mayo"
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: true
+
 

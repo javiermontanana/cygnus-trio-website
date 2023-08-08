@@ -1,11 +1,11 @@
 - 2023-07-07-Goodnestone:
   title: 
-    en: Stonegrove Serenade 
-    es: Stonegrove Serenade 
+    en: Goodnestone Music
+    es: Goodnestone Music
   tagline:
     en:
     es:
-  image-path: /images/concerts/lily1.jpg
+  image-path: /images/concerts/goodnestone.jpg
   date-time: 
     en: Friday 7 July 2023 - 7:30pm
     es: Viernes 7 de julio 2023 - 19:30
@@ -42,8 +42,6 @@
     en: "Works by E. Fernández-Arbós, <br> J. Turina and M. Ravel"
     es: "Obras de E. Fenrández Arbós, <br> J. Turina y M. Ravel"
   homepage-more-info-link: true
-
-
 
 - 2023-06-08-harrow:
   title: 
@@ -92,7 +90,6 @@
     es: "Obras de E. Fenrández Arbós, <br> J. Turina y M. Ravel"
   homepage-more-info-link: true
 
-
 - 2023-05-24-la-nau:
   title: 
     en: La Nau Concerts
@@ -133,7 +130,6 @@
     en: "Works by E. Fernández-Arbós, <br> J. Turina and M. Ravel"
     es: "Obras de E. Fenrández Arbós, <br> J. Turina y M. Ravel"
   homepage-more-info-link: false
-
 
 - 2023-05-20-witham-URC:
   title: 
@@ -440,3 +436,4 @@
       - "L. van Beethoven: Trio in D major op.70 no.1, 'Ghost'"
       - "R. Schumann: Trio no.1 in D minor op.63"
   more-info-link-path: https://www.st-marys-perivale.org.uk/events-2021-10-28.shtml
+
