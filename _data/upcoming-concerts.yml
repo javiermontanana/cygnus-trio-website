@@ -1,4 +1,67 @@
+- 2023-09-14-stanmore:
+  title: 
+    en: "B'nai B'rith Yitzchak Rabin"
+    es: "B'nai B'rith Yitzchak Rabin"
+  tagline:
+    en: 
+    es:
+  image-path: /images/concerts/bbrabin.jpg
+  date-time: 
+    en: "14 September 2023"
+    es: "14 de septiembre de 2023"
+  venue: 
+    name: 
+      en: "B'nai B'rith Yitzchak Rabin Lodge"
+      es: "B'nai B'rith Yitzchak Rabin Lodge"
+    address:
+      en:
+      - Stanmore      
+      es:
+      - Stanmore
+  programme: 
+    en:
+      - "Mozart: Trio in E major K.542"
+      - "E. Fernandez Arbos: Tres Piezas en Estilo Español"
+    es:
+      - "Mozart: Trio en Mi mayor K.542"
+      - "E. Fernandez Arbos: Tres Piezas en Estilo Español"
+  more-info-link-path: https://bbrabin.co.uk/
+  homepage-title: 
+    en: Yitzchak Rabin Lodge, Stanmore
+    es: Yitzchak Rabin Lodge, Stanmore
+  homepage-line1: 
+    en: 14 September
+    es: 14 de septiembre
+  homepage-line2: 
+    en: Works by Mozart and Fernández Arbós
+    es: Obras de Mozart y Fernández Arbós
+  homepage-more-info-link: true
 
+- 2023-10-16-witham-urc:
+  title: 
+    en: Witham United Reformed Church
+    es: Witham United Reformed Church
+  tagline:
+    en:
+    es: 
+  image-path: /images/concerts/lily2.jpg
+  date-time: 
+    en: 16 October 2023
+    es: 16 de Octubre 2023
+  venue: 
+    name: 
+     en: United Reformed Church, Witham
+     es: United Reformed Church, Witham
+    address:
+      en:
+        - 90 Newland Street
+        - Witham CM8 1AH
+        - United Kingdom
+      es:
+  programme:
+    en: "Works by Haydn and Beethoven"
+    es: "Obras de Haydn y Beethoven"
+  more-info-link-path:
 
 
 - 2023-10-17-Stonegrove:
@@ -41,31 +104,7 @@
   homepage-more-info-link: false
 
 
-- 2023-10-00-witham-urc:
-  title: 
-    en: Witham United Reformed Church
-    es: Witham United Reformed Church
-  tagline:
-    en:
-    es: 
-  image-path: /images/concerts/lily2.jpg
-  date-time: 
-    en: October 2023
-    es: Octubre 2023
-  venue: 
-    name: 
-     en: United Reformed Church, Witham
-     es: United Reformed Church, Witham
-    address:
-      en:
-        - 90 Newland Street
-        - Witham CM8 1AH
-        - United Kingdom
-      es:
-  programme:
-    en: "Works by Haydn and Beethoven"
-    es: "Obras de Haydn y Beethoven"
-  more-info-link-path:
+
 
 
 
