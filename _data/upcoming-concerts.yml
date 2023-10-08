@@ -23,6 +23,16 @@
     en: "Works by Haydn and Beethoven"
     es: "Obras de Haydn y Beethoven"
   more-info-link-path:
+  homepage-title: 
+    en: Witham URC
+    es: Witham URC
+  homepage-line1: 
+    en: Monday 16 October - 1pm
+    es: Lunes 16 de octubre - 13:00
+  homepage-line2: 
+    en: "Works by Haydn and Beethoven"
+    es: "Obras de Haydn y Beethoven"
+  homepage-more-info-link: false  
 
 
 - 2023-10-17-Stonegrove:
@@ -52,7 +62,7 @@
   programme: 
     en: "Works by Haydn and Beethoven"
     es: "Obras de Haydn y Beethoven"
-  more-info-link-path: 
+  more-info-link-path: https://www.ehrs.uk/event/stonegrove-serenade-october-2023/
   homepage-title: 
     en: Stonegrove Serenade
     es: Stonegrove Serenade
@@ -62,7 +72,7 @@
   homepage-line2: 
     en: "Works by Haydn and Beethoven"
     es: "Obras de Haydn y Beethoven"
-  homepage-more-info-link: false
+  homepage-more-info-link: true
 
 
 
