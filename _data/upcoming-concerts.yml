@@ -1,85 +1,4 @@
-- 2023-10-16-witham-urc:
-  title: 
-    en: Witham United Reformed Church
-    es: Witham United Reformed Church
-  tagline:
-    en:
-    es: 
-  image-path: /images/concerts/lily2.jpg
-  date-time: 
-    en: 16 October 2023
-    es: 16 de Octubre 2023
-  venue: 
-    name: 
-     en: United Reformed Church, Witham
-     es: United Reformed Church, Witham
-    address:
-      en:
-        - 90 Newland Street
-        - Witham CM8 1AH
-        - United Kingdom
-      es:
-  programme:
-    en: "Works by Haydn and Beethoven"
-    es: "Obras de Haydn y Beethoven"
-  more-info-link-path:
-  homepage-title: 
-    en: Witham URC
-    es: Witham URC
-  homepage-line1: 
-    en: Monday 16 October - 1pm
-    es: Lunes 16 de octubre - 13:00
-  homepage-line2: 
-    en: "Works by Haydn and Beethoven"
-    es: "Obras de Haydn y Beethoven"
-  homepage-more-info-link: false  
-
-
-- 2023-10-17-Stonegrove:
-  title: 
-    en: Stonegrove Serenade 
-    es: Stonegrove Serenade 
-  tagline:
-    en:
-    es:
-  image-path: /images/concerts/lily1.jpg
-  date-time: 
-    en: Tuesday 17 October 2023 - 1pm
-    es: Martes 17 de octubre 2023 - 13:00
-  venue: 
-    name: 
-     en: Edgware & Hendon Refrom Synagogue
-     es: Edgware & Hendon Refrom Synagogue
-    address:
-      en:
-        - 180 Stonegrove
-        - HA8 8AB Edgware
-        - 
-      es:
-        - 180 Stonegrove
-        - HA8 8AB Edgware
-        - Reino Unido
-  programme: 
-    en: "Works by Haydn and Beethoven"
-    es: "Obras de Haydn y Beethoven"
-  more-info-link-path: https://www.ehrs.uk/event/stonegrove-serenade-october-2023/
-  homepage-title: 
-    en: Stonegrove Serenade
-    es: Stonegrove Serenade
-  homepage-line1: 
-    en: Tuesday 17 October - 1pm
-    es: Martes 17 de octubre - 13:00
-  homepage-line2: 
-    en: "Works by Haydn and Beethoven"
-    es: "Obras de Haydn y Beethoven"
-  homepage-more-info-link: true
-
-
-
-
-
-
-- 2024-01-27-maxability:
+- 2024-02-03-maxability:
   title: 
     en: "Maxability"
     es: "Maxability"
@@ -88,8 +7,8 @@
     es: Maxability es una organización sin ánimo de lucro decicada a ayudar a adultos con discapacidades mediante clases de cerámica.
   image-path: /images/concerts/maxability-logo.png
   date-time: 
-    en: "Saturday 27 January 2024 - 7:30pm"
-    es: "Sábado 27 de enero 2024 - 19:30"
+    en: "Saturday 3 February  2024 - 7:30pm"
+    es: "Sábado 3 de febrero 2024 - 19:30"
   venue: 
     name: 
       en: 
@@ -100,20 +19,63 @@
       - North London 
       es:
   programme: 
-    en: tbc
-    es: por confirmar
+    en: 
+      - "J. Brahms: Trio no. 1 in B major, op. 8"
+      - "F. Schubert: Trio no. 2 in E flat major"
+    es: 
+      - "J Brahms: Trio no. 1 en Si mayor, op. 8"
+      - "F. Schubert: Trio no. 2 en Mi bemol mayor"
   more-info-link-path: https://maxability.org.uk/concerts/
   homepage-title: 
     en: "Maxability"
     es: "Maxability"
   homepage-line1: 
-    en: "27 January"
-    es: "27 de enero"
+    en: "3 February"
+    es: "3 de febrero"
   homepage-line2: 
-    en: 
-    es: 
+    en: Brahms and Schubert
+    es: Brahms y Schubert
   homepage-more-info-link: true
 
+- 2024-02-15-lo-rat-penat:
+  title: 
+    en: "Mes que Musica"
+    es: "Mes que Musica"
+  tagline:
+    en: 
+    es: 
+  image-path: /images/concerts/lily1.jgp
+  date-time: 
+    en: "Thursday 15 February  2024"
+    es: "Jueves 15 de febrero 2024"
+  venue: 
+    name: 
+      en: Lo Rat Penat
+      es: Lo Rat Penat
+    address:
+      en: 
+        - Valencia
+        - Spain
+      es: 
+        - Valencia
+  programme: 
+    en: 
+      - "W A Mozart: Trio in G major, K 564"
+      - "J. Brahms: Trio no. 1 in B major, op. 8"
+    es: 
+      - "W A Mozart: Trio en Sol mayor, K 564"
+      - "J. Brahms: Trio no. 1 en Si mayor, op. 8"
+  more-info-link-path: 
+  homepage-title: 
+    en: Lo Rat Penat, Valencia
+    es: Lo Rat Penat, Valencia
+  homepage-line1: 
+    en: "15 February"
+    es: "15 de febrero"
+  homepage-line2: 
+    en: Mozart and Brahms 
+    es: Mozart y Brahms
+  homepage-more-info-link: false
 
 
 - 2024-01-27-st-marys-perivale:

@@ -1,3 +1,79 @@
+
+- 2023-10-17-Stonegrove:
+  title: 
+    en: Stonegrove Serenade 
+    es: Stonegrove Serenade 
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/lily1.jpg
+  date-time: 
+    en: Tuesday 17 October 2023 - 1pm
+    es: Martes 17 de octubre 2023 - 13:00
+  venue: 
+    name: 
+     en: Edgware & Hendon Refrom Synagogue
+     es: Edgware & Hendon Refrom Synagogue
+    address:
+      en:
+        - 180 Stonegrove
+        - HA8 8AB Edgware
+        - 
+      es:
+        - 180 Stonegrove
+        - HA8 8AB Edgware
+        - Reino Unido
+  programme: 
+    en: "Works by Haydn and Beethoven"
+    es: "Obras de Haydn y Beethoven"
+  more-info-link-path: https://www.ehrs.uk/event/stonegrove-serenade-october-2023/
+  homepage-title: 
+    en: Stonegrove Serenade
+    es: Stonegrove Serenade
+  homepage-line1: 
+    en: Tuesday 17 October - 1pm
+    es: Martes 17 de octubre - 13:00
+  homepage-line2: 
+    en: "Works by Haydn and Beethoven"
+    es: "Obras de Haydn y Beethoven"
+  homepage-more-info-link: true
+
+- 2023-10-16-witham-urc:
+  title: 
+    en: Witham United Reformed Church
+    es: Witham United Reformed Church
+  tagline:
+    en:
+    es: 
+  image-path: /images/concerts/lily2.jpg
+  date-time: 
+    en: 16 October 2023
+    es: 16 de Octubre 2023
+  venue: 
+    name: 
+     en: United Reformed Church, Witham
+     es: United Reformed Church, Witham
+    address:
+      en:
+        - 90 Newland Street
+        - Witham CM8 1AH
+        - United Kingdom
+      es:
+  programme:
+    en: "Works by Haydn and Beethoven"
+    es: "Obras de Haydn y Beethoven"
+  more-info-link-path:
+  homepage-title: 
+    en: Witham URC
+    es: Witham URC
+  homepage-line1: 
+    en: Monday 16 October - 1pm
+    es: Lunes 16 de octubre - 13:00
+  homepage-line2: 
+    en: "Works by Haydn and Beethoven"
+    es: "Obras de Haydn y Beethoven"
+  homepage-more-info-link: false  
+
 - 2023-09-14-stanmore:
   title: 
     en: "B'nai B'rith Yitzchak Rabin"
