@@ -44,7 +44,7 @@
   tagline:
     en: 
     es: 
-  image-path: /images/concerts/lily1.jgp
+  image-path: /images/concerts/lily1.jpg
   date-time: 
     en: "Thursday 15 February  2024"
     es: "Jueves 15 de febrero 2024"
@@ -76,7 +76,6 @@
     en: Mozart and Brahms 
     es: Mozart y Brahms
   homepage-more-info-link: false
-
 
 - 2024-01-27-st-marys-perivale:
   title: 
