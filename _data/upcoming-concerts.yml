@@ -65,7 +65,7 @@
     es: 
       - "W A Mozart: Trio en Sol mayor, K 564"
       - "F. Schubert: Trio no. 2 en Mi bemol mayor"
-  more-info-link-path: 
+  more-info-link-path: https://www.eventbrite.es/e/entradas-trio-cygnus-mozart-y-schubert-795187105037
   homepage-title: 
     en: Lo Rat Penat, Valencia
     es: Lo Rat Penat, Valencia
@@ -75,7 +75,7 @@
   homepage-line2: 
     en: Mozart and Brahms 
     es: Mozart y Brahms
-  homepage-more-info-link: false
+  homepage-more-info-link: true
 
 - 2024-01-27-st-marys-perivale:
   title: 
