@@ -1,3 +1,41 @@
+- 2024-02-03-maxability:
+  title: 
+    en: "Maxability"
+    es: "Maxability"
+  tagline:
+    en: Maxability is a charity dedicated to helping disabled adults through pottery classes.
+    es: Maxability es una organización sin ánimo de lucro decicada a ayudar a adultos con discapacidades mediante clases de cerámica.
+  image-path: /images/concerts/maxability-logo.png
+  date-time: 
+    en: "Saturday 3 February  2024 - 7:00pm"
+    es: "Sábado 3 de febrero 2024 - 19:00"
+  venue: 
+    name: 
+      en: 
+      es: 
+    address:
+      en:
+      - near Arnos Grove
+      - North London 
+      es:
+  programme: 
+    en: 
+      - "J. Brahms: Trio no. 1 in B major, op. 8"
+      - "F. Schubert: Trio no. 2 in E flat major"
+    es: 
+      - "J Brahms: Trio no. 1 en Si mayor, op. 8"
+      - "F. Schubert: Trio no. 2 en Mi bemol mayor"
+  more-info-link-path: https://maxability.org.uk/concerts/
+  homepage-title: 
+    en: "Maxability"
+    es: "Maxability"
+  homepage-line1: 
+    en: "3 February"
+    es: "3 de febrero"
+  homepage-line2: 
+    en: Brahms and Schubert
+    es: Brahms y Schubert
+  homepage-more-info-link: true
 
 - 2023-10-17-Stonegrove:
   title: 
