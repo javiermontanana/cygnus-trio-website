@@ -1,43 +1,40 @@
-
-
-- 2024-02-15-lo-rat-penat:
+- 2023-01-24-stanmore:
   title: 
-    en: "Mes que Musica"
-    es: "Mes que Musica"
+    en: "B'nai B'rith Yitzchak Rabin"
+    es: "B'nai B'rith Yitzchak Rabin"
   tagline:
     en: 
-    es: 
-  image-path: /images/concerts/lily1.jpg
+    es:
+  image-path: /images/concerts/bbrabin.jpg
   date-time: 
-    en: "Thursday 15 February  2024"
-    es: "Jueves 15 de febrero 2024"
+    en: "18 April 2024"
+    es: "18 de abril 2024"
   venue: 
     name: 
-      en: Lo Rat Penat
-      es: Lo Rat Penat
+      en: "B'nai B'rith Yitzchak Rabin Lodge"
+      es: "B'nai B'rith Yitzchak Rabin Lodge"
     address:
-      en: 
-        - Valencia
-        - Spain
-      es: 
-        - Valencia
+      en:
+      - Stanmore      
+      es:
+      - Stanmore
   programme: 
-    en: 
+    en:
       - "W A Mozart: Trio in G major, K 564"
-      - "F. Schubert: Trio no. 2 in E flat major"
-    es: 
+      - "J. Brahms: Trio no. 1 in B major, op. 8"
+    es:
       - "W A Mozart: Trio en Sol mayor, K 564"
-      - "F. Schubert: Trio no. 2 en Mi bemol mayor"
-  more-info-link-path: https://www.eventbrite.es/e/entradas-trio-cygnus-mozart-y-schubert-795187105037
+      - "F. Schubert: Trio no. 1 en Si mayor, op.8"
+  more-info-link-path: https://bbrabin.co.uk/
   homepage-title: 
-    en: Lo Rat Penat, Valencia
-    es: Lo Rat Penat, Valencia
+    en: 
+    es: 
   homepage-line1: 
-    en: "15 February"
-    es: "15 de febrero"
+    en: Mozart and Brahms in Stanmore
+    es: Mozart y Brahms en Stanmore
   homepage-line2: 
-    en: Mozart and Brahms 
-    es: Mozart y Brahms
+    en: 18 April 2024
+    es: 18 de abril 2024
   homepage-more-info-link: true
 
 - 2024-01-27-st-marys-perivale:
@@ -79,43 +76,4 @@
     es: 
   homepage-more-info-link: true
 
-
-
-- 2024-08-00-Infantes:
-  title: 
-    en: Infates Música 
-    es: Infates Música 
-  tagline:
-    en:
-    es:
-  image-path: /images/concerts/infantes.jpg
-  date-time: 
-    en: August 2024
-    es: Agosto 2024
-  venue: 
-    name: 
-      en: 
-      es: 
-    address: 
-      en: 
-        - Villanueva de los Infantes
-        - Ciudad Real 
-        - Spain
-      es:
-        - Villanueva de los Infantes
-        - Ciudad Real 
-  programme: 
-    en: tbc
-    es: por confirmar
-  more-info-link-path: 
-  homepage-title: 
-    en: 
-    es: 
-  homepage-line1: 
-    en: 
-    es: 
-  homepage-line2: 
-    en: 
-    es: 
-  homepage-more-info-link: true
 
