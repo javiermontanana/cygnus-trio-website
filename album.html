@@ -1,0 +1,21 @@
+---
+title: "Our new album"
+name_en: "album"
+layout: album-page
+lang: en
+filename: album.html
+slug: /album
+---
+<div class="container">
+
+<main>
+    <h1 class="page-title">{{ page.title }}</h1>
+        <section class="video">
+            <h2 class="video__title">{{ item.title[page.lang] }}</h2>
+            <figure class="video__figure">
+                <iframe class="video-embed" src="https://open.spotify.com/embed/album/2LD8KGNGVsS1vcVXWugctC?utm_source=generator"></iframe>
+            </figure>
+        </section>
+</main>
+
+</div>
