@@ -407,7 +407,14 @@ header {
 
 */
 
+.album__flexbox{
+	display: flex;
+	flex-direction: column-reverse;
+}
 
+.album__sidebar{
+	margin-bottom: 1em;
+}
 
 .album-embed {
 	position: absolute;
@@ -502,7 +509,7 @@ header {
 
 */
 
-.about__flexbox, .album__flexbox{
+.about__flexbox{
 	display: flex;
 	flex-direction: column;
 }
