@@ -1,79 +1,79 @@
-- 2023-01-24-stanmore:
+
+- 2023-07-07-Goodnestone:
   title: 
-    en: "B'nai B'rith Yitzchak Rabin"
-    es: "B'nai B'rith Yitzchak Rabin"
+    en: Goodnestone Music
+    es: Goodnestone Music
   tagline:
-    en: 
+    en:
     es:
-  image-path: /images/concerts/bbrabin.jpg
+  image-path: /images/concerts/goodnestone.jpg
   date-time: 
-    en: "18 April 2024"
-    es: "18 de abril 2024"
+    en: 23 August 2024
+    es: 23 de agosto 2024
   venue: 
     name: 
-      en: "B'nai B'rith Yitzchak Rabin Lodge"
-      es: "B'nai B'rith Yitzchak Rabin Lodge"
+     en: Holy Cross Church, Goodnestone
+     es: Holy Cross Church, Goodnestone
     address:
       en:
-      - Stanmore      
+        - Holy Cross Church
+        - Goodnestone
+        - Kent CT3 1PL
       es:
-      - Stanmore
+        - Holy Cross Church
+        - Goodnestone
+        - Kent CT3 1PL
   programme: 
     en:
-      - "W A Mozart: Trio in G major, K 564"
-      - "J. Brahms: Trio no. 1 in B major, op. 8"
+      - "Mendelssohn: Trio no. 2 in C minor"
+      - "Brahms: Trio no. 1 in B major"
     es:
-      - "W A Mozart: Trio en Sol mayor, K 564"
-      - "F. Schubert: Trio no. 1 en Si mayor, op.8"
-  more-info-link-path: https://bbrabin.co.uk/
+      - "Mendolssohn: Trio no. 2 en Do menor"
+      - "Brahms: Trio no. 1 en Si mayor"
+  more-info-link-path: http://www.goodnestonemusic.com/concerts.html
   homepage-title: 
-    en: 
-    es: 
+    en: Goodnestone Music
+    es: Goodnestone Music
   homepage-line1: 
-    en: Mozart and Brahms in Stanmore
-    es: Mozart y Brahms en Stanmore
+    en: "23 August"
+    es: "23 de agosto"
   homepage-line2: 
-    en: 18 April 2024
-    es: 18 de abril 2024
+    en: "Mendelssohn and Brahms"
+    es: "Mendelssohn y Brahms"
   homepage-more-info-link: true
 
-- 2024-01-27-st-marys-perivale:
+- 2023-10-16-witham-urc:
   title: 
-    en: "St Mary's Perivale"
-    es: "St Mary's Perivale"
+    en: Witham United Reformed Church
+    es: Witham United Reformed Church
   tagline:
     en:
-    es:
-  image-path: /images/concerts/st-marys-perivale.jpg
+    es: 
+  image-path: /images/concerts/lily2.jpg
   date-time: 
-    en: "Sunday 5 May 2024 - 3:00 pm"
-    es: "Domingo 5 de mayo 2024 - 15:00"
+    en: 16 September 2024
+    es: 16 septiembre 2024
   venue: 
     name: 
-      en: St Mary's Perivale
-      es: St Mary's Perivale
-    address: 
-      en: 
-        - Perivale Lane
-        - Perivale UB6 8SS
+     en: United Reformed Church, Witham
+     es: United Reformed Church, Witham
+    address:
+      en:
+        - 90 Newland Street
+        - Witham CM8 1AH
         - United Kingdom
       es:
-        - Perivale Lane
-        - Perivale UB6 8SS
-        - Reino Unido
-  programme: 
-    en: tbc
-    es: por confirmar
-  more-info-link-path: 
+  programme:
+    en: 
+    es: 
+  more-info-link-path:
   homepage-title: 
-    en: "St Mary's Perivale"
-    es: "St Mary's Perivale"
+    en: Witham URC
+    es: Witham URC
   homepage-line1: 
-    en: "Sunday 5 May"
-    es: "Domingo 5 de mayo"
+    en: Monday 16 September - 1pm
+    es: Lunes 16 de septiembre - 13:00
   homepage-line2: 
     en: 
     es: 
-  homepage-more-info-link: true
-
-
+  homepage-more-info-link: false  

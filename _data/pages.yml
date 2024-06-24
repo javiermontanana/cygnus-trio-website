@@ -22,6 +22,14 @@
     en: "videos"
     es: "v&iacute;deos"
 
+- album:
+  slug:
+    en: "/album"
+    es: "/es/album"
+  name:
+    en: "album"
+    es: "álbum"
+
 - concerts:
   slug:
     en: "/concerts"

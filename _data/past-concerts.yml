@@ -1,4 +1,84 @@
 
+
+
+- 2023-01-24-stanmore:
+  title: 
+    en: "B'nai B'rith Yitzchak Rabin"
+    es: "B'nai B'rith Yitzchak Rabin"
+  tagline:
+    en: 
+    es:
+  image-path: /images/concerts/bbrabin.jpg
+  date-time: 
+    en: "18 April 2024"
+    es: "18 de abril 2024"
+  venue: 
+    name: 
+      en: "B'nai B'rith Yitzchak Rabin Lodge"
+      es: "B'nai B'rith Yitzchak Rabin Lodge"
+    address:
+      en:
+      - Stanmore      
+      es:
+      - Stanmore
+  programme: 
+    en:
+      - "W A Mozart: Trio in G major, K 564"
+      - "J. Brahms: Trio no. 1 in B major, op. 8"
+    es:
+      - "W A Mozart: Trio en Sol mayor, K 564"
+      - "F. Schubert: Trio no. 1 en Si mayor, op.8"
+  more-info-link-path: https://bbrabin.co.uk/
+  homepage-title: 
+    en: 
+    es: 
+  homepage-line1: 
+    en: Mozart and Brahms in Stanmore
+    es: Mozart y Brahms en Stanmore
+  homepage-line2: 
+    en: 18 April 2024
+    es: 18 de abril 2024
+  homepage-more-info-link: true
+
+- 2024-01-27-st-marys-perivale:
+  title: 
+    en: "St Mary's Perivale"
+    es: "St Mary's Perivale"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/st-marys-perivale.jpg
+  date-time: 
+    en: "Sunday 5 May 2024 - 3:00 pm"
+    es: "Domingo 5 de mayo 2024 - 15:00"
+  venue: 
+    name: 
+      en: St Mary's Perivale
+      es: St Mary's Perivale
+    address: 
+      en: 
+        - Perivale Lane
+        - Perivale UB6 8SS
+        - United Kingdom
+      es:
+        - Perivale Lane
+        - Perivale UB6 8SS
+        - Reino Unido
+  programme: 
+    en: tbc
+    es: por confirmar
+  more-info-link-path: 
+  homepage-title: 
+    en: "St Mary's Perivale"
+    es: "St Mary's Perivale"
+  homepage-line1: 
+    en: "Sunday 5 May"
+    es: "Domingo 5 de mayo"
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: true
+
 - 2024-02-15-lo-rat-penat:
   title: 
     en: "Mes que Musica"
