@@ -219,10 +219,24 @@ header {
 }
 
 .header__nav {
-	display: flex;
+	/* display: flex;
 	flex-direction: column;
 	align-items: center;
-	font-size: 1rem;
+	font-size: 1rem; */
+
+	display: grid;
+	grid-template-columns: 50% 50%;
+	column-width: 6em;
+	
+
+}
+
+.header__nav > :nth-child(even) {
+	text-align: right;
+	margin-left: auto;
+} 
+.header__nav > :nth-child(odd){
+	margin-right: auto;
 }
 
 .logo a,
@@ -234,6 +248,9 @@ header {
 .header .nav__link {
 	font-family: var(--ff-header-nav);
 }
+
+
+
 
 
 .header__nav a {
@@ -776,8 +793,14 @@ main a {
 
 @media (min-width: 700px), (orientation: landscape) {
 	.header__nav {
-		flex-direction: row;
+		/* flex-direction: row; */
+		display: flex;
 		justify-content: space-between;
+	}
+	.header__nav > .nav__link{
+		text-align: center;
+		margin-left: 0;
+		margin-right: 0;
 	}
 
 
