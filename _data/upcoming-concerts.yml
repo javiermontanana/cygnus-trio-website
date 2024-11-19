@@ -1,79 +1,159 @@
 
-- 2023-07-07-Goodnestone:
+
+
+- 2024-11-25-stanmore:
   title: 
-    en: Goodnestone Music
-    es: Goodnestone Music
+    en: "B'nai B'rith Yitzchak Rabin"
+    es: "B'nai B'rith Yitzchak Rabin"
   tagline:
-    en:
+    en: 
     es:
-  image-path: /images/concerts/goodnestone.jpg
+  image-path: /images/concerts/bbrabin.jpg
   date-time: 
-    en: 23 August 2024
-    es: 23 de agosto 2024
+    en: "25 November 2025"
+    es: "25 de noviembre 2025"
   venue: 
     name: 
-     en: Holy Cross Church, Goodnestone
-     es: Holy Cross Church, Goodnestone
+      en: "B'nai B'rith Yitzchak Rabin Lodge"
+      es: "B'nai B'rith Yitzchak Rabin Lodge"
     address:
       en:
-        - Holy Cross Church
-        - Goodnestone
-        - Kent CT3 1PL
+      - Stanmore      
       es:
-        - Holy Cross Church
-        - Goodnestone
-        - Kent CT3 1PL
+      - Stanmore
   programme: 
     en:
-      - "Mendelssohn: Trio no. 2 in C minor"
-      - "Brahms: Trio no. 1 in B major"
+      - programme including
+      - "Beethoven: Trio in C minor, op. 1 no. 3 "
     es:
-      - "Mendolssohn: Trio no. 2 en Do menor"
-      - "Brahms: Trio no. 1 en Si mayor"
-  more-info-link-path: "https://www.goodnestonemusic.com/concerts2.html"
+      - el programa incluye
+      - "Beethoven: Trio en Do menor, op. 1 no. 3 "
+  more-info-link-path: https://bbrabin.co.uk/
   homepage-title: 
-    en: Goodnestone Music
-    es: Goodnestone Music
+    en: B'nai B'rith Yitzchak Rabin Lodge
+    es: B'nai B'rith Yitzchak Rabin Lodge
   homepage-line1: 
-    en: "23 August"
-    es: "23 de agosto"
+    en: 
+    es: 
   homepage-line2: 
-    en: "Mendelssohn and Brahms"
-    es: "Mendelssohn y Brahms"
+    en: 25 November 2024
+    es: 25 de noviembre 2024
   homepage-more-info-link: true
 
-- 2023-10-16-witham-urc:
+
+- 2025-02-27-harrow:
   title: 
-    en: Witham United Reformed Church
-    es: Witham United Reformed Church
+    en: St John's Harrow
+    es: St John's Harrow
   tagline:
     en:
-    es: 
-  image-path: /images/concerts/lily2.jpg
+    es:
+  image-path: /images/concerts/harrow.jpg
   date-time: 
-    en: 16 September 2024
-    es: 16 septiembre 2024
+    en: 27 February 2025
+    es: 27 de febrero 2025
   venue: 
     name: 
-     en: United Reformed Church, Witham
-     es: United Reformed Church, Witham
+     en: St Jonh's Church, Harrow
+     es: St Jonh's Church, Harrow
     address:
       en:
-        - 90 Newland Street
-        - Witham CM8 1AH
+        - Church of St John the Baptist
+        - Sheepcote Road
+        - Harrow HA1 2JE
         - United Kingdom
       es:
-  programme:
-    en: 
-    es: 
-  more-info-link-path:
+        - Church of St John the Baptist
+        - Sheepcote Road
+        - Harrow HA1 2JE
+        - United Kingdom      
+  programme: 
+    en:
+    es:
+  more-info-link-path: 
   homepage-title: 
-    en: Witham URC
-    es: Witham URC
+    en: "St John's Harrow"
+    es: "St John's Harrow"
   homepage-line1: 
-    en: Monday 16 September - 1pm
-    es: Lunes 16 de septiembre - 13:00
+    en: 27 February 2025
+    es: 27 de febrero 2025
   homepage-line2: 
     en: 
     es: 
-  homepage-more-info-link: false  
+  homepage-more-info-link: true
+
+
+- 2025-03-22-maxability:
+  title: 
+    en: "Maxability"
+    es: "Maxability"
+  tagline:
+    en: Maxability is a charity dedicated to helping disabled adults through pottery classes.
+    es: Maxability es una organización sin ánimo de lucro decicada a ayudar a adultos con discapacidades mediante clases de cerámica.
+  image-path: /images/concerts/maxability-logo.png
+  date-time: 
+    en: "22 March 2025"
+    es: "22 de marzo 2025"
+  venue: 
+    name: 
+      en: 
+      es: 
+    address:
+      en:
+      - near Arnos Grove
+      - North London 
+      es:
+  programme: 
+    en: 
+    es: 
+  more-info-link-path: https://maxability.org.uk/concerts/
+  homepage-title: 
+    en: "Maxability"
+    es: "Maxability"
+  homepage-line1: 
+    en: "22 March 2025"
+    es: "22 de marzo 2025"
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: true
+
+
+- 2025-05-25-st-marys-perivale:
+  title: 
+    en: "St Mary's Perivale"
+    es: "St Mary's Perivale"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/st-marys-perivale.jpg
+  date-time: 
+    en: 25 May 2025
+    es: 25 de mayo 2025
+  venue: 
+    name: 
+      en: St Mary's Perivale
+      es: St Mary's Perivale
+    address: 
+      en: 
+        - Perivale Lane
+        - Perivale UB6 8SS
+        - United Kingdom
+      es:
+        - Perivale Lane
+        - Perivale UB6 8SS
+        - Reino Unido
+  programme: 
+    en: tbc
+    es: por confirmar
+  more-info-link-path: 
+  homepage-title: 
+    en: "St Mary's Perivale"
+    es: "St Mary's Perivale"
+  homepage-line1: 
+    en: "Sunday 5 May"
+    es: "Domingo 5 de mayo"
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: true

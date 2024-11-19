@@ -1,6 +1,85 @@
 
 
 
+- 2023-10-16-witham-urc:
+  title: 
+    en: Witham United Reformed Church
+    es: Witham United Reformed Church
+  tagline:
+    en:
+    es: 
+  image-path: /images/concerts/lily2.jpg
+  date-time: 
+    en: 16 September 2024
+    es: 16 septiembre 2024
+  venue: 
+    name: 
+     en: United Reformed Church, Witham
+     es: United Reformed Church, Witham
+    address:
+      en:
+        - 90 Newland Street
+        - Witham CM8 1AH
+        - United Kingdom
+      es:
+  programme:
+    en: 
+    es: 
+  more-info-link-path:
+  homepage-title: 
+    en: Witham URC
+    es: Witham URC
+  homepage-line1: 
+    en: Monday 16 September - 1pm
+    es: Lunes 16 de septiembre - 13:00
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: false  
+
+- 2023-07-07-Goodnestone:
+  title: 
+    en: Goodnestone Music
+    es: Goodnestone Music
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/goodnestone.jpg
+  date-time: 
+    en: 23 August 2024
+    es: 23 de agosto 2024
+  venue: 
+    name: 
+     en: Holy Cross Church, Goodnestone
+     es: Holy Cross Church, Goodnestone
+    address:
+      en:
+        - Holy Cross Church
+        - Goodnestone
+        - Kent CT3 1PL
+      es:
+        - Holy Cross Church
+        - Goodnestone
+        - Kent CT3 1PL
+  programme: 
+    en:
+      - "Mendelssohn: Trio no. 2 in C minor"
+      - "Brahms: Trio no. 1 in B major"
+    es:
+      - "Mendolssohn: Trio no. 2 en Do menor"
+      - "Brahms: Trio no. 1 en Si mayor"
+  more-info-link-path: "https://www.goodnestonemusic.com/concerts2.html"
+  homepage-title: 
+    en: Goodnestone Music
+    es: Goodnestone Music
+  homepage-line1: 
+    en: "23 August"
+    es: "23 de agosto"
+  homepage-line2: 
+    en: "Mendelssohn and Brahms"
+    es: "Mendelssohn y Brahms"
+  homepage-more-info-link: true
+
 - 2023-01-24-stanmore:
   title: 
     en: "B'nai B'rith Yitzchak Rabin"
