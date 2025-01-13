@@ -1,6 +1,45 @@
 
 
 
+- 2024-11-25-stanmore:
+  title: 
+    en: "B'nai B'rith Yitzchak Rabin"
+    es: "B'nai B'rith Yitzchak Rabin"
+  tagline:
+    en: 
+    es:
+  image-path: /images/concerts/bbrabin.jpg
+  date-time: 
+    en: "25 November 2025"
+    es: "25 de noviembre 2025"
+  venue: 
+    name: 
+      en: "B'nai B'rith Yitzchak Rabin Lodge"
+      es: "B'nai B'rith Yitzchak Rabin Lodge"
+    address:
+      en:
+      - Stanmore      
+      es:
+      - Stanmore
+  programme: 
+    en:
+      - programme including
+      - "Beethoven: Trio in C minor, op. 1 no. 3 "
+    es:
+      - el programa incluye
+      - "Beethoven: Trio en Do menor, op. 1 no. 3 "
+  more-info-link-path: https://bbrabin.co.uk/
+  homepage-title: 
+    en: B'nai B'rith Yitzchak Rabin Lodge
+    es: B'nai B'rith Yitzchak Rabin Lodge
+  homepage-line1: 
+    en: 
+    es: 
+  homepage-line2: 
+    en: 25 November 2024
+    es: 25 de noviembre 2024
+  homepage-more-info-link: true
+
 - 2023-10-16-witham-urc:
   title: 
     en: Witham United Reformed Church
