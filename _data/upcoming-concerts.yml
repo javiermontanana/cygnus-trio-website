@@ -26,7 +26,11 @@
         - United Kingdom      
   programme: 
     en:
+      - "Beethoven: Trio op. 1 no. 1 in E flat"
+      - "Brahms: Trio no.1 in B major op. 8"
     es:
+      - "Beethoven: Trio en Mi bemol op. 1 no. 1"
+      - "Brahms: Trio no. 1 en Si mayor, op. 8"
   more-info-link-path: 
   homepage-title: 
     en: "St John's Harrow"
@@ -62,7 +66,11 @@
       es:
   programme: 
     en: 
+      - "Beethoven: Trio in B flat op. 97, Archduke"
+      - "Brahms: Trio no. 1 in B major, op. 8"
     es: 
+      - "Beethoven: Trio en Si bemol op. 97, Archiduque"
+      - "Brahms: Trio no. 1 en Si mayor"
   more-info-link-path: https://maxability.org.uk/concerts/
   homepage-title: 
     en: "Maxability"
