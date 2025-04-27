@@ -7,4 +7,4 @@ The trio has received prizes in international competitions including the Anton G
 Following an invitation to participate in the opening of an art exhibition in Spain, where they paired a Schubert programme with illustrations of his song cycle Winterreise, the trio has become fascinated with linking music to other art forms and sometimes use art and poetry to shape their concert programmes.
 
 In 2024 their debut album *Impressions of Iberia* was released on the label *Da Vinci Classics*. The album features works by Enrique Fernández Arbós, Joaquín Turina and Maurice Ravel and seeks to explores the cultural crosspollination between Spain and France around the late 19th and early 20th centuries, in particular the relationship between Spanish folk music and French impressionism and their influence on
-the music from both country.
+the music from both countries.
