@@ -42,9 +42,86 @@
     es: Turina y Beethoven
   homepage-more-info-link: true
 
+- 2025-06-08-beethoven1:
+  title: 
+    en: "Beethoven Cycle"
+    es: "Ciclo Trios de Beethoven"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/beethoven.jpg
+  date-time: 
+    en: Sunday 8 June 2025
+    es: Domingo 8 de junio de 2025
+  venue: 
+    name: 
+      en: St Nicolas' Church, Witham
+      es: St Nicolas' Church, Witham
+    address: 
+      en: 
+        
+      es:
+        
+  programme: 
+    en: 
+      - "Beethoven: Trio op. 1 no. 2 in G"
+      - "Beethoven: Trio op. 70 no. 2 in E flat"
+    es: 
+      - "Beethoven: Trio op. 1 no. 2 en Sol"
+      - "Beethoven: Trio op. 70 no. 2 en Mi bemol"
+  more-info-link-path: false
+  homepage-title: 
+    en: "Beethoven Cycle"
+    es: "Ciclo Beethoven"
+  homepage-line1: 
+    en: "Sunday 8 June"
+    es: "Domingo 8 de junio"
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: false
+
+- 2025-07-13-beethoven2:
+  title: 
+    en: "Beethoven Cycle"
+    es: "Ciclo Trios de Beethoven"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/beethoven.jpg
+  date-time: 
+    en: Sunday 13 July 2025
+    es: Domingo 13 de julio de 2025
+  venue: 
+    name: 
+      en: St Nicolas' Church, Witham
+      es: St Nicolas' Church, Witham
+    address: 
+      en: 
+        
+      es:
+        
+  programme: 
+    en: 
+      - "Beethoven: Trio op. 1 no. 1 in E flat"
+      - "Beethoven: Trio op. 70 no. 1 in D, Ghost"
+    es: 
+      - "Beethoven: Trio op. 1 no. 1 en Mi bemol"
+      - "Beethoven: Trio op. 70 no. 1 en Re, Fantasma"
+  more-info-link-path: false
+  homepage-title: 
+    en: "Beethoven Cycle"
+    es: "Ciclo Beethoven"
+  homepage-line1: 
+    en: "Sunday 13 July"
+    es: "Domingo 13 de julio"
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: false
 
 
-- 2025-05-25-st-marys-perivale:
+- 2025-07-19-islington:
   title: 
     en: "Islington Festival - Impressions of Iberia"
     es: "Islington Festival - Impressions of Iberia"
@@ -84,3 +161,136 @@
     en: 
     es: 
   homepage-more-info-link: true
+
+
+- 2025-08-21-harrow:
+  title: 
+    en: Harrrow Festival
+    es: Festival de Harrow
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/harrow.jpg
+  date-time: 
+    en: 21 August 2025
+    es: 21 d eagosto 2025
+  venue: 
+    name: 
+     en: St Jonh's Church, Harrow
+     es: St Jonh's Church, Harrow
+    address:
+      en:
+        - Church of St John the Baptist
+        - Sheepcote Road
+        - Harrow HA1 2JE
+        - United Kingdom
+      es:
+        - Church of St John the Baptist
+        - Sheepcote Road
+        - Harrow HA1 2JE
+        - United Kingdom      
+  programme: 
+    en:
+
+    es:
+
+  more-info-link-path: 
+  homepage-title: 
+    en: "St John's Harrow"
+    es: "St John's Harrow"
+  homepage-line1: 
+    en: 21 August
+    es: 21 de agosto
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: false
+
+
+- 2025-08-22-Goodnestone:
+  title: 
+    en: Goodnestone Music
+    es: Goodnestone Music
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/goodnestone.jpg
+  date-time: 
+    en: 22 August 2024
+    es: 22 de agosto 2024
+  venue: 
+    name: 
+     en: Holy Cross Church, Goodnestone
+     es: Holy Cross Church, Goodnestone
+    address:
+      en:
+        - Holy Cross Church
+        - Goodnestone
+        - Kent CT3 1PL
+      es:
+        - Holy Cross Church
+        - Goodnestone
+        - Kent CT3 1PL
+  programme: 
+    en:
+      - 
+      - 
+    es:
+      - 
+      - 
+  more-info-link-path: "https://www.goodnestonemusic.com/concerts2.html"
+  homepage-title: 
+    en: Goodnestone Music
+    es: Goodnestone Music
+  homepage-line1: 
+    en: "22 August"
+    es: "22 de agosto"
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: true
+
+
+
+- 2025-08-31-beethoven3:
+  title: 
+    en: "Beethoven Cycle"
+    es: "Ciclo Trios de Beethoven"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/beethoven.jpg
+  date-time: 
+    en: Sunday 31 August 2025
+    es: Domingo 31 de agosto 2025
+  venue: 
+    name: 
+      en: St Nicolas' Church, Witham
+      es: St Nicolas' Church, Witham
+    address: 
+      en: 
+        
+      es:
+        
+  programme: 
+    en: 
+      - "Beethoven: Trio op. 1 no. 3 in C minor"
+      - "Beethoven: Trio op. 97 in B flat, Archduke"
+    es: 
+      - "Beethoven: Trio op. 1 no. 3 en Do menor"
+      - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
+  more-info-link-path: false
+  homepage-title: 
+    en: "Beethoven Cycle"
+    es: "Ciclo Beethoven"
+  homepage-line1: 
+    en: "Sunday 31 August"
+    es: "Domingo 31 de Agosto"
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: false
+
+
+
+
