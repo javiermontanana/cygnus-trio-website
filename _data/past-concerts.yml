@@ -1,4 +1,47 @@
 
+- 2025-05-25-st-marys-perivale:
+  title: 
+    en: "St Mary's Perivale"
+    es: "St Mary's Perivale"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/st-marys-perivale.jpg
+  date-time: 
+    en: Sunday 25 May 2025 - 3pm
+    es: Domingo 25 de mayo 2025 - 15:00h
+  venue: 
+    name: 
+      en: St Mary's Perivale
+      es: St Mary's Perivale
+    address: 
+      en: 
+        - Perivale Lane
+        - Perivale UB6 8SS
+        - United Kingdom
+      es:
+        - Perivale Lane
+        - Perivale UB6 8SS
+        - Reino Unido
+  programme: 
+    en: 
+      - "Joaquín Turina: Trio no. 2 in B minor op. 76"
+      - "Beethoven: Trio op. 97 in B flat, Archduke"
+    es: 
+      - "Joaquín Turina: Trio no. 2 en Si menor op. 76"
+      - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
+  more-info-link-path: https://www.st-marys-perivale.org.uk/events-2025-05-25.shtml
+  homepage-title: 
+    en: "St Mary's Perivale"
+    es: "St Mary's Perivale"
+  homepage-line1: 
+    en: "Sunday 25 May"
+    es: "Domingo 25 de mayo"
+  homepage-line2: 
+    en: Turina and Beethoven
+    es: Turina y Beethoven
+  homepage-more-info-link: true
+
 - 2025-04-30-hertford:
   title: 
     en: "Hertford Soundbites"
