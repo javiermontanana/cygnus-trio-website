@@ -1,43 +1,4 @@
 
-- 2025-06-08-beethoven1:
-  title: 
-    en: "Beethoven Cycle - 1"
-    es: "Ciclo Trios de Beethoven - 1"
-  tagline:
-    en:
-    es:
-  image-path: /images/concerts/beethoven.jpg
-  date-time: 
-    en: Sunday 8 June 2025
-    es: Domingo 8 de junio de 2025
-  venue: 
-    name: 
-      en: St Nicolas' Church, Witham
-      es: St Nicolas' Church, Witham
-    address: 
-      en: 
-        
-      es:
-        
-  programme: 
-    en: 
-      - "Beethoven: Trio op. 1 no. 2 in G"
-      - "Beethoven: Trio op. 70 no. 2 in E flat"
-    es: 
-      - "Beethoven: Trio op. 1 no. 2 en Sol"
-      - "Beethoven: Trio op. 70 no. 2 en Mi bemol"
-  more-info-link-path: false
-  homepage-title: 
-    en: "Beethoven Cycle - 1"
-    es: "Ciclo Beethoven - 1"
-  homepage-line1: 
-    en: "Sunday 8 June"
-    es: "Domingo 8 de junio"
-  homepage-line2: 
-    en: 
-    es: 
-  homepage-more-info-link: false
-
 - 2025-06-15-stanmore:
   title: 
     en: "B'nai B'rith Yitzchak Rabin"
@@ -62,11 +23,11 @@
     en: 
       - "Enrique Fenrández Arbós: 3 original pieces in Spanish style op. 1"
       - "Joaquín Turina: Trio no. 2 in B minor op. 76"
-      - "Maurice Ravel: Trio in A minor"
+      - "Beethoven: Trio op. 70 no. 2 in E flat"
     es: 
       - "Enrique Fenrández Arbós: 3 piezas originales en estilo español op. 1"
       - "Joaquín Turina: Trio no. 2 en Si menor op. 76"
-      - "Maurice Ravel: Trio en La menor"
+      - "Beethoven: Trio op. 70 no. 2 en Mi bemol"
   more-info-link-path: https://bbrabin.co.uk/
   homepage-title: 
     en: B'nai B'rith Yitzchak Rabin Lodge
