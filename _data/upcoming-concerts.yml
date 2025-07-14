@@ -1,44 +1,4 @@
 
-
-- 2025-07-13-beethoven2:
-  title: 
-    en: "Beethoven Cycle - 2"
-    es: "Ciclo Trios de Beethoven - 2"
-  tagline:
-    en:
-    es:
-  image-path: /images/concerts/beethoven.jpg
-  date-time: 
-    en: Sunday 13 July 2025
-    es: Domingo 13 de julio de 2025
-  venue: 
-    name: 
-      en: St Nicolas' Church, Witham
-      es: St Nicolas' Church, Witham
-    address: 
-      en: 
-        
-      es:
-        
-  programme: 
-    en: 
-      - "Beethoven: Trio op. 1 no. 1 in E flat"
-      - "Beethoven: Trio op. 70 no. 1 in D, Ghost"
-    es: 
-      - "Beethoven: Trio op. 1 no. 1 en Mi bemol"
-      - "Beethoven: Trio op. 70 no. 1 en Re, Fantasma"
-  more-info-link-path: false
-  homepage-title: 
-    en: "Beethoven Cycle - 2"
-    es: "Ciclo Beethoven - 2"
-  homepage-line1: 
-    en: "Sunday 13 July"
-    es: "Domingo 13 de julio"
-  homepage-line2: 
-    en: 
-    es: 
-  homepage-more-info-link: false
-
 - 2025-07-19-islington:
   title: 
     en: "Islington Festival - Impressions of Iberia"
@@ -52,8 +12,8 @@
     es: Sábado 19 de julio 2025
   venue: 
     name: 
-      en: Christchurch Highbury
-      es: Christchurch Highbury
+      en: Christ Church Highbury
+      es: Christ Church Highbury
     address: 
       en:
         - 159 Highbury Grove
@@ -70,14 +30,14 @@
       - "Maurice Ravel: Trio en La menor"
   more-info-link-path: https://www.islingtonfestival.com/programme2025.html
   homepage-title: 
-    en: "St Mary's Perivale"
-    es: "St Mary's Perivale"
+    en: Islington Festival of Music and Arts
+    es: Islington Festival of Music and Arts
   homepage-line1: 
     en: "Saturday 19 July"
     es: "Sábado 19 de julio"
   homepage-line2: 
-    en: 
-    es: 
+    en: Arbós, Turina and Ravel
+    es: Arbós, Turina y Ravel
   homepage-more-info-link: true
 
 - 2025-08-21-harrow:
@@ -107,10 +67,12 @@
         - Harrow HA1 2JE
         - United Kingdom      
   programme: 
-    en: tbc
-
-    es: por confirmar
-
+    en:
+      - "Beethoven: Trio op. 97 in B flat, Archduke"
+      - "Mendelssohn: Trio no. 1 op. 49 in D minor"
+    es:
+      - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
+      - "Mendelssohn: Trio no. 1 op. 49 en Re menor"
   more-info-link-path: 
   homepage-title: 
     en: "St John's Harrow"
@@ -119,8 +81,8 @@
     en: 21 August
     es: 21 de agosto
   homepage-line2: 
-    en: 
-    es: 
+    en: Beethoven and Mendelssohn
+    es: Beethoven y Mendelssohn
   homepage-more-info-link: false
 
 - 2025-08-22-Goodnestone:
@@ -149,11 +111,11 @@
         - Kent CT3 1PL
   programme: 
     en:
-      - tbc
-      - 
+      - "Beethoven: Trio op. 97 in B flat, Archduke"
+      - "Mendelssohn: Trio no. 1 op. 49 in D minor"
     es:
-      - por confirmar
-      - 
+      - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
+      - "Mendelssohn: Trio no. 1 op. 49 en Re menor"
   more-info-link-path: "https://www.goodnestonemusic.com/concerts2.html"
   homepage-title: 
     en: Goodnestone Music
@@ -162,8 +124,8 @@
     en: "22 August"
     es: "22 de agosto"
   homepage-line2: 
-    en: 
-    es: 
+    en: Mendelssohn and Beethoven
+    es: Mendelssohn y Beethoven
   homepage-more-info-link: true
 
 - 2025-08-31-beethoven3:

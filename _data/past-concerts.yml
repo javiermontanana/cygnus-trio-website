@@ -1,3 +1,44 @@
+
+
+- 2025-07-13-beethoven2:
+  title: 
+    en: "Beethoven Cycle - 2"
+    es: "Ciclo Trios de Beethoven - 2"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/beethoven.jpg
+  date-time: 
+    en: Sunday 13 July 2025
+    es: Domingo 13 de julio de 2025
+  venue: 
+    name: 
+      en: St Nicolas' Church, Witham
+      es: St Nicolas' Church, Witham
+    address: 
+      en: 
+        
+      es:
+        
+  programme: 
+    en: 
+      - "Beethoven: Trio op. 1 no. 1 in E flat"
+      - "Beethoven: Trio op. 70 no. 1 in D, Ghost"
+    es: 
+      - "Beethoven: Trio op. 1 no. 1 en Mi bemol"
+      - "Beethoven: Trio op. 70 no. 1 en Re, Fantasma"
+  more-info-link-path: false
+  homepage-title: 
+    en: "Beethoven Cycle - 2"
+    es: "Ciclo Beethoven - 2"
+  homepage-line1: 
+    en: "Sunday 13 July"
+    es: "Domingo 13 de julio"
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: false
+
 - 2025-06-15-stanmore:
   title: 
     en: "B'nai B'rith Yitzchak Rabin"
