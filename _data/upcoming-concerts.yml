@@ -1,170 +1,170 @@
 
-- 2025-07-19-islington:
-  title: 
-    en: "Islington Festival - Impressions of Iberia"
-    es: "Islington Festival - Impressions of Iberia"
-  tagline:
-    en:
-    es:
-  image-path: /images/concerts/islington-festival-2-cropped.jpg
-  date-time: 
-    en: Saturday 19 July 2025
-    es: Sábado 19 de julio 2025
-  venue: 
-    name: 
-      en: Christ Church Highbury
-      es: Christ Church Highbury
-    address: 
-      en:
-        - 159 Highbury Grove
-        - London N5 1SA        
-      es:
-  programme: 
-    en: 
-      - "Enrique Fenrández Arbós: 3 original pieces in Spanish style op. 1"
-      - "Joaquín Turina: Trio no. 2 in B minor op. 76"
-      - "Maurice Ravel: Trio in A minor"
-    es: 
-      - "Enrique Fenrández Arbós: 3 piezas originales en estilo español op. 1"
-      - "Joaquín Turina: Trio no. 2 en Si menor op. 76"
-      - "Maurice Ravel: Trio en La menor"
-  more-info-link-path: https://www.islingtonfestival.com/programme2025.html
-  homepage-title: 
-    en: Islington Festival of Music and Arts
-    es: Islington Festival of Music and Arts
-  homepage-line1: 
-    en: "Saturday 19 July"
-    es: "Sábado 19 de julio"
-  homepage-line2: 
-    en: Arbós, Turina and Ravel
-    es: Arbós, Turina y Ravel
-  homepage-more-info-link: true
+# - 2025-07-19-islington:
+#   title: 
+#     en: "Islington Festival - Impressions of Iberia"
+#     es: "Islington Festival - Impressions of Iberia"
+#   tagline:
+#     en:
+#     es:
+#   image-path: /images/concerts/islington-festival-2-cropped.jpg
+#   date-time: 
+#     en: Saturday 19 July 2025
+#     es: Sábado 19 de julio 2025
+#   venue: 
+#     name: 
+#       en: Christ Church Highbury
+#       es: Christ Church Highbury
+#     address: 
+#       en:
+#         - 159 Highbury Grove
+#         - London N5 1SA        
+#       es:
+#   programme: 
+#     en: 
+#       - "Enrique Fenrández Arbós: 3 original pieces in Spanish style op. 1"
+#       - "Joaquín Turina: Trio no. 2 in B minor op. 76"
+#       - "Maurice Ravel: Trio in A minor"
+#     es: 
+#       - "Enrique Fenrández Arbós: 3 piezas originales en estilo español op. 1"
+#       - "Joaquín Turina: Trio no. 2 en Si menor op. 76"
+#       - "Maurice Ravel: Trio en La menor"
+#   more-info-link-path: https://www.islingtonfestival.com/programme2025.html
+#   homepage-title: 
+#     en: Islington Festival of Music and Arts
+#     es: Islington Festival of Music and Arts
+#   homepage-line1: 
+#     en: "Saturday 19 July"
+#     es: "Sábado 19 de julio"
+#   homepage-line2: 
+#     en: Arbós, Turina and Ravel
+#     es: Arbós, Turina y Ravel
+#   homepage-more-info-link: true
 
-- 2025-08-21-harrow:
-  title: 
-    en: Harrrow Festival
-    es: Festival de Harrow
-  tagline:
-    en:
-    es:
-  image-path: /images/concerts/harrow.jpg
-  date-time: 
-    en: 21 August 2025
-    es: 21 d eagosto 2025
-  venue: 
-    name: 
-     en: St Jonh's Church, Harrow
-     es: St Jonh's Church, Harrow
-    address:
-      en:
-        - Church of St John the Baptist
-        - Sheepcote Road
-        - Harrow HA1 2JE
-        - United Kingdom
-      es:
-        - Church of St John the Baptist
-        - Sheepcote Road
-        - Harrow HA1 2JE
-        - United Kingdom      
-  programme: 
-    en:
-      - "Beethoven: Trio op. 97 in B flat, Archduke"
-      - "Mendelssohn: Trio no. 1 op. 49 in D minor"
-    es:
-      - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
-      - "Mendelssohn: Trio no. 1 op. 49 en Re menor"
-  more-info-link-path: 
-  homepage-title: 
-    en: "St John's Harrow"
-    es: "St John's Harrow"
-  homepage-line1: 
-    en: 21 August
-    es: 21 de agosto
-  homepage-line2: 
-    en: Beethoven and Mendelssohn
-    es: Beethoven y Mendelssohn
-  homepage-more-info-link: false
+# - 2025-08-21-harrow:
+#   title: 
+#     en: Harrrow Festival
+#     es: Festival de Harrow
+#   tagline:
+#     en:
+#     es:
+#   image-path: /images/concerts/harrow.jpg
+#   date-time: 
+#     en: 21 August 2025
+#     es: 21 d eagosto 2025
+#   venue: 
+#     name: 
+#      en: St Jonh's Church, Harrow
+#      es: St Jonh's Church, Harrow
+#     address:
+#       en:
+#         - Church of St John the Baptist
+#         - Sheepcote Road
+#         - Harrow HA1 2JE
+#         - United Kingdom
+#       es:
+#         - Church of St John the Baptist
+#         - Sheepcote Road
+#         - Harrow HA1 2JE
+#         - United Kingdom      
+#   programme: 
+#     en:
+#       - "Beethoven: Trio op. 97 in B flat, Archduke"
+#       - "Mendelssohn: Trio no. 1 op. 49 in D minor"
+#     es:
+#       - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
+#       - "Mendelssohn: Trio no. 1 op. 49 en Re menor"
+#   more-info-link-path: 
+#   homepage-title: 
+#     en: "St John's Harrow"
+#     es: "St John's Harrow"
+#   homepage-line1: 
+#     en: 21 August
+#     es: 21 de agosto
+#   homepage-line2: 
+#     en: Beethoven and Mendelssohn
+#     es: Beethoven y Mendelssohn
+#   homepage-more-info-link: false
 
-- 2025-08-22-Goodnestone:
-  title: 
-    en: Goodnestone Music
-    es: Goodnestone Music
-  tagline:
-    en:
-    es:
-  image-path: /images/concerts/goodnestone.jpg
-  date-time: 
-    en: 22 August 2024
-    es: 22 de agosto 2024
-  venue: 
-    name: 
-     en: Holy Cross Church, Goodnestone
-     es: Holy Cross Church, Goodnestone
-    address:
-      en:
-        - Holy Cross Church
-        - Goodnestone
-        - Kent CT3 1PL
-      es:
-        - Holy Cross Church
-        - Goodnestone
-        - Kent CT3 1PL
-  programme: 
-    en:
-      - "Beethoven: Trio op. 97 in B flat, Archduke"
-      - "Mendelssohn: Trio no. 1 op. 49 in D minor"
-    es:
-      - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
-      - "Mendelssohn: Trio no. 1 op. 49 en Re menor"
-  more-info-link-path: "https://www.goodnestonemusic.com/concerts2.html"
-  homepage-title: 
-    en: Goodnestone Music
-    es: Goodnestone Music
-  homepage-line1: 
-    en: "22 August"
-    es: "22 de agosto"
-  homepage-line2: 
-    en: Mendelssohn and Beethoven
-    es: Mendelssohn y Beethoven
-  homepage-more-info-link: true
+# - 2025-08-22-Goodnestone:
+#   title: 
+#     en: Goodnestone Music
+#     es: Goodnestone Music
+#   tagline:
+#     en:
+#     es:
+#   image-path: /images/concerts/goodnestone.jpg
+#   date-time: 
+#     en: 22 August 2024
+#     es: 22 de agosto 2024
+#   venue: 
+#     name: 
+#      en: Holy Cross Church, Goodnestone
+#      es: Holy Cross Church, Goodnestone
+#     address:
+#       en:
+#         - Holy Cross Church
+#         - Goodnestone
+#         - Kent CT3 1PL
+#       es:
+#         - Holy Cross Church
+#         - Goodnestone
+#         - Kent CT3 1PL
+#   programme: 
+#     en:
+#       - "Beethoven: Trio op. 97 in B flat, Archduke"
+#       - "Mendelssohn: Trio no. 1 op. 49 in D minor"
+#     es:
+#       - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
+#       - "Mendelssohn: Trio no. 1 op. 49 en Re menor"
+#   more-info-link-path: "https://www.goodnestonemusic.com/concerts2.html"
+#   homepage-title: 
+#     en: Goodnestone Music
+#     es: Goodnestone Music
+#   homepage-line1: 
+#     en: "22 August"
+#     es: "22 de agosto"
+#   homepage-line2: 
+#     en: Mendelssohn and Beethoven
+#     es: Mendelssohn y Beethoven
+#   homepage-more-info-link: true
 
-- 2025-08-31-beethoven3:
-  title: 
-    en: "Beethoven Cycle - 3"
-    es: "Ciclo Trios de Beethoven - 3"
-  tagline:
-    en:
-    es:
-  image-path: /images/concerts/beethoven.jpg
-  date-time: 
-    en: Sunday 31 August 2025
-    es: Domingo 31 de agosto 2025
-  venue: 
-    name: 
-      en: St Nicolas' Church, Witham
-      es: St Nicolas' Church, Witham
-    address: 
-      en: 
+# - 2025-08-31-beethoven3:
+#   title: 
+#     en: "Beethoven Cycle - 3"
+#     es: "Ciclo Trios de Beethoven - 3"
+#   tagline:
+#     en:
+#     es:
+#   image-path: /images/concerts/beethoven.jpg
+#   date-time: 
+#     en: Sunday 31 August 2025
+#     es: Domingo 31 de agosto 2025
+#   venue: 
+#     name: 
+#       en: St Nicolas' Church, Witham
+#       es: St Nicolas' Church, Witham
+#     address: 
+#       en: 
         
-      es:
+#       es:
         
-  programme: 
-    en: 
-      - "Beethoven: Trio op. 1 no. 3 in C minor"
-      - "Beethoven: Trio op. 97 in B flat, Archduke"
-    es: 
-      - "Beethoven: Trio op. 1 no. 3 en Do menor"
-      - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
-  more-info-link-path: false
-  homepage-title: 
-    en: "Beethoven Cycle - 3"
-    es: "Ciclo Beethoven - 3"
-  homepage-line1: 
-    en: "Sunday 31 August"
-    es: "Domingo 31 de Agosto"
-  homepage-line2: 
-    en: 
-    es: 
-  homepage-more-info-link: false
+#   programme: 
+#     en: 
+#       - "Beethoven: Trio op. 1 no. 3 in C minor"
+#       - "Beethoven: Trio op. 97 in B flat, Archduke"
+#     es: 
+#       - "Beethoven: Trio op. 1 no. 3 en Do menor"
+#       - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
+#   more-info-link-path: false
+#   homepage-title: 
+#     en: "Beethoven Cycle - 3"
+#     es: "Ciclo Beethoven - 3"
+#   homepage-line1: 
+#     en: "Sunday 31 August"
+#     es: "Domingo 31 de Agosto"
+#   homepage-line2: 
+#     en: 
+#     es: 
+#   homepage-more-info-link: false
 
 
