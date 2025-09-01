@@ -128,43 +128,42 @@
 #     es: Mendelssohn y Beethoven
 #   homepage-more-info-link: true
 
-# - 2025-08-31-beethoven3:
-#   title: 
-#     en: "Beethoven Cycle - 3"
-#     es: "Ciclo Trios de Beethoven - 3"
-#   tagline:
-#     en:
-#     es:
-#   image-path: /images/concerts/beethoven.jpg
-#   date-time: 
-#     en: Sunday 31 August 2025
-#     es: Domingo 31 de agosto 2025
-#   venue: 
-#     name: 
-#       en: St Nicolas' Church, Witham
-#       es: St Nicolas' Church, Witham
-#     address: 
-#       en: 
+- 2025-11-16-beethoven3:
+  title: 
+    en: "Beethoven Cycle - 3"
+    es: "Ciclo Trios de Beethoven - 3"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/beethoven.jpg
+  date-time: 
+    en: Sunday 16 November 2025
+    es: Domingo 16 de noviembre 2025
+  venue: 
+    name: 
+      en: St Nicolas' Church, Witham
+      es: St Nicolas' Church, Witham
+    address: 
+      en: 
         
-#       es:
-        
-#   programme: 
-#     en: 
-#       - "Beethoven: Trio op. 1 no. 3 in C minor"
-#       - "Beethoven: Trio op. 97 in B flat, Archduke"
-#     es: 
-#       - "Beethoven: Trio op. 1 no. 3 en Do menor"
-#       - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
-#   more-info-link-path: false
-#   homepage-title: 
-#     en: "Beethoven Cycle - 3"
-#     es: "Ciclo Beethoven - 3"
-#   homepage-line1: 
-#     en: "Sunday 31 August"
-#     es: "Domingo 31 de Agosto"
-#   homepage-line2: 
-#     en: 
-#     es: 
-#   homepage-more-info-link: false
+      es:
+  programme: 
+    en: 
+      - "Beethoven: Trio op. 1 no. 3 in C minor"
+      - "Beethoven: Trio op. 97 in B flat, Archduke"
+    es: 
+      - "Beethoven: Trio op. 1 no. 3 en Do menor"
+      - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
+  more-info-link-path: false
+  homepage-title: 
+    en: "Beethoven Cycle - 3"
+    es: "Ciclo Beethoven - 3"
+  homepage-line1: 
+    en: "Sunday 31 August"
+    es: "Domingo 31 de Agosto"
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: false
 
 
