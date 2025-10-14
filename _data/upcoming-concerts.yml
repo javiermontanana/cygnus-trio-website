@@ -130,6 +130,49 @@
 
 - 2025-11-16-beethoven3:
   title: 
+    en: "Berkhamsted Music"
+    es: "Berkhamsted Music"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/berkhamsted-music.svg
+  date-time: 
+    en: Saturday 8 November 2025 - 7:30pm
+    es: Sábado 8 de noviembre 2025 - 19:30h
+  venue: 
+    name: 
+      en: Berkhamsted Civic Centre
+      es: Berkhamsted Civic Centre
+    address: 
+      en: 
+        
+      es:
+  programme: 
+    en: 
+      - "Enrique Fenrández Arbós: 3 original pieces in Spanish style op. 1"
+      - "Joaquín Turina: Trio no. 2 in B minor op. 76"
+      - "Beethoven: Trio op. 97 in B flat, Archduke"
+    es: 
+      - "Enrique Fenrández Arbós: 3 piezas originales en estilo español op. 1"
+      - "Joaquín Turina: Trio no. 2 en Si menor op. 76"
+      - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
+  more-info-link-path: https://www.berkhamstedmusic.co.uk/event/25-11-08-cygnus-trio/
+  homepage-title: 
+    en: "Berkhamsted Music"
+    es: "Berkhamsted Music"
+  homepage-line1: 
+    en: "Saturda 8 November"
+    es: "Sábado 8 de noviembre"
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: true
+
+
+
+
+- 2025-11-16-beethoven3:
+  title: 
     en: "Beethoven Cycle - 3"
     es: "Ciclo Trios de Beethoven - 3"
   tagline:
@@ -162,8 +205,8 @@
     en: "Sunday 16 November"
     es: "Domingo 16 de noviembre"
   homepage-line2: 
-    en: 
-    es: 
+    en: Trios op.1 no.3 and Archduke
+    es: Tríos op.1 no.3 y Archiduque
   homepage-more-info-link: false
 
 
