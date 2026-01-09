@@ -1,5 +1,124 @@
 
 
+- 2025-11-16-beethoven3:
+  title: 
+    en: "Beethoven Cycle - 3"
+    es: "Ciclo Trios de Beethoven - 3"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/beethoven.jpg
+  date-time: 
+    en: Sunday 16 November 2025
+    es: Domingo 16 de noviembre 2025
+  venue: 
+    name: 
+      en: St Nicolas' Church, Witham
+      es: St Nicolas' Church, Witham
+    address: 
+      en: 
+        
+      es:
+  programme: 
+    en: 
+      - "Beethoven: Trio op. 1 no. 3 in C minor"
+      - "Beethoven: Trio op. 97 in B flat, Archduke"
+    es: 
+      - "Beethoven: Trio op. 1 no. 3 en Do menor"
+      - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
+  more-info-link-path: false
+  homepage-title: 
+    en: "Beethoven Cycle - 3"
+    es: "Ciclo Beethoven - 3"
+  homepage-line1: 
+    en: "Sunday 16 November"
+    es: "Domingo 16 de noviembre"
+  homepage-line2: 
+    en: Trios op.1 no.3 and Archduke
+    es: Tríos op.1 no.3 y Archiduque
+  homepage-more-info-link: false
+
+- 2025-11-16-beethoven3:
+  title: 
+    en: "Berkhamsted Music"
+    es: "Berkhamsted Music"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/berkhamsted-music.svg
+  date-time: 
+    en: Saturday 8 November 2025 - 7:30pm
+    es: Sábado 8 de noviembre 2025 - 19:30h
+  venue: 
+    name: 
+      en: Berkhamsted Civic Centre
+      es: Berkhamsted Civic Centre
+    address: 
+      en: 
+        
+      es:
+  programme: 
+    en: 
+      - "Enrique Fenrández Arbós: 3 original pieces in Spanish style op. 1"
+      - "Joaquín Turina: Trio no. 2 in B minor op. 76"
+      - "Beethoven: Trio op. 97 in B flat, Archduke"
+    es: 
+      - "Enrique Fenrández Arbós: 3 piezas originales en estilo español op. 1"
+      - "Joaquín Turina: Trio no. 2 en Si menor op. 76"
+      - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
+  more-info-link-path: https://www.berkhamstedmusic.co.uk/event/25-11-08-cygnus-trio/
+  homepage-title: 
+    en: "Berkhamsted Music"
+    es: "Berkhamsted Music"
+  homepage-line1: 
+    en: "Saturday 8 November"
+    es: "Sábado 8 de noviembre"
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: true
+
+- 2025-07-19-islington:
+  title: 
+    en: "Islington Festival - Impressions of Iberia"
+    es: "Islington Festival - Impressions of Iberia"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/islington-festival-2-cropped.jpg
+  date-time: 
+    en: Saturday 19 July 2025
+    es: Sábado 19 de julio 2025
+  venue: 
+    name: 
+      en: Christ Church Highbury
+      es: Christ Church Highbury
+    address: 
+      en:
+        - 159 Highbury Grove
+        - London N5 1SA        
+      es:
+  programme: 
+    en: 
+      - "Enrique Fenrández Arbós: 3 original pieces in Spanish style op. 1"
+      - "Joaquín Turina: Trio no. 2 in B minor op. 76"
+      - "Maurice Ravel: Trio in A minor"
+    es: 
+      - "Enrique Fenrández Arbós: 3 piezas originales en estilo español op. 1"
+      - "Joaquín Turina: Trio no. 2 en Si menor op. 76"
+      - "Maurice Ravel: Trio en La menor"
+  more-info-link-path: https://www.islingtonfestival.com/programme2025.html
+  homepage-title: 
+    en: Islington Festival of Music and Arts
+    es: Islington Festival of Music and Arts
+  homepage-line1: 
+    en: "Saturday 19 July"
+    es: "Sábado 19 de julio"
+  homepage-line2: 
+    en: Arbós, Turina and Ravel
+    es: Arbós, Turina y Ravel
+  homepage-more-info-link: true
+
 - 2025-07-13-beethoven2:
   title: 
     en: "Beethoven Cycle - 2"
