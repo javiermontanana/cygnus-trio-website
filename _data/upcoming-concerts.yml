@@ -1,4 +1,46 @@
 
+- 2026-03-12-Aylesbury:
+  title: 
+    en: Aylesbury Lunchtime Concerts
+    es: Aylesbury Lunchtime Concerts
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/aylesbury-lunchtime-concerts-logo.svg
+  date-time: 
+    en: 12 March 2026 - 12:45
+    es: 12 de marzo de 2026 - 12:45
+  venue: 
+    name: 
+     en: St Mary the Virgin, Aylesbury
+     es: St Mary the Virgin, Aylesbury
+    address:
+      en:
+      es:
+  programme: 
+    en:
+      - "Debussy: Trio"
+      - "Tchaikovsky: Trio op. 50"
+    es:
+      - "Debussy: Trio"
+      - "Tchaikovsky: Trio op. 50"
+  more-info-link-path: https://aylesburylunchtimemusic.co.uk/concerts/2026-03-12/
+  homepage-title: 
+    en: Aylesbury Lunchtime Concerts
+    es: Aylesbury Lunchtime Concerts
+  homepage-line1: 
+    en: 12 March
+    es: 12 de enero
+  homepage-line2: 
+    en: Debussy and Tchaikovsky
+    es: Debussy y Tchaikovsky
+  homepage-more-info-link: true
+
+
+
+
+
+
 
 # - 2025-08-21-harrow:
 #   title: 
@@ -45,39 +87,5 @@
 #     es: Beethoven y Mendelssohn
 #   homepage-more-info-link: false
 
-- 2025-08-22-Goodnestone:
-  title: 
-    en: Chichester Cathedral Lunchtime Concerts
-    es: Chichester Cathedral Lunchtime Concerts
-  tagline:
-    en:
-    es:
-  image-path: /images/concerts/chichester-cathedral.jpg
-  date-time: 
-    en: 13 January 2026 - 1:10pm
-    es: 13 de enero de 2026 - 13:10
-  venue: 
-    name: 
-     en: Chichester Cathedral
-     es: Catedral de Chichester
-    address:
-      en:
-      es:
-  programme: 
-    en:
-      - "Beethoven: Trio op. 97 in B flat, Archduke"
-    es:
-      - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
-  more-info-link-path: "https://www.chichestercathedral.org.uk/events/lunchtime-concert-cygnus-trio-piano-trio"
-  homepage-title: 
-    en: Chichester Cathedral 
-    es: Catedral de Chichester
-  homepage-line1: 
-    en: 13 January
-    es: 13 de enero
-  homepage-line2: 
-    en: 
-    es: 
-  homepage-more-info-link: true
 
 
