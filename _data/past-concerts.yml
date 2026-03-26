@@ -1,5 +1,41 @@
 
 
+- 2026-03-12-Aylesbury:
+  title: 
+    en: Aylesbury Lunchtime Concerts
+    es: Aylesbury Lunchtime Concerts
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/aylesbury-lunchtime-concerts-logo.svg
+  date-time: 
+    en: 12 March 2026 - 12:45
+    es: 12 de marzo de 2026 - 12:45
+  venue: 
+    name: 
+     en: St Mary the Virgin, Aylesbury
+     es: St Mary the Virgin, Aylesbury
+    address:
+      en:
+      es:
+  programme: 
+    en:
+      - "Debussy: Trio"
+      - "Tchaikovsky: Trio op. 50"
+    es:
+      - "Debussy: Trio"
+      - "Tchaikovsky: Trio op. 50"
+  more-info-link-path: https://aylesburylunchtimemusic.co.uk/concerts/2026-03-12/
+  homepage-title: 
+    en: Aylesbury Lunchtime Concerts
+    es: Aylesbury Lunchtime Concerts
+  homepage-line1: 
+    en: 12 March
+    es: 12 de enero
+  homepage-line2: 
+    en: Debussy and Tchaikovsky
+    es: Debussy y Tchaikovsky
+  homepage-more-info-link: true
 
 - 2026-01-13-Chichester:
   title: 
