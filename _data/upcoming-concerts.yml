@@ -1,136 +1,172 @@
 
-
-- 2026-06-07-st-marys-perivale:
+- 2026-08-27-harrow:
   title: 
-    en: "St Mary's Perivale"
-    es: "St Mary's Perivale"
+    en: Harrrow Festival
+    es: Festival de Harrow
   tagline:
     en:
     es:
-  image-path: /images/concerts/st-marys-perivale.jpg
+  image-path: /images/concerts/harrow.jpg
   date-time: 
-    en: Sunday 7 June 2026 - 3pm
-    es: Domingo 7 de junio 2026 - 15:00h
+    en: 27 August 2026
+    es: 27 de agosto 2026
   venue: 
     name: 
-      en: St Mary's Perivale
-      es: St Mary's Perivale
-    address: 
-      en: 
-        - Perivale Lane
-        - Perivale UB6 8SS
+     en: St Jonh's Church, Harrow
+     es: St Jonh's Church, Harrow
+    address:
+      en:
+        - Church of St John the Baptist
+        - Sheepcote Road
+        - Harrow HA1 2JE
         - United Kingdom
       es:
-        - Perivale Lane
-        - Perivale UB6 8SS
-        - Reino Unido
+        - Church of St John the Baptist
+        - Sheepcote Road
+        - Harrow HA1 2JE
+        - United Kingdom      
   programme: 
-    en: 
-      - "Suk: Elegy"
-      - "Tchaikovsky: Trio in A minor, op 50"
-    es: 
-      - "Joseph Suk: Elegía"
-      - "Tchaikovsky: Trio en La menor, op. 50"
-
-  more-info-link-path: https://www.st-marys-perivale.org.uk/
+    en:
+      - "Beethoven: Trio op. 97 in B flat, Archduke"
+      - "Shostakovich: Trio no. 2"
+    es:
+      - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
+      - "Shostakovich: Trio no. 2"
+  more-info-link-path: 
   homepage-title: 
-    en: "St Mary's Perivale"
-    es: "St Mary's Perivale"
+    en: "St John's Harrow"
+    es: "St John's Harrow"
   homepage-line1: 
-    en: "Sunday 7 June"
-    es: "Domingo 7 de junio"
+    en: 27 August
+    es: 27 de agosto
   homepage-line2: 
-    en: 
-    es: 
-  homepage-more-info-link: true
+    en: Beethoven and Shostakovich
+    es: Beethoven y Shostakovich
+  homepage-more-info-link: false
 
 
-
-- 2026-07-26-new-west-end-syn:
+- 2026-08-28-Goodnestone:
   title: 
-    en: "New West End Synagogue"
-    es: "New West End Synagogue"
+    en: Goodnestone Music
+    es: Goodnestone Music
   tagline:
     en:
     es:
-  image-path: /images/concerts/lily1.jpg
+  image-path: /images/concerts/goodnestone.jpg
   date-time: 
-    en: Sunday 26 July 2026
-    es: Domingo 26 de julio 2026 
+    en: 28 August 2026
+    es: 28 de agosto 2026
   venue: 
     name: 
-      en: New West End Synagogue, London
-      es: New West End Synagogue, Londres
-    address: 
-      en: 
+     en: Holy Cross Church, Goodnestone
+     es: Holy Cross Church, Goodnestone
+    address:
+      en:
+        - Holy Cross Church
+        - Goodnestone
+        - Kent CT3 1PL
       es:
+        - Holy Cross Church
+        - Goodnestone
+        - Kent CT3 1PL
   programme: 
-    en: 
+    en:
+      - "Beethoven: Trio op. 97 in B flat, Archduke"
       - "Shostakovich: Trio no. 2"
-      - "Mendelssohn: Trio no. 1 in D minor"
-
-    es: 
+    es:
+      - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
       - "Shostakovich: Trio no. 2"
-      - "Mendelssohn: Trio no. 1 in D minor"
-
-  more-info-link-path: false
+  more-info-link-path: "https://www.goodnestonemusic.com/concerts2.html"
   homepage-title: 
-    en: ""
-    es: ""
+    en: Goodnestone Music
+    es: Goodnestone Music
   homepage-line1: 
-    en: "Sunday 26 July"
-    es: "Domingo 26 de Julio"
+    en: "28 August"
+    es: "28 de agosto"
   homepage-line2: 
-    en: 
-    es: 
+    en: Beethoven and Shostakovich
+    es: Beethoven y Shostakovich
   homepage-more-info-link: true
 
 
 
-# - 2025-08-21-harrow:
-#   title: 
-#     en: Harrrow Festival
-#     es: Festival de Harrow
-#   tagline:
-#     en:
-#     es:
-#   image-path: /images/concerts/harrow.jpg
-#   date-time: 
-#     en: 21 August 2025
-#     es: 21 d eagosto 2025
-#   venue: 
-#     name: 
-#      en: St Jonh's Church, Harrow
-#      es: St Jonh's Church, Harrow
-#     address:
-#       en:
-#         - Church of St John the Baptist
-#         - Sheepcote Road
-#         - Harrow HA1 2JE
-#         - United Kingdom
-#       es:
-#         - Church of St John the Baptist
-#         - Sheepcote Road
-#         - Harrow HA1 2JE
-#         - United Kingdom      
-#   programme: 
-#     en:
-#       - "Beethoven: Trio op. 97 in B flat, Archduke"
-#       - "Mendelssohn: Trio no. 1 op. 49 in D minor"
-#     es:
-#       - "Beethoven: Trio op. 97 en Si bemol, Archiduque"
-#       - "Mendelssohn: Trio no. 1 op. 49 en Re menor"
-#   more-info-link-path: 
-#   homepage-title: 
-#     en: "St John's Harrow"
-#     es: "St John's Harrow"
-#   homepage-line1: 
-#     en: 21 August
-#     es: 21 de agosto
-#   homepage-line2: 
-#     en: Beethoven and Mendelssohn
-#     es: Beethoven y Mendelssohn
-#   homepage-more-info-link: false
+- 2026-09-21-witham-urc:
+  title: 
+    en: Witham United Reformed Church
+    es: Witham United Reformed Church
+  tagline:
+    en:
+    es: 
+  image-path: /images/concerts/lily2.jpg
+  date-time: 
+    en: 21 September 2026
+    es: 21 septiembre 2026
+  venue: 
+    name: 
+     en: United Reformed Church, Witham
+     es: United Reformed Church, Witham
+    address:
+      en:
+        - 90 Newland Street
+        - Witham CM8 1AH
+        - United Kingdom
+      es:
+  programme:
+    en: 
+      - "Arensky: Trio no. 1 in D minor"
+      - "Shostakovich: Trio no. 2"
+    es: 
+      - "Arensky: Trio no. 1 en Re menor"
+      - "Shostakovich: Trio no. 2"
+  more-info-link-path:
+  homepage-title: 
+    en: Witham URC
+    es: Witham URC
+  homepage-line1: 
+    en: Monday 21 September - 1pm
+    es: Lunes 21 de septiembre - 13:00
+  homepage-line2: 
+    en: Arensky and Shostakovich
+    es: Arensky y Shostakovich
+  homepage-more-info-link: false  
 
+
+- 2026-09-21-witham-urc:
+  title: 
+    en: Tagoba Theatre, Vila-Real
+    es: Teatro Tagoba, Vila-Real
+  tagline:
+    en:
+    es: 
+  image-path: /images/concerts/lily2.jpg
+  date-time: 
+    en: 27 September 2026
+    es: 27 septiembre 2026
+  venue: 
+    name: 
+     en: Tagoba Theatre, Vila-Real, Castellon, Spain
+     es: Teatro Tagoba, Vila-Real, Castellón
+    address:
+      en:
+
+      es:
+  programme:
+    en: 
+      - "Arensky: Trio no. 1 in D minor"
+      - "Shostakovich: Trio no. 2"
+    es: 
+      - "Arensky: Trio no. 1 en Re menor"
+      - "Shostakovich: Trio no. 2"
+  more-info-link-path:
+  homepage-title: 
+    en: Tagoba Theatre, Vila-Real
+    es: Teatro Tagoba, Vila-Real
+  homepage-line1: 
+    en: Sunday 27 September 
+    es: Domingo 27 de septiembre 
+  homepage-line2: 
+    en: Arensky and Shostakovich
+    es: Arensky y Shostakovich
+  homepage-more-info-link: false  
 
 

@@ -1,5 +1,89 @@
 
 
+
+- 2026-07-26-new-west-end-syn:
+  title: 
+    en: "New West End Synagogue"
+    es: "New West End Synagogue"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/lily1.jpg
+  date-time: 
+    en: Sunday 26 July 2026
+    es: Domingo 26 de julio 2026 
+  venue: 
+    name: 
+      en: New West End Synagogue, London
+      es: New West End Synagogue, Londres
+    address: 
+      en: 
+      es:
+  programme: 
+    en: 
+      - "Shostakovich: Trio no. 2"
+      - "Mendelssohn: Trio no. 1 in D minor"
+
+    es: 
+      - "Shostakovich: Trio no. 2"
+      - "Mendelssohn: Trio no. 1 in D minor"
+
+  more-info-link-path: false
+  homepage-title: 
+    en: ""
+    es: ""
+  homepage-line1: 
+    en: "Sunday 26 July"
+    es: "Domingo 26 de Julio"
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: true
+
+- 2026-06-07-st-marys-perivale:
+  title: 
+    en: "St Mary's Perivale"
+    es: "St Mary's Perivale"
+  tagline:
+    en:
+    es:
+  image-path: /images/concerts/st-marys-perivale.jpg
+  date-time: 
+    en: Sunday 7 June 2026 - 3pm
+    es: Domingo 7 de junio 2026 - 15:00h
+  venue: 
+    name: 
+      en: St Mary's Perivale
+      es: St Mary's Perivale
+    address: 
+      en: 
+        - Perivale Lane
+        - Perivale UB6 8SS
+        - United Kingdom
+      es:
+        - Perivale Lane
+        - Perivale UB6 8SS
+        - Reino Unido
+  programme: 
+    en: 
+      - "Suk: Elegy"
+      - "Tchaikovsky: Trio in A minor, op 50"
+    es: 
+      - "Joseph Suk: Elegía"
+      - "Tchaikovsky: Trio en La menor, op. 50"
+
+  more-info-link-path: https://www.st-marys-perivale.org.uk/
+  homepage-title: 
+    en: "St Mary's Perivale"
+    es: "St Mary's Perivale"
+  homepage-line1: 
+    en: "Sunday 7 June"
+    es: "Domingo 7 de junio"
+  homepage-line2: 
+    en: 
+    es: 
+  homepage-more-info-link: true
+
 - 2026-05-20-hertford:
   title: 
     en: "Hertford Soundbites"
