@@ -7,20 +7,26 @@
     en: Tagoba Theatre, Vila-Real
     es: Teatro Tagoba, Vila-Real
   tagline:
-    en:
-    es: 
-  image-path: /images/concerts/lily1.jpg
+    en: Musical Autumn at the Tagoba
+    es: Tardor Musical a la Tagoba
+  image-path: /images/concerts/tagoba2026.jpg
   date-time: 
-    en: 27 September 2026
-    es: 27 septiembre 2026
+    en: Sunday 27 September - 7:00pm
+    es: Domingo 27 de septiembre - 19:00h
   venue: 
     name: 
      en: Tagoba Theatre, Vila-Real, Castellon, Spain
      es: Teatro Tagoba, Vila-Real, Castellón
     address:
       en:
-
-      es:
+        - Carrer Major Sant Jaume 7
+        - Vila-real
+        - Castellón
+        - Spain
+      es: 
+        - Carrer Major Sant Jaume 7
+        - Vila-real
+        - Castelló
   programme:
     en: 
       - "Arensky: Trio no. 1 in D minor"
@@ -28,16 +34,16 @@
     es: 
       - "Arensky: Trio no. 1 en Re menor"
       - "Shostakovich: Trio no. 2"
-  more-info-link-path:
+  more-info-link-path: https://www.vila-real.es/portal/seccion_interior.jsp?seccion=s_fact_d4_v1.jsp&contenido=74517&tipo=2&nivel=1400&layout=seccion_interior.jsp&codResi=1&language=es&codMenu=1015&codMenuSN=1012&codMenuTN=1013
   homepage-title: 
     en: Tagoba Theatre, Vila-Real
     es: Teatro Tagoba, Vila-Real
   homepage-line1: 
-    en: Sunday 27 September 
-    es: Domingo 27 de septiembre 
+    en: Sunday 27 September - 7:00pm
+    es: Domingo 27 de septiembre - 19:00h
   homepage-line2: 
     en: Arensky and Shostakovich
     es: Arensky y Shostakovich
-  homepage-more-info-link: false  
+  homepage-more-info-link: true  
 
 
